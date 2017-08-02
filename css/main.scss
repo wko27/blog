@@ -60,10 +60,6 @@ $on-laptop:        780px;
 
 }
 
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
 @import
         "normalize",
         "base",
