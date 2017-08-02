@@ -29,6 +29,7 @@ TOMORROW:
 * take stuffs home
 * swing dancing
 * sadness
+* update resume
 
 LEARNED:
 * dropwizard health checks
