@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Away we go!
+title: Departure
 categories: departure code-red medical blog
 ---
 
+TODAY:
 * gum graft surgery in the morning
 * told not to go to work and I should pick up meds and sleep instead
 * 20 minute nap at Safeway to get a bottle of Vicodin, antibiotics, and steroids
@@ -14,9 +15,22 @@ categories: departure code-red medical blog
   * 45 mins: parse data straight from db and send to her
   * 1.5 hours: db integrity check and db fixed
   * 2 hours: tested recovery with Android app and added an automated health check to ensure won't happen again
-* verified that our DUNS number is now accepted by Apple and we move to next stage of acquiring an Apple developer account
+* verified that our DUNS number is now accepted by Apple and we move to next stage of acquiring an iOS developer account
 * took an ex-intern to intern game night at Medallia
 * played 'what do you meme?' and met a bunch of potential recruits
 * dinner was excruciatingly slow; soft tofu and a macaroni soup but I only used left side of mouth
-* made a blog, learned jekyll + github
-* finishing farewell poem
+* made a blog, learned jekyll + github (+ bit of scss copy/pasta)
+* send farewell poem
+
+TOMORROW:
+* party planning stuffs
+* merge last case
+* take meds
+* take stuffs home
+* swing dancing
+* sadness
+
+LEARNED:
+* dropwizard health checks
+* jekyll + github
+* how much I'll miss the recruiting team
