@@ -1,3 +1,6 @@
+=======
+theme: jekyll-theme-minimal
+=======
 #
 # This file contains configuration flags to customize your site
 #
@@ -84,3 +87,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+<<<<<<< HEAD
+=======
+>>>>>>> with style
+>>>>>>> e1f35cc6221c6407a12d57d3898c9032a559a57e
