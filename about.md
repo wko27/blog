@@ -6,13 +6,21 @@ permalink: /about/
 
 ### Info
 
-* Resident in Silicon Valley
+* CMU Alumni
+* Soon to be Medallia Alumni
 * Hobbies
   * classical guitar
   * rock climbing
-  * running
   * ping-pong
-* what is this, a dating profile?
+  * swing dancing
+  * yoga
+  * running
+* Enjoys
+  * puns
+  * poems
+  * pranks
+  * alliteration
+  * bulleted lists
 
 ### Credit
 
