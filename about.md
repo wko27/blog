@@ -8,11 +8,11 @@ permalink: /about/
 
 * Resident in Silicon Valley
 * Hobbies
- * classical guitar
- * rock climbing
- * running
- * ping-pong
- * what is this, a dating profile?
+  * classical guitar
+  * rock climbing
+  * running
+  * ping-pong
+  * what is this, a dating profile?
 
 ### Contact me
 
