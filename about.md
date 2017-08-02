@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+### Information
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+* Resident in Silicon Valley
+* Hobbies
+ * classical guitar
+ * rock climbing
+ * running
+ * ping-pong
+ * what is this, a dating profile?
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+### Contact me
+
+[wko27code@gmail.com](mailto:wko27code@gmail.com)
