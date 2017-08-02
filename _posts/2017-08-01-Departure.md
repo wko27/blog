@@ -33,4 +33,4 @@ TOMORROW:
 LEARNED:
 * dropwizard health checks
 * jekyll + github
-* how much I'll miss the recruiting team
+* how much I'll miss everybody @ Medallia
