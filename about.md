@@ -24,6 +24,6 @@ permalink: /about/
 
 ### Credit
 
-This site is built with <a href="https://github.com/jekyll/jekyll">Jekyll</a> and hosted on <a href="https://github.com/wko27/blog>GitHub</a>
+This site is built with <a href="https://github.com/jekyll/jekyll">Jekyll</a> and hosted on <a href="https://github.com/wko27/blog">GitHub</a>
 
 The theme is <a href="https://github.com/wild-flame/jekyll-simple">Simple</a> by <a href="http://wildflame.me">wildflame</a>
