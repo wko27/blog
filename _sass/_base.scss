@@ -448,3 +448,12 @@ blockquote {
   border-left: 3px solid #D0E5F2;
   font-size: 1.3rem;
 } 
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
