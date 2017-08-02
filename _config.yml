@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: wkoblog
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -24,15 +24,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: wko27/blog
   instagram:
-  linkedin:
+  linkedin: wing-hong-andrew-ko-0190117
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  rss:
+  twitter:
+  stackoverflow:
+  youtube:
+  googleplus:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -87,7 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-<<<<<<< HEAD
-=======
->>>>>>> with style
->>>>>>> e1f35cc6221c6407a12d57d3898c9032a559a57e
