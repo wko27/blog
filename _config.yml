@@ -5,6 +5,7 @@
 name: wkoblog
 description: my blog
 author: Wing-Hong Andrew Ko
+website: http://wko.sh
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -15,7 +16,6 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  website: http://wko.sh
   dribbble:
   email: wko27code@gmail.com
   facebook:
