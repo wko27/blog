@@ -20,11 +20,10 @@ title: Home
           {% else %}
           {{ post.excerpt }}
           {% endif %} 
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> » Read more </a>
         </p> 
       </div>
       <footer class="post_meta">
-
 
         {% if post.location %}
         <span class="author-location">
@@ -33,9 +32,6 @@ title: Home
         </span>
         {% endif %}
 
-        <!--p class="readmore">
-          <a href=""><data data-icon="ei-arrow-right"></data>Read this post</a>
-        </p-->
       </footer>
       <hr/>
     </article>
