@@ -32,4 +32,4 @@ LEARNED:
 * redux
 * not to forget lunch
 
-![veggie soup]({{ site.url }}/assets/img/2017-08-03-soup.jpg){:class="img-responsive"}
+![veggie soup]({{ site.baseurl }}/assets/img/2017-08-03-soup.jpg){:class="img-responsive"}
