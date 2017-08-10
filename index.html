@@ -25,12 +25,12 @@ title: Home
       </div>
       <footer class="post_meta">
 
-        {% if post.location %}
+        {% for location in post.location %}
         <span class="author-location">
           <div data-icon="ei-location"></div>
-          <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
+          <a href="https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
         </span>
-        {% endif %}
+        {% endfor %}
 
       </footer>
       <hr/>
