@@ -20,15 +20,17 @@ title: Home
           {% else %}
           {{ post.excerpt }}
           {% endif %} 
-          
-	  <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> » Read more </a>
-	  
+	</p>
+        <p>
 	  {% for location in post.locations %}
 	  <span class="author-location">
             <div data-icon="ei-location"></div>
             <a href="https://www.google.com/maps/place/{{ location }}">{{ location }}</a>
 	  </span>
 	  {% endfor %}
+	</p>
+	<p>
+	  <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> » Read more </a>
         </p> 
       </div>
       <hr/>
