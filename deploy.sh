@@ -1,4 +1,4 @@
 #!/bin/bash
 
 git add . && git commit -m 'update site' && git push
-rm */*~
+rm -f */*~ 2>/dev/null
