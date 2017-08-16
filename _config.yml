@@ -16,6 +16,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  project: blog
   dribbble:
   email: wko27code@gmail.com
   facebook:
