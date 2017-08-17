@@ -17,7 +17,7 @@ window.onload = function() {
     return;
   }
       
-  var url = button.pageurl;
+  var url = button.getAttribute("data-pageurl");
   button.addEventListener("click", function() {
     submitComment(url);
   }, false);
