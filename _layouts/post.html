@@ -20,6 +20,6 @@ layout: default
     Comment:<br/>
     <textarea name='comment' id='comment' rows="4" cols="80"></textarea><br/>
 
-    <button onclick="submitComment(\"{{ page.id }}\")" type="button">Submit comment</button>
+    <button id='button' pageurl="{{ page.url }}" type="button">Submit comment</button>
   </div>
 </article>
