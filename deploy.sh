@@ -3,7 +3,7 @@
 
 # Do some validation checks
 for post in $( git status | grep modified:.*_posts | sed 's/modified://g' | tr -d '[:space:]' ); do
-    echo "Validating post: $post"
+    echo "-- Validating post: $post"
     expectedTitle=$( echo "${post%.*}" | cut -d '-' -f 4- )
     actualTitle=$( cat "$post" | grep "title" | head -n 1 | sed 's/title: //' )
     if [[ "$expectedTitle" != "$actualTitle" ]]; then
@@ -12,7 +12,14 @@ for post in $( git status | grep modified:.*_posts | sed 's/modified://g' | tr -
     fi
 done
 
+echo "-- Validation complete, pushing"
+
 # Commit and push
 git add . && git commit -m 'update site' && git push
+
+echo "-- Pushed, removing tmp files"
+
 rm -f */*~
 rm -f *~
+
+echo "-- Latest version deployed!"
