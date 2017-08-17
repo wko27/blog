@@ -18,6 +18,7 @@ window.onload = function() {
   }
       
   var url = button.getAttribute("data-pageurl");
+  console.log("url is: " + url);
   button.addEventListener("click", function() {
     submitComment(url);
   }, false);
