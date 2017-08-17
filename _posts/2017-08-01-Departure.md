@@ -43,7 +43,7 @@ and in their struggles growing larger, they had to recruit<br>
 to stellar schools and foreign fields, the search for talent ran<br>
 attract the best, describe the quest, a visionary plan*
 
-the goal: to help these businesses to listen, act, and win<br>
+*the goal: to help these businesses to listen, act, and win<br>
 on feedback from their customers, the concept underpins<br>
 loyalties, relationships for brands consumers trust<br>
 and when it comes to CEM, Medallia is a must*
