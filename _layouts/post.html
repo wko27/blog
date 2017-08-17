@@ -10,12 +10,14 @@ layout: default
   <div class="article-content" itemprop="articleBody">
     {{ page.content }}
   </div>
+  
+  <hr/>
 
   <div class="comment">
-    Name: <input type='text' name='name' id='name' /><br />
+    Name: <input type='text' name='name' id='name' /><br/>
     
     Comment:<br />
-    <textarea name='comment' id='comment'></textarea><br />
+    <textarea name='comment' id='comment' rows="4" columns="250"></textarea><br/>
 
     <button onclick="submitComment({{ page.url }})" type="button">Submit comment</button>
   </div>
