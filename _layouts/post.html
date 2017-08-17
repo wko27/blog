@@ -20,6 +20,7 @@ layout: default
     Comment:<br/>
     <textarea name='comment' id='comment' cols="80"></textarea><br/>
     
-    <button id='button' data-pageurl="{{ page.date | date: "%Y-%m-%d" }}-{{ page.url | remove_first: "/" | remove_last: "/" }}" type="button">submit</button>
+    <!-- Here, we concatenate the date and title so we can later determine which post to attach comments -->
+    <button id='button' data-postid="{{ page.date | date: "%Y-%m-%d" }}-{{ page.title }}" type="button">submit</button>
   </div>
 </article>
