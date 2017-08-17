@@ -1,7 +1,7 @@
 [
   {
-    author: "anonymous",
-    comment: "test comment"
-    date: "2017-08-19"
+    "date": "2017-08-19",
+    "author": "anonymous",
+    "comment": "test comment"
   }
 ]
