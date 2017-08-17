@@ -14,7 +14,7 @@ layout: default
   
   <div class="article-comments">
     Comments for {{ page.id | remove: "/" }}:<p/>
-    {% for comment in site.data.{{ page.id | remove: "/" }} %}
+    {% for comment in site.data.DC %}
     On {{ comment.date}}, {{ comment.author }} said:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
