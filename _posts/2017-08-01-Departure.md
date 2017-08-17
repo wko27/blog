@@ -38,10 +38,12 @@ LEARNED:
 
 My farewell poem:
 
-*many suns and moons ago, a grove of trees took root
+*
+many suns and moons ago, a grove of trees took root
 and in their struggles growing larger, they had to recruit
 to stellar schools and foreign fields, the search for talent ran
-attract the best, describe the quest, a visionary plan*
+attract the best, describe the quest, a visionary plan
+*
 
 the goal: to help these businesses to listen, act, and win
 on feedback from their customers, the concept underpins
