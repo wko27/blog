@@ -3,6 +3,7 @@ function submitComment(post) {
   var name = document.getElementById("name").value || "anonymous";
   var comment = document.getElementById("comment").value;
   var to = "wko27code@gmail.com";
+  console.log("post is: " + post);
   var subject = "[blog-comment]:" + post;
   // base64 encode message body
   var body = btoa(name + ":\n" + comment);
@@ -17,9 +18,9 @@ window.onload = function() {
     return;
   }
       
-  var url = button.getAttribute("data-pageurl");
-  console.log("url is: " + url);
   button.addEventListener("click", function() {
+    var url = button.getAttribute("data-pageurl");
+    console.log("url is: " + url);
     submitComment(url);
   }, false);
 };
