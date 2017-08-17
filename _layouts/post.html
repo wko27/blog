@@ -10,18 +10,18 @@ layout: default
   <div class="article-content" itemprop="articleBody">
     {{ page.content }}
   </div>
-  
   <hr/>
   
+  {% if site.data.{{ page.id }} %}
   <div class="article-comments">
-    Comments for {{ page.id }}:<p/>
-    {% for comment in site.data.{{page.id}} %}
+    Comments for {{ page.id | remove_last: "/" }}:<p/>
+    {% for comment in site.data.{{ page.id | remove_last: "/" }} %}
     On {{ comment.date}}, {{ comment.author }} said:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
   </div>
-  
   <hr/>
+  {% endif }
 
   <div class="comment">
     Name:<br/>
@@ -30,6 +30,6 @@ layout: default
     Comment:<br/>
     <textarea name='comment' id='comment' cols="80"></textarea><br/>
     
-    <button id='button' data-postid="{{ page.id }}" type="button">submit</button>
+    <button id='button' data-postid="{{ page.id | remove_last: "/" }}" type="button">submit</button>
   </div>
 </article>
