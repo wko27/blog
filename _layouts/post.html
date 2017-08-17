@@ -14,11 +14,10 @@ layout: default
   <hr/>
   
   <div class="article-comments">
-    {% for comment in site.data.123 %}
-    On {{ comment.date}}, {{ comment.author }} said:
-    <br>
-    {{ comment.comment }}
-    <p>
+    Comments for {{ page.id }}:<p/>
+    {% for comment in site.data.{{page.id}} %}
+    On {{ comment.date}}, {{ comment.author }} said:<br/>
+    {{ comment.comment }}<p/>
     {% endfor %}
   </div>
   
@@ -31,7 +30,6 @@ layout: default
     Comment:<br/>
     <textarea name='comment' id='comment' cols="80"></textarea><br/>
     
-    <!-- Here, we concatenate the date and title so we can later determine which post to attach comments -->
-    <button id='button' data-postid="{{ page.date | date: "%Y-%m-%d" }}-{{ page.title }}" type="button">submit</button>
+    <button id='button' data-postid="{{ page.id }}" type="button">submit</button>
   </div>
 </article>
