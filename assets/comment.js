@@ -1,5 +1,5 @@
 function submitComment(post) {
-  var name = document.getElementById("name").value;
+  var name = document.getElementById("name").value || "anonymous";
   var comment = document.getElementById("comment").value;
   var to = "wko27code@gmail.com";
   var subject = "[blog-comment]:" + post;
