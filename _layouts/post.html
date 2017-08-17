@@ -13,8 +13,8 @@ layout: default
   <hr/>
   
   <div class="article-comments">
-    Comments for {{ page.id}}:<p/>
-    {% for comment in site.data.{{ page.id }} %}
+    Comments for {{ page.id | remove: "/" }}:<p/>
+    {% for comment in site.data.{{ page.id | remove: "/" }} %}
     On {{ comment.date}}, {{ comment.author }} said:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
