@@ -3,7 +3,7 @@
 
 # Do some validation checks
 for post in $( git status | grep modified:.*_posts | sed 's/modified://g' | tr -d '[:space:]' ); do
-    echo "Verifying post: $post"
+    echo "Validating post: $post"
     expectedTitle=$( echo "${post%.*}" | cut -d '-' -f 4- )
     actualTitle=$( cat "$post" | grep "title" | head -n 1 | sed 's/title: //' )
     if [[ "$expectedTitle" != "$actualTitle" ]]; then
