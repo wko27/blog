@@ -1,7 +1,7 @@
 ---
 layout: post
+unique_id: newjourney
 title: New Journey
-categories: 
 ---
 
 TODAY:
