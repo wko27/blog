@@ -12,14 +12,16 @@ layout: default
   </div>
   <hr/>
   
+  {% if site.data[page.unique_id] %}
   <div class="article-comments">
-    Comments for {{ page.unique_id }}:<p/>
+    Comments:<p/>
     {% for comment in site.data[page.unique_id] %}
     On {{ comment.date}}, {{ comment.author }} said:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
   </div>
   <hr/>
+  {% endif %}
 
   <div class="comment">
     Name:<br/>
