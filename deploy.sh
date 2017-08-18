@@ -23,7 +23,12 @@ done
 echo "-- Validation complete, pushing"
 
 # Commit and push
-git add . && git commit -m 'update site' && git push
+if [[ $# -eq 0 ]]; then
+    commit_msg="update site"
+else
+    commit_msg="$1"
+fi
+git add . && git commit -m "$commit_msg" && git push
 
 echo "-- Pushed, removing tmp files"
 
