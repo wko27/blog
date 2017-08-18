@@ -16,7 +16,7 @@ layout: default
   <div class="article-comments">
     Comments:<p/>
     {% for comment in site.data[page.unique_id] %}
-    On {{ comment.date}}, {{ comment.author }} said:<br/>
+    **{{ comment.author }}** <time class="timeago" datetime="{{ comment.datetime }}">{{ comment.datetime | date_to_long_string  }}</time>:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
   </div>
