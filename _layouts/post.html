@@ -14,7 +14,8 @@ layout: default
   
   {% if site.data[page.unique_id] %}
   <div class="article-comments">
-    {% for comment in site.data[page.unique_id] %}<b>{{ comment.author }}</b>, <span data-livestamp="{{ comment.datetime }}"></span>:<br/>
+    {% for comment in site.data[page.unique_id] %}
+    <span data-livestamp="{{ comment.datetime }}"></span>, <b>{{ comment.author }}</b> posted:<br/>
     {{ comment.comment }}<p/>
     {% endfor %}
   </div>
