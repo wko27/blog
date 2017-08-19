@@ -7,7 +7,7 @@ locations: [Ayden North Carolina, Myrtle Beach South Carolina]
 ---
 
 TODAY:
-* 7 hours to Myrtle Beach, SC
+* 7 hour drive to Myrtle Beach, SC
 * fantastic lunch at Skylight Inn BBQ in Ayden, NC
 * Carolina downpour
 * relax
