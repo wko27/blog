@@ -25,16 +25,13 @@
     $(document).ready(function() {
         $("#button").hover(showTooltip, hideTooltip);
         function showTooltip() {
-            console.log("showing!")
-            var tooltip = $("<div id='tooltip' class='tooltip'>Clicking submit will open an email form!!</div>");
+            var tooltip = $("<div id='tooltip' class='tooltip'>This will open an email form to send comments to!  Refresh the page after ~30 seconds and your comment should appear :)</div>");
             tooltip.appendTo($("#button"));
         }
 
         function hideTooltip() {
-            console.log("hiding!")
             $("#tooltip").fadeOut().remove();
         }
-        console.log("added hover")
     });
   </script>
 </head>
