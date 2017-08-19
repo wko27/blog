@@ -18,9 +18,20 @@
   
   <!-- handle commenting -->
   <script src="{{"/assets/comment.js" | prepend: site.baseurl }}"></script>
-  
-  <!-- handle formatting dates for comments -->
   <script src="{{ "/assets/jquery-3.2.1.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/assets/moment.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/assets/livestamp.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script type="text/javascript">
+    $("#button").hover(showTooltip, hideTooltip);
+
+    function showTooltip() {
+        var tooltip = $("<div id='tooltip' class='tooltip'>Clicking submit will open an email form!!</div>");
+        tooltip.appendTo($("#button"));
+    }
+
+    function hideTooltip() {
+        $("#tooltip").fadeOut().remove();
+    }
+
+  </script>
 </head>
