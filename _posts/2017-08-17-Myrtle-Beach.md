@@ -16,4 +16,4 @@ TODAY:
 
 LEARNINGS:
 * A gilt is a female boar that has not reproduced yet (as opposed to a sow which has)
-* GitHub pages doesn't support non-yaml _data files
+* GitHub pages DOES support non-yaml _data files ... you just have to be patient when changing them
