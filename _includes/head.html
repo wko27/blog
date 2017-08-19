@@ -22,19 +22,19 @@
   <script src="{{ "/assets/moment.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/assets/livestamp.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script type="text/javascript">
-    $("#button").hover(showTooltip, hideTooltip);
+    $(document).ready(function() {
+        $("#button").hover(showTooltip, hideTooltip);
+        function showTooltip() {
+            console.log("showing!")
+            var tooltip = $("<div id='tooltip' class='tooltip'>Clicking submit will open an email form!!</div>");
+            tooltip.appendTo($("#button"));
+        }
 
-    function showTooltip() {
-        console.log("showing!")
-        var tooltip = $("<div id='tooltip' class='tooltip'>Clicking submit will open an email form!!</div>");
-        tooltip.appendTo($("#button"));
-    }
-
-    function hideTooltip() {
-        console.log("hiding!")
-        $("#tooltip").fadeOut().remove();
-    }
-    console.log("added hover")
-
+        function hideTooltip() {
+            console.log("hiding!")
+            $("#tooltip").fadeOut().remove();
+        }
+        console.log("added hover")
+    });
   </script>
 </head>
