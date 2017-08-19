@@ -25,13 +25,16 @@
     $("#button").hover(showTooltip, hideTooltip);
 
     function showTooltip() {
+        console.log("showing!")
         var tooltip = $("<div id='tooltip' class='tooltip'>Clicking submit will open an email form!!</div>");
         tooltip.appendTo($("#button"));
     }
 
     function hideTooltip() {
+        console.log("hiding!")
         $("#tooltip").fadeOut().remove();
     }
+    console.log("added hover")
 
   </script>
 </head>
