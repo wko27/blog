@@ -37,6 +37,8 @@ LEARNED:
 * jekyll + github
 * how much I'll miss everybody @ Medallia
 
+<hr/>
+
 My farewell poem:
 
 *many suns and moons ago, a grove of trees took root<br>
