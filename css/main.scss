@@ -46,6 +46,12 @@ $on-laptop:        780px;
     }
 }
 
+.tooltip {
+  display: block;
+  position: absolute;
+  padding: 5px;
+}
+
 .dont-break-out {
 
   /* Careful, this breaks the word wherever it is without a hyphen */
