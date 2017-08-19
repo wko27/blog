@@ -1,12 +1,14 @@
 #!/bin/python
-# Python script which reads Gmail messages labeled as blog_comment and uploads them to GitHub
+# Python3 script which continuously reads Gmail messages and uploads them to GitHub
 #
-# This is intended to be run from a raspberry pi
+# This script assumes there exists a credentials directory (which is .gitignored) containing:
+# - oauth secret api key
+# - stored oauth access token for the gmail account
+# - GitHub personal access token
 #
-# Need an OAuth credential for Gmail access (this is stored locally)
-# Need to create an ssh key and upload to GitHug as a deploy key to allow programmatic commits
+# This also requires:
+# - google-api-python-client (can install via pip)
 
-from __future__ import print_function
 import httplib2
 import os
 import json
