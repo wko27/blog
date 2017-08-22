@@ -32,7 +32,7 @@ TOMORROW:
 * sadness
 * update resume
 
-LEARNED:
+LEARNINGS:
 * dropwizard health checks
 * jekyll + github
 * how much I'll miss everybody @ Medallia

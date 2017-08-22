@@ -1,6 +1,9 @@
 #!/bin/bash
 # Commit and push all changes
 
+# Move to root of directory
+cd $( git rev-parse --show-toplevel )
+
 # Do some validation checks
 echo "-- Checking unique ids"
 duplicates=$( find _posts/ -name "*.md" -type f -exec grep -m 1 unique_id {} \; | sed 's/unique_id: //g' | sort | uniq -d )

@@ -26,7 +26,7 @@ TOMORROW:
 * should probably add comments/replies to this blog
   * looks like most people use disqus with jekyll, but disqus collects user data ...
 
-LEARNED:
+LEARNINGS:
 * expo
 * react
 * redux
