@@ -90,9 +90,9 @@ def extract_mime_content(mime):
             if content_type == 'text/plain' and 'attachment' not in content_disposition:
                 body = part.get_payload(decode=True)  # decode
                 break
-        # not multipart – i.e. plain text, no attachments, keeping fingers crossed
-        else:
-            body = mime.get_payload(decode=True)
+    # not multipart – i.e. plain text, no attachments, keeping fingers crossed
+    else:
+        body = mime.get_payload(decode=True)
     return str(body, 'utf-8')
 
 def retrieve_parts(message):
