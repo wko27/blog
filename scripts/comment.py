@@ -151,7 +151,7 @@ def upload_to_github(token, contents):
     url = 'https://api.github.com/repos/{}/{}/contents/{}'.format(GITHUB_USERNAME, GITHUB_REPO, comment_path)
     
     comment = {
-        "datetime": datetime.datetime.now().isoformat(),
+        "datetime": datetime.datetime.now(timezone.utc).isoformat(),
         "author": contents['author'],
         "comment": contents['comment'].replace('\r', ''),
     }
