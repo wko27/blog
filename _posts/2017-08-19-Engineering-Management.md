@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: savannah
-title: Savannah
+unique_id: engineering_management
+title: Engineering Management
 categories: [long]
 locations: [Charleson South Carolina, Savannah Georgia]
 ---
