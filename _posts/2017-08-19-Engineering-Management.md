@@ -2,34 +2,7 @@
 layout: post
 unique_id: engineering_management
 title: Engineering Management
-categories: [long]
-locations: [Charleson South Carolina, Savannah Georgia]
 ---
-
-YESTERDAY:
-* wandered around French Quarter of Charleston, SC
-* lunch at Hannibal's Kitchen (salmson sausage rice)
-* visited Fort Sumter
-* light salad for dinner
-* finished Gmail + GitHub integration, comments should now be working!
-* added an RSS feed
-
-TODAY:
-* quick drive to Savannah
-* historic district, lots of fountains and churches
-* Bonaventure Cemetary
-* Sandfly BBQ for lunch
-  * Brunswick stew - spicy, tomato-based stew
-  * pork belly sliders
-* Wormsloe Historic Site
-
-LEARNINGS:
-* svg support for background-image in css doesn't work when rendering text
-  * probably cleaner to just use normal text instead ...
-* how RSS feeds work
-* my legs react very differently than my hands to mosquito bites! (circular rash/bruise after 3 days vs raised bump which vanished in a day, respectively)
-
-<hr/>
 
 One of the common questions asked by candidates during a culture interview is "how has the culture changed over the years?".  In my opinion, the largest shifts in engineering culture occurred due to changes in team structure and management.  The first major change resulted from our decision to split into multiple teams.  The second came from our decision to switch from people managers to technical managers.
 
