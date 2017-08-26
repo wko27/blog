@@ -10,7 +10,7 @@ duplicates=$( find _posts/ -name "*.md" -type f -exec grep -m 1 unique_id {} \; 
 if [[ -n "$duplicates" ]]; then
     echo "Found duplicate unique ids: $duplicates"
     for duplicate in $duplicates; do
-	grep "$duplicate" _posts/*
+	grep "$duplicate" _posts/*.md
     done
     exit 1
 fi
