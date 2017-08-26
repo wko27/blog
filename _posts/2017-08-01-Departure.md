@@ -2,7 +2,7 @@
 layout: post
 unique_id: departure
 title: Departure
-categories: [medical, poem]
+categories: [medical]
 ---
 
 TODAY:
