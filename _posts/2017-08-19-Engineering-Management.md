@@ -75,6 +75,6 @@ A people manager is a manager responsible for allocating resources towards proje
 
 When these responsibilities are split, it's clear that if the tech lead's proposal was not taken, then there were other non-technical factors at play.  When all of these responsibilities fall on one person, it's a higher burden to explain why a particular decision was made.  When the decision maker can not be transparent about why a decision is made, it's very easy for him/her to lose the trust of the team.
 
-I've seen managers that are able to obtain/retain that trust but it's very difficult for every manager in a growing company to hold it.  Lack of trust in a manager quickly leads to all sorts of unhealthy culture issues.
+I've seen managers that are able to obtain/retain that trust but it's very difficult for every manager in a growing company to hold it.  Lack of trust in a manager quickly leads to all sorts of unhealthy culture issues; e.g. people avoiding confrontation (leading to bad technical decisions).
 
 I believe that "trust" is the most correct measure of a manager's effectiveness.  A manager that does not have the trust of his/her superiors is unable to make decisions that are objectively better for the team.  A manager that does not have the trust of the team can not effectively execute on those decisions.

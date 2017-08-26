@@ -3,12 +3,12 @@ layout: post
 unique_id: 
 title: Gatlinburg
 categories: []
-locations: 
+locations: [Gatlinburg Tennesee]
 ---
 
 YESTERDAY:
 * hiked to Andrew's Bald (teehee)
-  * very disappointing, just like I expect it to be in 30 years ...
+  * very disappointing, just like I expect it will be in 30 years
 * short hike to Clingman's Dome
   * highest point in Smoky Mountains
 * hiked to Alum Cave, came back just as the sun was setting
@@ -21,4 +21,4 @@ TODAY:
 * cleaned up intent framework
 
 LEARNINGS:
-* 
+* Gatlinburg is super family-friendly
