@@ -5,7 +5,7 @@ title: Culture Shifts Part 2: Technical vs People Managers
 categories: [long]
 ---
 
-This is part 2 of a post on how [https://wko27.github.io/blog/Team-Split](culture changed within engineering at Medallia).
+This is part 2 of a post on how [culture changed within engineering at Medallia]({% post_url 2017-08-19-Team-Split %})
 
 <hr/>
 

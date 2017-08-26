@@ -22,4 +22,4 @@ TODAY:
 * lots of naps
 
 LEARNINGS:
-* (http://www.aoml.noaa.gov/hrd/tcfaq/C5c.html)[why we don't nuke hurricanes ...]
+* [why we don't nuke hurricanes ...](http://www.aoml.noaa.gov/hrd/tcfaq/C5c.html)
