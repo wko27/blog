@@ -1,7 +1,7 @@
 ---
 layout: post
 unique_id: technical_vs_people_mgr
-title: Technical vs People Managers
+title: Culture Shifts Part 2: Technical vs People Managers
 categories: [long]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 unique_id: team_split
-title: Team Split
+title: Culture Shifts Part 1: Team Split
 categories: [long]
 ---
 
