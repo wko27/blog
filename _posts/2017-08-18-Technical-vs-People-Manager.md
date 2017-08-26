@@ -5,7 +5,7 @@ title: Culture Shifts - Technical vs People Managers
 categories: [long]
 ---
 
-This is part 2 of a post on how [culture changed within engineering at Medallia]({{ site.baseurl }}/blog/2017-08-14-Team-Split).
+This is part 2 of a post on how [culture changed within engineering at Medallia]({{ site.baseurl }}/2017-08-14-Team-Split).
 
 <hr/>
 

@@ -5,7 +5,7 @@ title: Culture Shifts - Team Split
 categories: [long]
 ---
 
-One of the common questions asked by candidates during a culture interview is "how has the culture changed over the years?".  In my opinion, the largest shifts in engineering culture occurred due to changes in team structure and management.  The first major change resulted from our decision to split into multiple teams.  The second came from our decision to switch from people managers to technical managers (which I'll cover in [this blog post]({{ site.baseurl }}/blog/Technical-vs-People-Manager)).
+One of the common questions asked by candidates during a culture interview is "how has the culture changed over the years?".  In my opinion, the largest shifts in engineering culture occurred due to changes in team structure and management.  The first major change resulted from our decision to split into multiple teams.  The second came from our decision to switch from people managers to technical managers (which I'll cover in [this blog post]({{ site.baseurl }}/Technical-vs-People-Manager)).
 
 <hr/>
 
@@ -41,4 +41,4 @@ To clarify, many of these issues were anticipated before we split into teams.  A
 
 Inevitably with growth, splitting into teams becomes a necessity in order to protect and focus people/teams/resources.  However, it comes with a loss of ownership and impact for individual contributors.  With one team, the customer of each developer is the product team and by extension: our customers, or sales/marketing, or product support.  Withsplit teams, one should be clear that other teams are also customers and adjust goals/metrics/priorities accordingly.
 
-[Continue to part 2]({{ site.baseurl }}/blog/Technical-vs-People-Manager)!
+[Continue to part 2]({{ site.baseurl }}/Technical-vs-People-Manager)!
