@@ -7,7 +7,6 @@ title: Daily
   <div class="post-list">
 
     {% for post in site.daily limit:10%}
-
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
