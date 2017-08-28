@@ -6,8 +6,3 @@ categories: []
 locations: 
 ---
 
-TODAY:
-* 
-
-LEARNINGS:
-* 
