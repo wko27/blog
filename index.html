@@ -6,10 +6,11 @@ title: Home
 <div class="home">
   <div class="post-list">
     
-    {% for post in site.daily limit:1 reversed  %}
+    {% assign sorted = (site.daily | sort: 'date') | reverse %}
+    {% for post in sorted limit:1 %}
     <article class="post_card post">
       <header class="post_header">
-        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">Daily Update: {{ post.title}}</a></h2>
         <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
       <div class="post_excerpt">
@@ -35,8 +36,7 @@ title: Home
       <hr/>
     </article>
     {% endfor %}
-
-
+    
     {% for post in site.posts limit:10 %}
     <article class="post_card post">
       <header class="post_header">
