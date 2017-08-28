@@ -2,7 +2,7 @@
 layout: post
 unique_id: farewell_poem
 title: Farewell Poem
-categories: [poem]
+categories: [poems]
 ---
 
 My farewell poem to Medallia:
