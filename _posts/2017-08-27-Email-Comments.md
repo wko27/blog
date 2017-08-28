@@ -12,12 +12,16 @@ A while ago, I was exploring options for adding comments to this blog.  Disqus i
 
 Basically, we need two things:
 1. Blog needs a **comment box** that sends an email to my Gmail
-2. Need to periodically (once every few seconds), run a Python script that reads from Gmail and uploads to GitHub repository
-3. Blog needs to show a **list** that reads from a comments directory in my GitHub repository
+2. Need to periodically **read comments** from Gmail and **upload them to GitHub**
+3. Blog needs to **list** those comments
 
 To accomplish item 1, we just need an HTML form, and a button which triggers some javascript.  That javascript will open a mailto link which will have the comment all ready to be sent to my Gmail inbox.  The HTML form is in the comment div [here](https://github.com/wko27/blog/blob/master/_layouts/post.html).  The javascript code is [here](https://github.com/wko27/blog/blob/master/assets/comment.js).
 
-For item 2, there's a bit of complexity since we need to mark that we've already uploaded the comment for a particular email to avoid re-processing the same comment over and over again.  To do this, we'll use a Gmail label; so first we configure our Gmail account to label all incoming mail with a '[blog-comment]'-prefixed subject as 'needs_updating'.  Then, in our script, we read all messages with that label, upload them, and remove the label.  The Python code for this is [here](https://github.com/wko27/blog/blob/master/scripts/comment.py).  Note that you'll need to generate an OAuth key and an access token for the Gmail account.  Please follow [this tutorial](https://developers.google.com/gmail/api/quickstart/python) to get those!  You'll also need a [GitHub API token](https://github.com/blog/1509-personal-api-tokens).  Also, you'll have to run this somewhere; I used an AWS EC2 instance but you can also get it started on a raspberry pi.  Feel free to leave a comment (har har har) if you need help with this!
+For item 2, we're going to use a Python script and run it on either AWS EC2, or a raspberry pi.  We'll be using the [Gmail API](https://developers.google.com/gmail/api/) to read emails and [GitHub API](https://developer.github.com/v3/) to upload the comments.  The Python code for this is [here](https://github.com/wko27/blog/blob/master/scripts/comment.py).
+
+There's a bit of complexity since we need to mark that we've already uploaded the comment for a particular email to avoid re-processing the same comment over and over again.  To do this, we'll use a Gmail label; so first we configure our Gmail account to label all incoming mail with a '[blog-comment]'-prefixed subject as 'needs_updating'.  Then, in our script, we read all messages with that label, upload them, and remove the label.  
+
+Note that you'll need to generate an OAuth key and an access token for the Gmail account.  Please follow [this tutorial](https://developers.google.com/gmail/api/quickstart/python) to get those!  You'll also need a [GitHub API token](https://github.com/blog/1509-personal-api-tokens).
 
 For item 3, we just need a bit of Jekyll/Liquid templating code to display those comments.  The code for this is in the 'article-comments' div [here](https://github.com/wko27/blog/blob/master/_layouts/post.html).  I used [livestamp.js](https://mattbradley.github.io/livestampjs/) to display timestamps a bit more nicely.  It requires jquery.js and moment.js so those are added to my [head.html](https://github.com/wko27/blog/blob/master/_includes/head.html).
 
@@ -25,6 +29,8 @@ Lastly, I wanted a little tooltip on the submit button to inform users that the 
 
 Tada, simple email commenting system, plus:
 * Comment feed comes straight through your inbox
-* Gmail itself can filter spam email accounts
-* Super easy to do reply privately to public comments
-* Uers can send private messages via email by just clearing the subject line prefix (I may add a button for that)
+* Gmail itself can filter spam
+* Super easy to reply privately to public comments
+* Users can send private messages via email by just clearing the subject line prefix (I may add a button for that)
+
+Feel free to leave a comment (har har har) if you need help with this!
