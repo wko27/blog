@@ -6,7 +6,7 @@ title: Home
 <div class="home">
   <div class="post-list">
     
-    {% for post in site.daily reversed limit:1 %}
+    {% for post in site.daily limit:1 reversed  %}
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
