@@ -1,0 +1,42 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+  <div class="post-list">
+
+    {% for post in site.daily limit:10%}
+
+    <article class="post_card post">
+      <header class="post_header">
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      </header>
+      <div class="post_excerpt">
+        <p>
+	  {% for location in post.locations %}
+	  <span class="author-location">
+            <div data-icon="ei-location"></div>
+            <a href="https://www.google.com/maps/place/{{ location }}">{{ location }}</a>
+	  </span>
+	  {% endfor %}
+	</p>
+        <p>
+          {% if post.description %}
+          {{ post.description}}
+          {% else %}
+          {{ post.excerpt }}
+          {% endif %} 
+	</p>
+	<p>
+	  <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> » Read more </a>
+        </p> 
+      </div>
+      <hr/>
+    </article>
+    {% endfor %}
+
+    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
+  </div>
+</div>
