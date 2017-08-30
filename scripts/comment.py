@@ -8,6 +8,10 @@
 #
 # This also requires:
 # - google-api-python-client (can install via pip)
+#
+# TODO:
+# - add signature parsing so we retain only the body of the message
+#   brief testing with mailgun's open source talon piece ... showed that it didn't work <.<
 
 import httplib2
 import os
@@ -114,7 +118,7 @@ def retrieve_parts(message):
     subject = mime_msg['Subject']
     post_id = subject[len('[blog-comment]:'):]
 
-    from_email = mime_msg['From']
+    from_email = email.utils.parseaddr(mime_msg['From'])[1]
     
     return {
         "post_id": post_id,
@@ -144,7 +148,7 @@ def upload_to_github(token, contents):
         'message': "new comment for " + contents['post_id'],
         'author': {
             "name": contents['author'],
-            "email": email.utils.parseaddr(contents['email'])[1],
+            "email": contents['email']
         }
     }
     comment_path = '_data/{}.json'.format(contents['post_id'])
