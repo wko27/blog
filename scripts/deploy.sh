@@ -6,7 +6,7 @@ cd $( git rev-parse --show-toplevel )
 
 # Do some validation checks
 echo "-- Checking unique ids"
-duplicates=$( find _posts/ -name "*.md" -type f -exec grep -m 1 unique_id {} \; | sed 's/unique_id: //g' | sort | uniq -d )
+duplicates=$( find _posts/ _daily -name "*.md" -type f -exec grep -m 1 unique_id {} \; | sed 's/unique_id: //g' | sort | uniq -d )
 if [[ -n "$duplicates" ]]; then
     echo "Found duplicate unique ids: $duplicates"
     for duplicate in $duplicates; do
@@ -15,7 +15,7 @@ if [[ -n "$duplicates" ]]; then
     exit 1
 fi
 
-for post in $( git status | grep modified:.*_posts | sed 's/modified://g' | xargs -n1 echo ); do
+for post in $( git status | grep modified:.*.md | sed 's/modified://g' | xargs -n1 echo ); do
     echo "-- Validating post: $post"
     if ! cat "$post" | grep -q "unique_id"; then
 	echo "Missing unique_id for $post"

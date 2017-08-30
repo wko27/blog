@@ -167,8 +167,8 @@ def upload_to_github(token, contents):
             raise AssertionError("Failed to create _data/{}, put request recieved {} error code:\n{}".format(contents['post_id'], r.status_code, r.text))
     elif r.status_code == 200:
         # Append to existing file
-        git_file_contents = json.loads(r.content)
-        existing = json.loads(base64.b64decode(git_file_contents['content']))
+        git_file_contents = json.loads(r.content.decode('utf-8'))
+        existing = json.loads(base64.b64decode(git_file_contents['content']).decode('utf-8'))
         existing.append(comment)
         
         payload['content'] = base64.b64encode(json.dumps(existing).encode('utf-8')).decode('utf-8')
