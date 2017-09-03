@@ -14,10 +14,6 @@ YESTERDAY:
 * yoga
 * target run
 
-Let's see if this works:
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1r4joOs7kYdL5frTcxkG9QppmtyA" width="640" height="480"></iframe>
-
 TODAY:
 * 
 
