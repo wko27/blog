@@ -15,7 +15,8 @@ YESTERDAY:
 * target run
 
 TODAY:
-* not much ...
+* tested out my new Yi 4k+ accessories
+* installed my new dashcam mount (and then re-installed it to minimize obstructing my view)
 
 LEARNINGS:
 * new yoga pose!
