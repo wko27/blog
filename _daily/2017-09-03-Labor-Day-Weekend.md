@@ -15,7 +15,7 @@ YESTERDAY:
 * target run
 
 TODAY:
-* 
+* not much ...
 
 LEARNINGS:
 * new yoga pose!
