@@ -20,3 +20,5 @@ else
 fi
 
 emacs "$new_post"
+
+echo "Created: $new_post"

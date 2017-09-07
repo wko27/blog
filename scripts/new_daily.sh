@@ -20,3 +20,5 @@ else
 fi
 
 emacs "$new_daily"
+
+echo "Created: $new_daily"
