@@ -15,7 +15,7 @@ if [[ -n "$duplicates" ]]; then
     exit 1
 fi
 
-for post in $( git status | grep modified:.*\(daily\|posts\).*.md | sed 's/modified://g' | xargs -n1 echo ); do
+for post in $( git status | grep 'modified:.*\(daily\|posts\).*.md' | sed 's/modified://g' | xargs -n1 echo ); do
     echo "-- Validating post: $post"
     if ! cat "$post" | grep -q "unique_id"; then
 	echo "Missing unique_id for $post"
