@@ -7,7 +7,7 @@ permalink: /about/
 ### Info
 
 * CMU Alumni
-* Soon to be Medallia Alumni
+* Medallia Alumni
 * Hobbies
   * classical guitar
   * rock climbing
