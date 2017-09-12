@@ -17,7 +17,8 @@ fi
 
 for post in $( git status | grep 'modified:.*\(daily\|posts\).*.md' | sed 's/modified://g' | xargs -n1 echo ); do
     echo "-- Validating post: $post"
-    if ! cat "$post" | grep -q "unique_id"; then
+    uniqueId=$( cat "$post" | grep 'unique_id' | sed 's/.*unique_id:\(.*\)/\1/' | tr -d '[:space:]' )
+    if [[ -z "$uniqueId" ]]; then
 	echo "Missing unique_id for $post"
 	exit 1
     fi
@@ -31,6 +32,7 @@ if [[ $# -eq 0 ]]; then
 else
     commit_msg="$1"
 fi
+
 git add . && git commit -m "$commit_msg" && git push
 
 echo "-- Pushed, removing tmp files"
