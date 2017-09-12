@@ -9,7 +9,8 @@ locations:
 YESTERDAY:
 * coding interview!
 * finished a jigsaw puzzle
-* found a poetry contest in Cupertino!
+* visited Cupertino's public library
+  * found a poetry contest!
 
 TODAY:
 * built a website and a jersey servlet to handle user registration
