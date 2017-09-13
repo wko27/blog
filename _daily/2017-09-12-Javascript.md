@@ -18,6 +18,6 @@ TODAY:
 
 LEARNINGS:
 * re-learned how closures work in js
-* (props vs state)[https://github.com/uberVU/react-guide/blob/master/props-vs-state.md]
+* [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
 
