@@ -8,9 +8,11 @@ locations:
 
 Raw notes from learning react/redux.  [React tutorial](https://facebook.github.io/react/tutorial/tutorial.html#getting-started) and [Redux example](http://redux.js.org/docs/basics/) were great starting points :)
 
-react
+# react
 
 react is a javascript framework that lets you create interactive views by 'declaring' how a UI component should be rendered
+
+## glossary
 
 * component
   * takes in properties and state and renders views or other components
@@ -39,9 +41,9 @@ react is a javascript framework that lets you create interactive views by 'decla
 * container component
   * a component that handles state and behaviors
 
-redux
+# redux
 
-redux is a javascript framework that manages state in a complex app:
+**redux** is a javascript framework that manages state in a complex app:
 * the only way to change state is to 'dispatch' an 'action'
 * the change itself is handled by a reducing function (old state + action = new state)
 
@@ -49,6 +51,8 @@ a few other principles:
 * state is stored in a global javascript object
 * state is immutable (shallow copies everywhere)
 * reducing functions are pure (side-effect free and deterministic)
+
+## glossary
 
 * action
   * javascript object that contains a 'type' and 'payload'
@@ -73,7 +77,7 @@ a few other principles:
 * mapStateToProps
   * function which takes in state and returns the properties for a presentational component
   * passed as an argument to 'connect'
-* *mapDispatchToProps*
+* **mapDispatchToProps**
   * function which takes in dispatch and returns callback properties for a presentational component
   * passed as an argument to 'connect'
 
