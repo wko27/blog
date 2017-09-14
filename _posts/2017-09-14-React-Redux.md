@@ -6,7 +6,7 @@ categories: []
 locations: 
 ---
 
-Raw notes from learning react/redux.  (React tutorial)[https://facebook.github.io/react/tutorial/tutorial.html#getting-started] and (Redux example)[http://redux.js.org/docs/basics/] were great starting points :)
+Raw notes from learning react/redux.  [React tutorial](https://facebook.github.io/react/tutorial/tutorial.html#getting-started) and [Redux example](http://redux.js.org/docs/basics/) were great starting points :)
 
 react
 
