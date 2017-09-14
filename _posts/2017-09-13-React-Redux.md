@@ -52,7 +52,7 @@ a few other principles:
 * state is immutable (shallow copies everywhere)
 * reducing functions are pure (side-effect free and deterministic)
 
-## glossary
+### glossary
 
 * **action**
   * javascript object that contains a 'type' and 'payload'
