@@ -178,7 +178,7 @@ But this would be annoying since exposing a new constant requires modifying pote
 export * from moduleA
 ```
 
-Now if moduleC can import **foo** from moduleB using one of our import syntaxes:
+Now if moduleD can import **foo** from moduleB using one of our import syntaxes:
 
 ```
 import { foo } from moduleB
