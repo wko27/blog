@@ -36,13 +36,16 @@ export let baz = "baz"
 export var qux = "bah humbug"
 ```
 
-If you prefer instead to list out all exported objects at the end, you can do it like this:
+If you prefer instead to list out all exported objects at the end of a module, you can do it like this:
 
 ```
 function foo() {
   // code here
 }
 const bar = "bar"
+
+// more code here ...
+
 export { foo, bar }
 ```
 
@@ -50,46 +53,63 @@ You can use these syntaxes to export any **named** variable.
 
 ### Basic imports
 
-So, if moduleA.js exports **foo**, how does moduleB.js import it?  The most basic way is:
+So, if moduleA exports **foo**, how does moduleB import it?
+
+Import statements must be declared at the top of a module.  The most basic way to import **foo** into moduleB is:
 
 ```
 import { foo } from moduleA
 ```
 
-If moduleA.js exports multiple objects like:
+With this syntax, if moduleA exports multiple objects, moduleB can selectively choose which objects to import.  Suppose moduleA exposes **foo**, **bar**, and **baz**:
 
 ```
 function foo() {
   // code here
 }
 const bar = "bar"
-export { foo, bar }
+const baz = "baz"
+export { foo, bar, baz }
 ```
 
-Then, moduleB.js can import all of them via:
+If moduleB only wants **foo** and **bar** from moduleA, we can use:
+
 ```
 import { foo, bar } from moduleA
 ```
 
-### Renaming Imports and Exports
+### Star Imports
 
-However, what if moduleA and moduleA2 both expose **foo** function and moduleB wants to import both?  The import syntax gives us a few options for handling this.  The simplest is providing a namespace prefix for all objects imported from each module:
+What if we wanted to import all functions from moduleA into moduleB?  We can use the **\*** operator:
 
 ```
 import * as A from moduleA
-import * as A2 from moduleA2
 ```
 
-We can then reference **A.foo** and **A2.foo** in moduleB.
+Now, **foo**, **bar**, and **baz** can be referenced within moduleB as **A.foo**, **A.bar**, and **A.baz**, respectively.  We've prefixed all exported objects from moduleA with a **namespace**.
 
-However, this means we have to import all exported functions from A and A2 which may be undesirable.  Another way to handle the naming conflict is to **rename** using the **as** keyword on import:
+The **namespace** concept is quite handy!
+
+What if moduleA and moduleC both expose **foo** function and moduleB wants to import both?
+```
+import * as A from moduleA
+import * as C from moduleC
+```
+
+We can then reference **A.foo** and **C.foo** in moduleB.
+
+### Renaming Imports
+
+However, this **\*** syntax means we have to import all exported functions from A and C which may be undesirable.  Another way to handle the naming conflict is to **rename** using the **as** keyword on import:
 
 ```
 import { foo as Afoo } from moduleA
-import { foo as A2foo } from moduleB
+import { foo as Cfoo } from moduleC
 ```
 
-We can then reference **Afoo** and **A2foo** in moduleB.
+We can then reference **Afoo** and **Cfoo** within moduleB.
+
+### Renaming Exports
 
 One might wonder, if we can do renames on imports, can we do renames on exports?  Why yes we can!  ModuleA can rename its own exports:
 
@@ -107,7 +127,7 @@ import { Afoo } from moduleA
 
 A common pattern is for a single file to only export a single object (usually a function or class).  For this case, ES6 added the **default** keyword.
 
-For this example, we'll assume moduleA wants to export function **foo** and moduleB wants to import it.  In moduleA, we can use a default export:
+For this example, we'll assume moduleA wants to export function **foo** and moduleB wants to import it.  In moduleA, we'll use a **default** export:
 
 ```
 export default function foo() {
@@ -115,17 +135,27 @@ export default function foo() {
 };
 ```
 
-In moduleB, we can now use a default import:
+In moduleB, we can now use a **default** import:
 
 ```
-import newnameforfoo from moduleA
+import foo from moduleA
 ```
 
-Note that this syntax allows the importer to choose any name for the default imported object!
+We can now reference **foo** within moduleB.
 
-### Star Imports
+There are two differences from the basic import syntax.  First, we don't need the curly brace {} operators.  Second, we can actually name the imported object whatever we want in moduleB.
 
-Lastly, another common use case is to export all imported objects from several modules (accumulator pattern).  We can use the **\*** keyword to do this:
+Another valid import statement could be:
+
+```
+import bar from moduleA
+```
+
+Now, the function defined as **foo** in moduleA is referenced a **bar** in moduleB!
+
+### Star Exports
+
+Lastly, a common use case is to export all imported objects from several modules (accumulator pattern).  We can use the **\*** keyword to do this:
 
 Let's assume moduleA wants to export several constants and moduleB wants to re-export them all.  Then moduleA would have:
 
@@ -142,10 +172,16 @@ import { foo, bar, baz } from moduleA
 export { foo, bar, baz }
 ```
 
-But this would be annoying since adding a new constant means modifying many files.  The **\*** syntax lets us re-write moduleB as:
+But this would be annoying since exposing a new constant requires modifying potentially many files.  The **\*** syntax lets us re-write moduleB as:
 
 ```
 export * from moduleA
+```
+
+Now if moduleC can import **foo** from moduleB using one of our import syntaxes:
+
+```
+import { foo } from moduleB
 ```
 
 Much more clean :)
