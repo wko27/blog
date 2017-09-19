@@ -8,11 +8,11 @@ locations:
 
 A brief tutorial on import and export statements in ES6.
 
+In ES6, a **module** is a piece of code isolated into a single file.  All functions and state within a module are local to the module unless they are marked for **export**.  Modules can import objects from other modules via **import** statements.  Lastly, each module is itself a singleton.  Multiple imports of a module do **not** create multiple instances of that module.
+
 # Basic exports
 
-In ES6, we can only import objects that other modules export.
-
-The simplest way to export an object is simply to prefix it with **export** upon declaration.  For example, if we have a function:
+The simplest way to export an object from a module is simply to prefix it with **export** upon declaration.  For example, if we have a function:
 
 ```
 function foo() {
@@ -187,3 +187,5 @@ import { foo } from moduleB
 Much more clean :)
 
 That's all there is to imports and exports in ES6!
+
+For more reading on the history of modules, check out [this link](http://exploringjs.com/es6/ch_modules.html#sec_modules-in-javascript).
