@@ -36,7 +36,7 @@ export let baz = "baz"
 export var qux = "bah humbug"
 ```
 
-If you prefer instead to list out all exported objects at the end of a module, you can do it like this:
+If you prefer instead to list out all exported objects at the end of a module, we can use this syntax:
 
 ```
 function foo() {
@@ -152,6 +152,50 @@ import bar from moduleA
 ```
 
 Now, the function defined as **foo** in moduleA is referenced a **bar** in moduleB!
+
+There are a few special requirements to the **default** export syntax:
+
+1. we can only have one default export in a module
+2. **export default** syntax actually creates a variable named **default**
+  * this prevents us from using **export default** syntax on types where more than one variable can be defined on a single line
+3. you can mix default exports with normal exports
+4. you can use the **as** operator to specify the default export
+
+Item 3 may seem a bit confusing.  The idea is, we can declare multiple constants in a single line of code:
+
+```
+const a, b, c
+```
+
+What would it mean if we added the **export default** keyword to that line?
+
+```
+export default const a, b, c
+```
+
+For this reason, **named** constants and variables can not be declared via the **export default** syntax.  Instead, one could explicitly choose one via e.g.:
+
+```
+export { a as default }
+```
+
+Note that functions and classes are exempt from this rule since you can not define multiple functions or classes in a single line.
+
+For an example of item 4.  If we want the default export to be **foo** but also expose **bar**, we can have:
+
+```
+export default function foo() {
+  // code
+}
+
+export const bar = "bar"
+```
+
+For an example of item 5:
+
+```
+export { foo as default, bar }
+```
 
 ### Star Exports
 
