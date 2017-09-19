@@ -10,13 +10,13 @@ A brief tutorial on import and export statements in ES6.
 
 # Basic exports
 
-First, we should talk about what we're able to import.  In ES6, we can only import objects that other modules export.
+In ES6, we can only import objects that other modules export.
 
 The simplest way to export an object is simply to prefix it with **export** upon declaration.  For example, if we have a function:
 
 ```
-function myFunc() {
-  console.log("x");
+function foo() {
+  // code
 }
 ```
 
@@ -31,9 +31,9 @@ export function foo() {
 Similarly for constants and variables:
 
 ```
-export const bar = "baz"
-export let bar2 = "baz2"
-export var bar3 = "bah humbug"
+export const bar = "bar"
+export let baz = "baz"
+export var qux = "bah humbug"
 ```
 
 If you prefer instead to list out all exported objects at the end, you can do it like this:
@@ -42,7 +42,7 @@ If you prefer instead to list out all exported objects at the end, you can do it
 function foo() {
   // code here
 }
-const bar = "baz"
+const bar = "bar"
 export { foo, bar }
 ```
 
@@ -62,7 +62,7 @@ If moduleA.js exports multiple objects like:
 function foo() {
   // code here
 }
-const bar = "baz"
+const bar = "bar"
 export { foo, bar }
 ```
 
