@@ -6,7 +6,7 @@ categories: []
 locations: 
 ---
 
-# ES6 import and export syntax
+A brief tutorial on import and export statements in ES6.
 
 # Basic exports
 
@@ -142,7 +142,7 @@ import { foo, bar, baz } from moduleA
 export { foo, bar, baz }
 ```
 
-But this would be annoying since adding a new constant means modifying many files.  The \* syntax lets us re-write moduleB as:
+But this would be annoying since adding a new constant means modifying many files.  The **\*** syntax lets us re-write moduleB as:
 
 ```
 export * from moduleA
