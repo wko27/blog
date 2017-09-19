@@ -2,7 +2,7 @@
 layout: post
 unique_id: es6_import_export
 title: ES6 Import Export
-categories: []
+categories: [javascript]
 locations: 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 unique_id: react_redux
 title: React-Redux
-categories: []
+categories: [javascript]
 locations: 
 ---
 
