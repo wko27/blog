@@ -8,11 +8,14 @@ locations:
 
 A brief tutorial on import and export statements in ES6.
 
-In ES6, a **module** is a piece of code isolated into a single file.  All functions and state within a module are local to the module unless they are marked for **export**.  Modules can import objects from other modules via **import** statements.  Lastly, each module is itself a singleton.  Multiple imports of a module do **not** create multiple instances of that module.
+In ES6, a **module** is a piece of code isolated into a single file:
+* All functions and state within a module are local to the module unless they are marked for **export**
+* Modules can import objects from other modules via **import** statements
+* Each module is itself a singleton, i.e. multiple imports of a module do **not** create multiple instances of that module
 
-# Basic exports
+# Basic Exports
 
-The simplest way to export an object from a module is simply to prefix it with **export** upon declaration.  For example, if we have a function:
+The simplest way to export an object from a module is simply to prefix it with **export** upon declaration.  For example, if we have a function **foo**:
 
 ```
 function foo() {
@@ -20,7 +23,7 @@ function foo() {
 }
 ```
 
-To export it, we simply do:
+We can export it with the **export** keyword:
 
 ```
 export function foo() {
@@ -51,7 +54,7 @@ export { foo, bar }
 
 You can use these syntaxes to export any **named** variable.
 
-### Basic imports
+### Basic Imports
 
 So, if moduleA exports **foo**, how does moduleB import it?
 
@@ -60,6 +63,8 @@ Import statements must be declared at the top of a module.  The most basic way t
 ```
 import { foo } from moduleA
 ```
+
+Now, we can use function **foo** from within moduleB.
 
 With this syntax, if moduleA exports multiple objects, moduleB can selectively choose which objects to import.  Suppose moduleA exposes **foo**, **bar**, and **baz**:
 
@@ -72,11 +77,13 @@ const baz = "baz"
 export { foo, bar, baz }
 ```
 
-If moduleB only wants **foo** and **bar** from moduleA, we can use:
+If moduleB only wants **foo** and **bar** from moduleA, we can write:
 
 ```
 import { foo, bar } from moduleA
 ```
+
+Now, we can use both **foo** and **bar** within moduleB.
 
 ### Star Imports
 
@@ -97,6 +104,8 @@ import * as C from moduleC
 ```
 
 We can then reference **A.foo** and **C.foo** in moduleB.
+
+Similarly, if moduleB has its own **foo** function too, the namespace lets us distinguish between moduleB's **foo** and an imported **foo**.
 
 ### Renaming Imports
 
@@ -123,11 +132,13 @@ Then, moduleB would import as:
 import { Afoo } from moduleA
 ```
 
+This can be handy if you want to expose a formal name but keep a shorthand or concise name within the module.
+
 ### Default Imports and Exports
 
 A common pattern is for a single file to only export a single object (usually a function or class).  For this case, ES6 added the **default** keyword.
 
-For this example, we'll assume moduleA wants to export function **foo** and moduleB wants to import it.  In moduleA, we'll use a **default** export:
+For example, assume moduleA wants to export function **foo** and moduleB wants to import it.  In moduleA, we'll use a **default** export:
 
 ```
 export default function foo() {
@@ -161,7 +172,9 @@ There are a few special requirements to the **default** export syntax:
 3. you can mix default exports with normal exports
 4. you can use the **as** operator to specify the default export
 
-Item 3 may seem a bit confusing.  The idea is, we can declare multiple constants in a single line of code:
+Item 1 should hopefully make sense.  We can't have two different default objects exported since it gets assigned to one reference when we import.
+
+Item 2 may seem a bit confusing.  The issue is that in ES6, we can declare multiple constants in a single line of code:
 
 ```
 const a, b, c
@@ -173,7 +186,9 @@ What would it mean if we added the **export default** keyword to that line?
 export default const a, b, c
 ```
 
-For this reason, **named** constants and variables can not be declared via the **export default** syntax.  Instead, one could explicitly choose one via e.g.:
+By Item 1, only one of them can be default, but it's unclear which one should be default.
+
+For this reason, **named** constants and variables can not be declared via the **export default** syntax.  Instead, one could explicitly choose one via item 4:
 
 ```
 export { a as default }
@@ -181,7 +196,7 @@ export { a as default }
 
 Note that functions and classes are exempt from this rule since you can not define multiple functions or classes in a single line.
 
-For an example of item 4.  If we want the default export to be **foo** but also expose **bar**, we can have:
+For an example of item 3.  If we want the default export to be **foo** but also expose **bar**, we can have:
 
 ```
 export default function foo() {
@@ -191,7 +206,7 @@ export default function foo() {
 export const bar = "bar"
 ```
 
-For an example of item 5:
+For an example of item 4::
 
 ```
 export { foo as default, bar }
@@ -216,7 +231,7 @@ import { foo, bar, baz } from moduleA
 export { foo, bar, baz }
 ```
 
-But this would be annoying since exposing a new constant requires modifying potentially many files.  The **\*** syntax lets us re-write moduleB as:
+But this would be verbose since exposing a new constant requires modifying potentially many files.  The **\*** syntax lets us re-write moduleB as:
 
 ```
 export * from moduleA
