@@ -14,4 +14,4 @@ TODAY:
 
 LEARNINGS:
 * don't forget to bring utensils!
-* also, how to use hiking poles correctly ... (needs a blog post)
+* how to use hiking poles correctly ... (needs a blog post)
