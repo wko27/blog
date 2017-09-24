@@ -32,4 +32,4 @@ TODAY:
 LEARNINGS:
 * react native for web
   * which requires webpack + babel so I had to learn those too
-* import statements in ES6 (which I will add a brief blog post upon)
+* import statements in ES6 (here's my [blog post on it]({{ site.baseurl }}/ES6_Import_Export)!)
