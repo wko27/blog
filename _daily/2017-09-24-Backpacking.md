@@ -9,8 +9,10 @@ locations:
 TODAY:
 * got back from a short backpacking trip!
   * King's Canyon Rae Lakes Loop
-  * total trip was supposed to be 40 miles from 8k to 12k feet
-  * member of our party sprained his knee, so we stopped after 10 miles, spent a night and headed back
+  * total trip was supposed to be 40 miles from 6k to 12k feet
+  * first day, we did 2k ft over ~10 miles
+  * member of our party sprained his knee, so we headed back the next day :'(
+  * will try again next year!
 
 LEARNINGS:
 * don't forget to bring utensils!
