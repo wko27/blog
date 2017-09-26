@@ -6,8 +6,6 @@ categories: []
 locations: 
 ---
 
-(this one is for Suse :P)
-
 I recently attempted a 40 mile backpacking trip with two friends which included 11 miles on the first day with a 2k ft ascent.  During this stretch, I realized the effectiveness of hiking poles for both ascending and descending.  One of our friend's knee was injured during this climb and I would hope that proper poling may have prevented the sprain.
 
 There's two things to remember when it comes to adjustments:
@@ -31,4 +29,6 @@ How do we hold hiking poles?  The straps are actually quite crucial!!!  If you h
 
 This distributes the weight across the side of your thumb and your wrist which are much more sturdy than your fingers.  Make sure to tighten the strap securely; otherwise, it may rub and cause blisters!
 
-Happy hiking!!
+Happy hiking!!!
+
+(this post is dedicated to Suse)
