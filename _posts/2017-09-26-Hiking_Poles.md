@@ -29,9 +29,14 @@ How do we hold hiking poles?  The straps aren't meant to be loose!!!  If you hol
 
 ![Grip]({{ site.baseurl }}/assets/img/2017-09-26-grip.jpg){:class="img-responsive"}
 
-This distributes the weight from the front base of your thumb to the back and down the wrist.  This part of your hand should be able to bear a lot more weight comfortably.
+This distributes the weight to:
+* the inner edge of your hand (base of your thumb)
+* the outer edge of your hand
+* wrists
 
-Make sure to tighten the strap securely; otherwise, it may rub and cause blisters!
+These parts of your hand should be able to bear a lot more weight comfortably.
+
+Make sure to tighten the strap.  If it's loose, it may rub and cause blisters!
 
 Happy hiking!!!
 
