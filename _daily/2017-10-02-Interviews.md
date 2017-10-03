@@ -17,3 +17,4 @@ LEARNINGS:
 * how to fix a broken ReactNativeLinearGradient dependency in my iOS build
   * it wasn't referenced at all in package.json, js src files, or XCode project
   * ended up just adding it back in
+* how security rules work in Firebase
