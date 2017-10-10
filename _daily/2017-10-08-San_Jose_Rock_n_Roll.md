@@ -18,6 +18,7 @@ TODAY:
 * san jose rock n roll half marathon!
   * hurt my knee, so I walked the last 3 miles :p
   * R8 roll recovery + two hour nap and it's all good
+  * saw an awesome barefoot Elvis runner and an inspirational superman
 * korean bowl for lunch
 * dinner with the sis
 * debugged why my Firebase event handler wasn't firing!
