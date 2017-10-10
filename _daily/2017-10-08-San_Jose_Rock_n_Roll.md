@@ -10,6 +10,7 @@ YESTERDAY:
 * Thousand Tasty in Milpitas for lunch!
   * bought two sacks of frozen dumplings
 * guitar teacher contacted me using MyStache! :D
+* yoga
 * helped Brian break into a house and steal a car (totally legal, no worries)
 * Falafel Stop for dinner
 
