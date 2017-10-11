@@ -36,23 +36,25 @@ Luckily, the crafty API developers provide the ability to add an optional `Compl
 If you want a synchronous write which properly throws on error, you can use a latch and a reference:
 
 ```
-CountDownLatch latch = new CountDownLatch(1);
-AtomicReference<DatabaseError> error = new AtomicReference<>();
-ref.write(
-    "Hello World",
-    (error, ref) => {
-    	error.set(databaseError);
-        latch.countDown();
+public void synchronousWrite(DatabaseReference ref, Object value) {
+    CountDownLatch latch = new CountDownLatch(1);
+    AtomicReference<DatabaseError> error = new AtomicReference<>();
+    ref.write(
+        value,
+        (error, ref2) => {
+    	    error.set(databaseError);
+            latch.countDown();
+        }
+    );
+
+    latch.await(TIMEOUT_DURATION, TimeUnit.SECONDS);
+
+    if (error.get() != null) {
+        throw IllegalStateException("sadness", error.get().toException());
     }
-);
-
-latch.await(TIMEOUT_DURATION, TimeUnit.SECONDS);
-
-if (error.get() != null) {
-   throw IllegalStateException("sadness", error.get().toException());
 }
 ```
 
-There are some gotchas if you aren't careful when trying to do synchronous reads and writes though.  See my next Firebase post for details ...
+There are some gotchas if you aren't careful when trying to do synchronous reads and writes though.  See [this post]({{ site.baseurl }}/Synchronous_Writes_in_Firebase_pt.2) for details.
 
 I actually wrapped Firebase behind a module which wraps the `read`, `update`, and `delete` properly as well.  Leave a message if you're interested in the wrapper library and I can upload to GitHub :P
