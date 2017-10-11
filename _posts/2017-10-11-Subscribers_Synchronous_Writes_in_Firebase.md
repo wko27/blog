@@ -80,8 +80,6 @@ My solution was to create a utility method which:
 The implementation looks like this (I use a bounded queue to ensure we fail if the service isn't able to keep up with handling updates).
 
 ```
-package com.userize.mystache.db.firebase;
-
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
