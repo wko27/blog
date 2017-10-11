@@ -6,11 +6,9 @@ categories: [Firebase]
 locations: 
 ---
 
-[Firebase Realtime Database](https://firebase.google.com/) is a lovely key-value tree-structured database that we're using to build our app.
+This post is focused on the [Firebase Admin Java API](https://github.com/firebase/firebase-admin-java) which we use to build services to support our app.
 
-This blog post is focused on the[Java API](https://github.com/firebase/firebase-admin-java) which we use on the server-side.
-
-To write a value in Firebase, you can simply do:
+[Firebase Realtime Database](https://firebase.google.com/) is a lovely key-value tree-structured database.  To write a value in Firebase, you can simply do:
 
 ```
 FirebaseDatabase database = FirebaseDatabase.getInstance();

@@ -6,9 +6,11 @@ categories: [Firebase]
 locations: 
 ---
 
-See [part 1]({{ site.baseurl }}/Synchronous_Writes_in_Firebase).
+This post focuses on the [Firebase Admin Java API](https://github.com/firebase/firebase-admin-java) which we use to build services to support our app.
 
-So, Firebase has a lovely ability to add listeners for changes to various parts of the tree.  For example:
+In my [previous post]({{ site.baseurl }}/Synchronous_Writes_in_Firebase), we covered use cases that need synchronous writes and how to implement them with the Firebase API.  There are some subtleties when using synchronous writes though!
+
+Firebase provides the useful ability to add listeners for changes to various parts of the tree.  For example:
 
 ```
 ref.addChildEventListener(new ChildEventListener() {
@@ -95,7 +97,11 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.Query;
 
 /**
- * Provides a {@link BlockingQueue} for updates from Firebase
+ * Subscribes to events from a {@link DatabaseReference} and passes them
+ * to a {@link BlockingQueue} consumed by a thread in a separate {@link Executor}
+ * <p>
+ *
+ * This is used to avoid handling child events in the default Firebase worker thread
  */
 class OnChangeSubscriber {
     private static final Logger LOG = LoggerFactory.getLogger(OnChangeSubscriber.class);
