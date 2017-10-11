@@ -55,6 +55,6 @@ public void synchronousWrite(DatabaseReference ref, Object value) {
 }
 ```
 
-There are some gotchas if you aren't careful when trying to do synchronous reads and writes though.  See [this post]({{ site.baseurl }}/Synchronous_Writes_in_Firebase_pt.2) for details.
+There are some gotchas if you aren't careful though.  See [this post]({{ site.baseurl }}/Subscribers_Synchronous_Writes_in_Firebase).
 
 I actually wrapped Firebase behind a module which wraps the `read`, `update`, and `delete` properly as well.  Leave a message if you're interested in the wrapper library and I can upload to GitHub :P
