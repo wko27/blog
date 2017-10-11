@@ -1,7 +1,7 @@
 ---
 layout: post
 unique_id: firebase_synchronous_writes2
-title: Synchronous Writes in Firebase (pt.2)
+title: Synchronous Writes in Firebase pt.2
 categories: [Firebase]
 locations: 
 ---
