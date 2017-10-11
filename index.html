@@ -5,8 +5,9 @@ title: Home
 
 <div class="home">
   <div class="post-list">
-    
-    <h1>Daily Update</h1>
+
+    <hr/>    
+    <h1><u>Daily Update</u></h1>
     <hr/>
     
     {% assign sorted = (site.daily | sort: 'date') | reverse %}
@@ -40,7 +41,8 @@ title: Home
     </article>
     {% endfor %}
 
-    <h1>Posts</h1>
+    <hr/>
+    <h1><u>Posts</u></h1>
     <hr/>
     
     {% for post in site.posts limit:10 %}
