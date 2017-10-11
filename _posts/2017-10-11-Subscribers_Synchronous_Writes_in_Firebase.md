@@ -6,7 +6,7 @@ categories: [Firebase]
 locations: 
 ---
 
-2nd part of a two-post series on synchronous writes using [Firebase Realtime Database](https://firebase.google.com/).  See [part 1]({{ site.baseurl }}/Synchronous_Writes_in_Firebase).
+See [part 1]({{ site.baseurl }}/Synchronous_Writes_in_Firebase).
 
 So, Firebase has a lovely ability to add listeners for changes to various parts of the tree.  For example:
 
