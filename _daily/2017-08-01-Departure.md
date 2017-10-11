@@ -21,7 +21,7 @@ TODAY:
 * played 'what do you meme?' and met a bunch of potential recruits
 * dinner was excruciatingly slow; soft tofu and a macaroni soup but I only used left side of mouth
 * made a blog, learned jekyll + github (+ bit of scss copy/pasta)
-* send [farewell poem]({{ site.baseurl }}/Farewell_Poem)
+* send [farewell poem]({{ site.baseurl }}/Farewell_Medallia)
 
 TOMORROW:
 * party planning stuffs
