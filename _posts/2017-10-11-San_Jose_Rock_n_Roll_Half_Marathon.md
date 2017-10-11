@@ -6,7 +6,7 @@ categories: [poems]
 locations: 
 ---
 
-Wrote this for my girlfriend who took me along to the San Jose Rock n Roll on Sunday!  She texted me about bringing popcorn chicken to a potluck as I was finishing it ...
+Christine took me along to the San Jose Rock n Roll on Sunday!  She texted me about bringing popcorn chicken to a potluck as I was finishing this poem ...
 
 *blisters and bruises and soreness and sweat<br>
 minor misfortunes that we'll soon forget<br>
