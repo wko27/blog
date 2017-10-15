@@ -18,7 +18,13 @@ TODAY:
 * dim sum for lunch
 * biking in San Jose!
 * rock climbing
+* groceries
+  * going to try blueberry bagels instead of cinnammon raisin!
+  * exercised restraint in buying a steak
+  * somehow saved ~25% off the grocery run by accident
 * dumplings for dinner
+* sis came over to play with the electric violin
+  * odd sound when certain notes are played ... not sure if it's my amp or the cable
 * watched Kumail Nanjiani's opening monologue on SNL
 * fixed my OAuth2 callback server to handle HTTPS properly
 
