@@ -16,6 +16,7 @@ YESTERDAY:
 
 TODAY:
 * dim sum for lunch
+* downloaded Hello Chinese, an app to teach Mandarin
 * biking in San Jose!
 * rock climbing
 * groceries
