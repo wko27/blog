@@ -13,6 +13,7 @@ TODAY:
 * attempted ping-pong, but gym was too busy
 * badminton!
 * watched 4th Harry Potter movie
+* played an awesome game of telestrations
 * in n out!
 
 LEARNINGS:
