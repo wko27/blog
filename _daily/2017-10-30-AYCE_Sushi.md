@@ -25,3 +25,6 @@ TODAY:
 
 LEARNINGS:
 * much easier to manipulate maps in javascript than java
+* base64 encoding libraries on npm all assume it's running on server-side with nodejs
+  * Buffer isn't available in the react-native runtime
+  * have to use a global hack + npm install buffer to get this working <.<
