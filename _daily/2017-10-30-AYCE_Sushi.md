@@ -13,9 +13,11 @@ YESTERDAY:
 * correctly got two more UDIDs
 * all-you-can-eat sushi at Kenzo
   * overdid it xD
-*
+* found a book recently released by [one of the authors](https://www.goodreads.com/author/show/3365457.Ann_Leckie) I follow!!
 
 TODAY:
+* three interviews
+* haircut
 * decided my hack for handling Gmail by forwarding to a web UI was bad
   * ended up figuring out how to create new email threads
   * refactored my entire new conversation thread UI layer and cleaned up a bunch of code
