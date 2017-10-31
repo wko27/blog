@@ -30,4 +30,5 @@ LEARNINGS:
   * have to use a global hack + npm install buffer to get this working <.<
 * grr, just discovered Gmail API doesn't allow automatically adding labels to sent emails
   * I'll have to do some trickery to get around this ...
+  * maybe use a custom header?
   * sleep first though xD
