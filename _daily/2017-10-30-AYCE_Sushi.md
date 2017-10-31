@@ -28,3 +28,6 @@ LEARNINGS:
 * base64 encoding libraries on npm all assume it's running on server-side with nodejs
   * Buffer isn't available in the react-native runtime
   * have to use a global hack + npm install buffer to get this working <.<
+* grr, just discovered Gmail API doesn't allow automatically adding labels to sent emails
+  * I'll have to do some trickery to get around this ...
+  * sleep first though xD
