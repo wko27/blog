@@ -1,7 +1,7 @@
 #!/bin/bash
 # Create a new daily with the given title
 
-if [[ $# -eq 0 ]]; then
+if [[ $# -ne 1 ]]; then
     echo "Usage: ./new_daily.sh (title)" 1>&2
     exit 1
 fi
