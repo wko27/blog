@@ -19,6 +19,7 @@ TODAY:
 * chick-fil-a for lunch
 * back to swing dancing after a month off!
 * made a chicken, potato, green bean ... thing for dinner
+* neighbors had the cops called on them at 2 am???
 
 LEARNINGS:
 * muscle memory on Charleston persists!!
