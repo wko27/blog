@@ -19,7 +19,13 @@ YESTERDAY:
 * fixed a build error with react-native-device-info
 
 TODAY:
-* 
+* power yoga in the morning
+* romantic picnic with the lady!
+* discovered Sunnyvale library, sooo spacious
+  * worked on a jigsaw for a bit
+* spent 6 hours debugging an iOS build issue (see [post]({{ site.baseurl }}/XCode_and_Clang_Errors))
+* picked up Amy from airport at 2 am
 
 LEARNINGS:
-* 
+* header and framework search paths for local and global includes
+
