@@ -6,13 +6,19 @@ categories: []
 locations: 
 ---
 
-Spent ~6 hours on this today, so figures it deserves a post ... the original start of this whole fiasco was introducing one extra dependency for react-native-version-info.  There's absolutely nothing wrong with that particular library, in fact I had that up and running perfectly within minutes on Android.  For some reason, my iOS build failed to compile with an error caused by recursive expansion of a search header path from a completely different dependency, react-native-fcm.  After trying various quick-fixes from stack overflow and GitHub issues, I sat down to figure out exactly what's going on here ...
+Spent ~6 hours on this today, so figures it deserves a post ... the original start of this whole fiasco was introducing one extra dependency for react-native-version-info.  There's absolutely nothing wrong with that particular library, in fact I had that up and running perfectly within minutes on Android.  For some reason, my iOS build failed to compile with an error caused by recursive expansion of a search header path from a completely different dependency, react-native-fcm:
 
-Before we dive in, I'll cover some brief terminology in case my readers are unfamiliar with iOS projects. In XCode, one can add native iOS dependencies via *Cocoapods* (or just Pods).  Each dependency is declared in a *Podfile* and has a corresponding sub-directory in a *Pods* folder.  Each dependency also becomes a sub-project in the XCode workspace and can have its own configurable build dependencies and targets.
+```
+Argument list too long: recursive header expansion failed
+```
 
-In Objective-C, we have two ways to include files from other directores.  A *local include* is quoted, e.g. include "foo/bar.h", and a *global include* is surrounded by angle brackets, e.g. include <foo/bar.h>.
+After trying various quick-fixes from stack overflow and GitHub issues, I sat down to figure out exactly what's going on here ...
 
-In XCode, we specify the directories where these headers can be found via "Header Search Paths" (for local) and "Framework Search Paths" (for global) from the "Build Settings" menu.  When creating a path, one can specify if the path is "recursive" or "not recursive".  By default, the react-native-fcm project had a recursive Header Search Path which searched the entire Pods directory, basically looking for headers from any dependency.  By adding a new dependency, we added a new sub-directory to the *Pods* folder and apparently the glob expansion of directories overcame a limit on the number of allowed arguments to Clang.
+Before we dive in, I'll cover some brief terminology in case my readers are unfamiliar with iOS projects. In XCode, one can add native iOS dependencies via *Cocoapods** (or just Pods).  Each dependency is declared in a **Podfile** and has a corresponding sub-directory in a **Pods** folder.  Each dependency also becomes a sub-project in the XCode workspace and can have its own configurable build dependencies and targets.
+
+In Objective-C, we have two ways to include files from other directores.  A **local include** is quoted, e.g. include "foo/bar.h", and a **global include** is surrounded by angle brackets, e.g. include <foo/bar.h>.
+
+In XCode, we specify the directories where these headers can be found via "Header Search Paths" (for local) and "Framework Search Paths" (for global) from the "Build Settings" menu.  When creating a path, one can specify if the path is "recursive" or "not recursive".  By default, the react-native-fcm project had a recursive Header Search Path which searched the entire Pods directory, basically looking for headers from any dependency.  By adding a new dependency, we added a new sub-directory to the **Pods** folder and apparently the glob expansion of directories overcame a limit on the number of allowed arguments to Clang.
 
 Ok, so easy fix, we just figure out which particular Pods this react-native-fcm thing relies on and add those directly, right?
 
