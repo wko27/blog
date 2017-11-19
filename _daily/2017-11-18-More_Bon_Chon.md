@@ -18,7 +18,13 @@ YESTERDAY:
 * only spent one hour in bed trying not to think of her today
 
 TODAY:
-* 
+* donation
+* learned about some more sadness
+* ping-pong gym had a tournament going on
+* rock climbing, finished a v4 and a few v3s
+* taiwan cafe in milpitas, delicious! no idea what I was eating though
+* karaoke
+* oathbreaker finally came out, but still finishing Equinox (Children of Occam book 2)
 
 LEARNINGS:
 * how to manage my workers
