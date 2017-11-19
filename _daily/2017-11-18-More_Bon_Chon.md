@@ -25,6 +25,7 @@ TODAY:
 * taiwan cafe in milpitas, delicious! no idea what I was eating though
 * karaoke
 * oathbreaker finally came out, but still finishing Equinox (Children of Occam book 2)
+* collected 3000 reviews now, ready to run some basic text analysis
 
 LEARNINGS:
 * how to manage my workers
