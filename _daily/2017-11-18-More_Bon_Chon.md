@@ -26,6 +26,7 @@ TODAY:
 * karaoke
 * oathbreaker finally came out, but still finishing Equinox (Children of Occam book 2)
 * collected 3000 reviews now, ready to run some basic text analysis
+* added a sprinkle of unit testing and cleaned up some debt
 
 LEARNINGS:
 * how to manage my workers
