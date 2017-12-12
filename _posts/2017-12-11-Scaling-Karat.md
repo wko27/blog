@@ -6,6 +6,8 @@ categories:
 locations: 
 ---
 
+# Intro
+
 For the past few months I've taken on a contracting role at Karat, a company that specializes in first-round engineering interviews for other software companies.  It's really a lovely opportunity for me, providing a bit of income, the flexibility I need to pursue my startups,  and a great community.
 
 I'm at their annual conference hosted in Seattle and can't help but find myself comparing it to my early career at Medallia.
@@ -23,7 +25,7 @@ Differences:
 * contained workflow, interview finishes and if you made a mistake, there's no lasting pain/regret (unlike bug fixes required in normal software development lifecycles)
 * we're all 1099 with a mostly flat rate, so there's no expectation of career advancement, stock options cycles, vesting/IPO concerns
 
-Where will the fail?
+# Potential for Failure
 
 Don't get me wrong, I love the company, I love the mission and I want them to succeed.  But the realist in me says you don't avoid failure by ignoring potential weaknesses.
 
@@ -68,3 +70,11 @@ If all companies are using the same assessment tool for first round screens, do 
 Coming out of Medallia, I fear anything that isn't self-service.  Karat has specifically positioned itself as a service not a tool and this means a professional/client services arm.
 
 Upsell opportunities usually center around tailoring/customization for a specific customer.  In this case though, that involves tailoring the interview experience itself; which itself can introduce bias and/or less consistent experiences.
+
+# Conclusion
+
+Karat definitely has some unique advantages over a traditional software company both in terms of business opportunity and the contractor vs FTE staffing.
+
+They're full of people that are passionate about what they do.
+
+Very curious how leadership intends to scale and how they will empower the company to face those challenges though.
