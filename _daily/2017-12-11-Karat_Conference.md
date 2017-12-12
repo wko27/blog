@@ -18,6 +18,10 @@ YESTERDAY:
 
 TODAY:
 * Karat conference
+* 
 
 LEARNINGS:
 * to appreciate diversity again
+* new interview question type suggested by Shane
+  * basically, have them research and explain source code
+  * example was the primality test used by OpenSSL
