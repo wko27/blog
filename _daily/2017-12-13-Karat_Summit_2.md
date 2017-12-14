@@ -23,7 +23,7 @@ TODAY:
 * all-you-can-eat buffet! [Feast Buffet](https://feastbuffetrenton.com/)
   * so the Asian family at the next table wanted to take a group photo
   * the grandma was too busy destroying a huge pile of crab legs to join them
-  * she knows her priorities at a buffet :D
+  * she clearly knows her priorities at a buffet :D
   * I gave her a nod of respect on the way to the restroom
 
 LEARNINGS:
