@@ -10,24 +10,24 @@ locations:
 
 For the past few months I've taken on a contracting role at Karat, a company that specializes in first-round engineering interviews for other software companies.  It's really a lovely opportunity for me, providing a bit of income, the flexibility I need to pursue my startups,  and a great community.
 
-I'm at their annual conference hosted in Seattle and can't help but find myself comparing it to my early career at Medallia.
+I'm at their annual conference hosted in Seattle and can't help but find myself comparing their current stage of growth with Medallia.
 
 Similarities:
-* ~30 FTE and ~60 contractors, Medallia was around 80 FTE
-* humble but passionate people with exceptional energy and a belief that they're making a difference
-* appreciation of culture, diversity
+* Karat is at ~30 FTE and ~60 contractors, Medallia was around 80 FTE
+* both full of humble but passionate people with exceptional energy and a belief that they're making a difference
+* respect and appreciation of culture, diversity
 * receptive to feedback
 * will soon be facing scaling issues in training/consistency/etc
 
 Differences:
-* immediate sense of accomplishment when completing an interview, as opposed to waiting for rollouts and user feedback
-* super flexible in terms of hours and availability; you're welcome to take a month off to do whatever and come back
-* contained workflow, interview finishes and if you made a mistake, there's no lasting pain/regret (unlike bug fixes required in normal software development lifecycles)
-* we're all 1099 with a mostly flat rate, so there's no expectation of career advancement, stock options cycles, vesting/IPO concerns
+* immediate sense of accomplishment when completing an interview, as opposed to rolling out features and waiting for feedback/adoption
+* Karat offers flexible hours; you're welcome to take a month off to do whatever and come back
+* interview finishes and if you made a mistake, there's no lasting pain/regret unlike bug fixes required in normal software development lifecycles
+* contractor with flat rate, no expectation of career advancement, stock options cycles, vesting/IPO concerns
 
 # Potential for Failure
 
-Don't get me wrong, I love the company, I love the mission and I want them to succeed.  But the realist in me says you don't avoid failure by ignoring potential weaknesses.
+I love the company, I love the mission and I want them to succeed which is why I fear they may fail.  So where are the potential weaknesses?
 
 1. Focus on Quality
 
@@ -40,6 +40,8 @@ Karat prides itself on high quality interviews which provide consistently fair a
 As much as I love culture though, at the end of the day recruiting is a always a numbers game.  I think it's fair to say that "most" software companies are using the standardized one phone screen + on-site visit.  From their perspective, Karat replaces the initial phone screen.  From a culture perspective, the initial phone screen should be unbiased and provide a fantastic candidate experience.  From a business perspective though, the initial phone screen needs to be "good enough of a filter" for final round and shouldn't resources be allocated towards ensuring a great experience for final round candidates (who are more valuable) than initial round?
 
 If it's easy for competition to hire contractors to do screens, and the only differentation is quality; well we've seen that story at Medallia.  Haven't done the full calculations, but quality has a cost to it, and the majority of software hires are not made at big companies with a reputation to protect.
+
+The other side of quality is the means by which you ensure high quality.  Metrics and tracking are great, but the key is to balance the need to apply process to achieve standardization vs. allowing people the freedom to exercise creativity with guidelines/principles.
 
 2. Incremental vs. 10x Opportunities
 

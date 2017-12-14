@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: karat_conference
-title: Karat Conference
+unique_id: karat_summit
+title: Karat Summit
 categories: []
 locations: 
 ---
@@ -18,7 +18,10 @@ YESTERDAY:
 
 TODAY:
 * Karat conference
-* 
+* used a poem for an icebreaker
+* group cooking event @ Hot Stove Society
+  * very well done! (the steaks were a delicious medium rare)
+* delighted to discover that the Karat ops team greets each other with a "what ops"
 
 LEARNINGS:
 * to appreciate diversity again
