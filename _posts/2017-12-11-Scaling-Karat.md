@@ -6,8 +6,6 @@ categories:
 locations: 
 ---
 
-# Intro
-
 For the past few months I've taken on a contracting role at Karat, a company that specializes in first-round engineering interviews for other software companies.  It's really a lovely opportunity for me, providing a bit of income, the flexibility I need to pursue my startups,  and a great community.
 
 I'm at their annual conference hosted in Seattle and can't help but find myself comparing their current stage of growth with Medallia.
@@ -75,8 +73,4 @@ Upsell opportunities usually center around tailoring/customization for a specifi
 
 # Conclusion
 
-Karat definitely has some unique advantages over a traditional software company both in terms of business opportunity and the contractor vs FTE staffing.
-
-They're full of people that are passionate about what they do.
-
-Very curious how leadership intends to scale and how they will empower the company to face those challenges though.
+Karat definitely has some unique advantages over a traditional software company both in terms of business opportunity and the contractor vs FTE staffing.  They're full of people that are passionate about what they do.  Very curious how leadership intends to scale and how they will empower the company to face those challenges though.
