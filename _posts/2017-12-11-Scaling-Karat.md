@@ -27,7 +27,7 @@ Differences:
 
 I love the company, I love the mission and I want them to succeed which is why I fear they may fail.  So where are the potential weaknesses?
 
-1. Focus on Quality
+### Focus on Quality
 
 Karat prides itself on high quality interviews which provide consistently fair and positive candidate experiences.  The cost of maintaining that bar as you scale becomes increasing difficult:
 * layers of management are required once you reach ~100s of interviewers
@@ -41,7 +41,7 @@ If it's easy for competition to hire contractors to do screens, and the only dif
 
 The other side of quality is the means by which you ensure high quality.  Metrics and tracking are great, but the key is to balance the need to apply process to achieve standardization vs. allowing people the freedom to exercise creativity with guidelines/principles.
 
-2. Incremental vs. 10x Opportunities
+### Incremental vs. 10x Opportunities
 
 Where does Karat go next?  The current focus seems to be UI enhancements to improve an existing process allowing Karat to scale to maybe x2-x5 number of interviewers (and hence clients).  Small wins are indeed necessary and Karat's access to flexible developer resources through the interviewer contractors makes it quite easy to achieve these, but ...
 
@@ -59,13 +59,13 @@ LinkedIn partnership/acquisition or an independent social network amongst candid
 
 Integrations with ATS's can provide a sharper market curve, but you still have to deal with the supply problem.
 
-3. Achieving Market Dominance
+### Achieving Market Dominance
 
-Let's suppose that Karat succeeds in its short-term vision and "all software engineering companies use Karat".  The pool of candidates is always mostly filled with poor-performing candidates.  What happens when they've failed a dozen Karat interviews?  Does the question pool expand to hundreds of types?  Is there a blacklist or a waiting period before re-attempting a Karat interview?
+Let's suppose that Karat succeeds in its vision and "all software engineering companies use Karat".  The pool of candidates is always mostly filled with poor-performing candidates.  What happens when they've failed a dozen Karat interviews?  Does the question pool expand to hundreds of types?  Is there a blacklist or a waiting period before re-attempting a Karat interview?
 
 If all companies are using the same assessment tool for first round screens, do they compete with each other on sourcing and selling alone?
 
-4. Servicing Component
+### Servicing Component
 
 Coming out of Medallia, I fear anything that isn't self-service.  Karat has specifically positioned itself as a service not a tool and this means a professional/client services arm.
 
