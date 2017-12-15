@@ -6,26 +6,24 @@ categories: []
 locations: 
 ---
 
-# Context
+In 2012, we hit 100 employees.  We were expecting to grow exponentially in the next few years.  How do we preserve our culture?
 
-The year is 2014.  We are ~100 employees.  We are expected to triple in size in the coming year.  How do we preserve our culture?
+> "The easiest way to solve a problem is to avoid having it in the first place" - (ok, I made that up)
 
-"The easiest way to solve a problem is to avoid having it in the first place" - i made that up but it sounds good amirite?
+We had two initial defenses against the dreaded culture shift that inevitably happens as a company grows.  The first was our culture interview.  The second was our onboarding process (which I'll cover in a separate post).
 
-We had two initial defenses against the dreaded culture shift that inevitably happens as a company grows.  The first was our culture interview process.  The second was our cultural onboarding which deserves its own post.
+The culture interview enabled candidates to understand values that Medallians share, and let us see if the candidate shares in those values.  The process was by no means perfected, but we improved over iterations and we ended up with something like the following:
 
-It's purpose is to both provide clarity to a candidate on the "corporate values" at Medallia and for us to see if the candidate shares in those values.  This took us a lot of iterations to refine and nobody believes that our technique was perfected.
-
-1. Every hire in every department must go through a culture interview by a member from a different department
+1. Every hire across the company (whether C-level or not) must go through a culture interview by a member from a different department
 2. A no from a culture interviewer is a hard no
 
-The first requirement meant we needed a pool of culture interviewers from every department.  The second requirement meant these individuals had quite a lot of power and thus needed to represent the best of Medallia's culture.
+The first requirement helped avoid biases that e.g. an engineer would have for another engineer.  The second requirement existed because there's no point in a culture interview if the results can be questioned.  The gave the interviewers quite a lot of power though, so only our "best" people that exemplified Medallia's culture were allowed into the pool of interviewers..
 
-The interview itself is a walk through a candidate's life story in his or her own words with occasional prompts and questions by the interviewer.  We walk through a person's pivotal decisions, typically made when facing challenges and conflict and try to understand their motivations, beliefs, and learnings.
+The interview itself was just a conversation, but the typical flow walked through a candidate's life story in his or her own words with occasional prompts and questions by the interviewer.  The purpose was to understand a person's most pivotal decisions, typically made when facing challenges and conflict and try to understand their motivations, beliefs, and learnings.
 
 # Values
 
-So, what were our values?  In no particular order:
+We assessed a candidate based on our "core values".  In no particular order, they were:
 
 * growth mindset
 * intrinsic motivation
@@ -108,3 +106,5 @@ The assessment itself is quite similar to a normal interview.  You are deciding 
 Culture is not static either; it is defined by the individual of an organization and changes over time.  Homogeneity is not the goal either.
 
 I've spent hours deliberating on judgments for candidates who are just on the border between exhibiting red flag behaviors, but believing in some of the values with the potential to grow.
+
+Did we have the right values?  Did they represent our culture?  My definition of culture was that if our culture was perfect, then nobody would leave Medallia unhappily.  People may move on for positive reasons like desiring change, or moving on with their career.  But if somebody leaves Medallia because they felt they did not fit in, or their managers did not support them, or they were not treated fairly; then those I "blame" on the "culture".  Scores of colleagues have left Medallia unhappily and given me reasons, almost all of them tie back in some way to at least one of the five values above.  This proves to me that they are a fair representation of the culture that I wanted at Medallia.
