@@ -5,6 +5,8 @@ title: Karat Summit
 categories: [poems]
 ---
 
+Little poem for the first Karat Interviewer Summit:
+
 *fears of the future and praise for the past<br>
 scaling and growing too slow or too fast?<br>
 what is the mission, the values, the goal?<br>
