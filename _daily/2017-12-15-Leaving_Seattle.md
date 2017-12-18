@@ -9,6 +9,7 @@ locations:
 YESTERDAY:
 * Costco run!
 * Ikea buffet for dinner!
+* remembered that my countertops are frosty carrina
 * watched half of Silicon Valley Season 3
 * finished a poem and a blog post
 * cleaned a lot of mirrors for Ann + Knut
