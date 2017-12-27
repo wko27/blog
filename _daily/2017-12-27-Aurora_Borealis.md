@@ -10,23 +10,31 @@ YESTERDAY:
 * KFC for lunch
   * prices were crazy!
 * visited three museums
-  * two of them were closed
-  * but the Morris Thompson Cultural and Visitors Center is lovely and informative
-* found a friendly guy carving ice sculptures
-* explored gift shops in the downtown area
+  * two of them were closed due to Christmas
+  * Morris Thompson Cultural and Visitors Center is lovely and informative
+* found a friendly guy carving amazing life-sized ice sculptures
 * Chinese hot pot for dinner
   * excellent probably only because it was -12 degrees outside
+* various water in cold temperature experiments
+  * throwing boiling hot water into sub-zero air
+  * supercooled water + vibration = ice formation
+    * basically leave a partial bottle of distilled water in a car in freezing temperature overnight
+    * give it a thwack and it'll crystallize
 * saw the northern lights
   * trip goal achieved!
 
 TODAY:
-* 
+* Chenna Hot Springs!
+  * we all forgot swimsuits
+  * fred meyers nor walmart had them in stock
+  * 110 degree water + -10 degree air
+* dog sledding
 
 LEARNINGS:
 * "chicken breast" insult in Chinese
   * white chicken meat is undesirable since dark meat is juicier and more tender
   * however, it's wasteful to just throw it out
-  * hence, calling somebody "chicken breast" means they are undesirable but just enough to avoid getting thrown out as waste ...
+  * hence, calling somebody "chicken breast" means they are undesirable but barely above the bar for being thrown out as waste
 * Yaokai's explanation of how bitcoin works
   * anonymization
     * bitcoin accounts can be de-anonymized only through the exchanges which trade external currencies into bitcoin
@@ -46,5 +54,3 @@ LEARNINGS:
     * current volatility means one can starve others out of transactions
     * segwit attempts to minimize the size of the transaction record in the block through space efficiency optimization
       * this only increases the number of transactions to be recorded by 4x though ...
-
-
