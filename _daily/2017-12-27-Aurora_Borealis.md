@@ -27,8 +27,10 @@ TODAY:
 * Chenna Hot Springs!
   * we all forgot swimsuits
   * fred meyers nor walmart had them in stock
-  * 110 degree water + -10 degree air
-* dog sledding
+  * 110 degree water + -10 degree air + lots of steam
+* ice sculpture museum
+* short, cold hike
+* udon + sushi for dinner
 
 LEARNINGS:
 * "chicken breast" insult in Chinese
