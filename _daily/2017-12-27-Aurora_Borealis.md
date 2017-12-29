@@ -25,9 +25,10 @@ YESTERDAY:
 
 TODAY:
 * Chenna Hot Springs!
-  * we all forgot swimsuits
-  * fred meyers nor walmart had them in stock
+  * we all forgot swimsuits and neither fred meyers nor walmart had them in stock
+  * ended up borrowing used, laundered ones :P
   * 110 degree water + -10 degree air + lots of steam
+  * easy to make interesting frozen hair styles
 * ice sculpture museum
 * short, cold hike
 * udon + sushi for dinner
