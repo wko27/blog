@@ -8,6 +8,7 @@ fi
 
 title="$1"
 escaped_title=$( echo "$title" | tr ' ' '_' )
+unique_id=$( echo "$escaped_title" | tr '[:upper:]' '[:lower:]' )
 
 new_daily=../_daily/"$( date +%F )"-"$escaped_title".md
 
@@ -16,6 +17,7 @@ if [[ -e "$new_daily" ]]; then
 else
     cp daily_template.md "$new_daily"
     sed -i .tmp "s/__title__/$title/g" "$new_daily"
+    sed -i .tmp "s/__unique_id__/$unique_id/g" "$new_daily"
     rm "$new_daily".tmp
 fi
 
