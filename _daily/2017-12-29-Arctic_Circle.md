@@ -20,10 +20,10 @@ YESTERDAY:
 TODAY:
 * guided tour to the Arctic Circle
   * super friendly guide
-  * been all over Alaska working in the mining and trucking industries
+  * retired but has worked in the mining and trucking industries
   * sang us two songs that he wrote
-* visited the Trans-Alaska Pipeline
-* saw the Yukon river
+* saw the Trans-Alaska Pipeline
+* crossed the Yukon river
 * saw more northern lights (very weak though)
 
 LEARNINGS:
