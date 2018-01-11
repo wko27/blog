@@ -34,8 +34,15 @@ TODAY:
     * amy is allergic to cherries
     * crust had butter, and I'm lactose
     * amy's friend has an almond allergy and it had almonds
+* math website development
+  * got demo working
+  * added conditional logic to branches
+  * added an alternative step for overeager students
+  * added a barrier so we don't accidentally run a sync when testing
 
 LEARNINGS:
 * nested destructuring syntax in ES6!
 * how to use Android Studio's UI editor
 * ground pork is oddly expensive in bay area
+* discovered template literals
+  * not going to lie, this made me happy :)
