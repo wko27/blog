@@ -25,6 +25,13 @@ YESTERDAY:
 TODAY:
 * lunch with a friend
 * more sleep
+* woke up and did a little shower meditation
+* dumplings for dinner
+* debugging on AWS lambda + alexa
+  * took me an hour to realize the code I uploaded wasn't actually being run
+  * somehow my slow upload speed is causing some issue ... will retry tmr @ library
+* literally spent 2 hours making a semi-circle in CSS for my login page
+  * but I finally understand how flex-basis works ^.^
 
 LEARNINGS:
 * asthma + flu thing is really an annoying combo
