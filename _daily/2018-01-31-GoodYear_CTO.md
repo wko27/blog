@@ -23,8 +23,10 @@ TODAY:
 * sprint planning (lol)
 * got down my test cases for actual driving experiments to perform starting Friday
 * got sensor configuration standardized and recorded
+* climbing + yoga
 
 LEARNINGS:
 * how to obtain data network type info from Android
 * cellular network standards and how they map to generations (3G, 4G, etc)
-
+* finally learned how to do a supported headstand!
+  * the key trick is actually to flatten your pinkies as a good base
