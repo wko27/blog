@@ -21,5 +21,5 @@ TODAY:
 * made dumplings for Chinese New Years with friends
 
 LEARNINGS:
-* discovered a Spotify playlist called for (Relaxing Vacuum Cleaners)[https://open.spotify.com/artist/1b7mrbeIAMJlQGv9vSybd8]
+* discovered a Spotify playlist called for [Relaxing Vacuum Cleaners](https://open.spotify.com/artist/1b7mrbeIAMJlQGv9vSybd8)
 
