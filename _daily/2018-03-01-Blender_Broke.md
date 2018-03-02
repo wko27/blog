@@ -21,7 +21,7 @@ YESTERDAY:
 
 TODAY:
 * burrito for lunch
-* server-side refactor working
+* server-side refactor to Java
   * stache messaging working perfectly still :D
 * oscilloscope demo
 * went to Square HQ for dinner
@@ -31,3 +31,4 @@ TODAY:
 
 LEARNINGS:
 * miss Knut, he could probably macgyver that blender in a jiffy
+* relearned all my terraform scripts :D
