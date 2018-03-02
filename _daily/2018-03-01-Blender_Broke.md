@@ -20,6 +20,7 @@ YESTERDAY:
   * attempted a few fixes, but think I need a replacement :(
 
 TODAY:
+* fft in Python and started doing signal analysis
 * burrito for lunch
 * server-side refactor to Java
   * stache messaging working perfectly still :D
