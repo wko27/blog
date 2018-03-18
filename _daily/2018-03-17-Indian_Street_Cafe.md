@@ -31,3 +31,5 @@ TODAY:
 LEARNINGS:
 * as usual the physics got complicated, so they got a bunch of empirical data and made some formulas to approximate it very closely
   * the mathematician inside of me cringes, but the engineer applauds
+* costs at least $5-10k to get a hardware engineer to design a board
+* takes around 2-3 months to get it fabricated!  
