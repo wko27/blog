@@ -30,6 +30,7 @@ TODAY:
   * super troopers 1
   * super troopers 2
   * very immature movie
+* finished a sad book about a refugee from NK: (River in Darkness)[https://www.amazon.com/River-Darkness-Escape-North-Korea-ebook/dp/B06XKRKFZL]
 
 LEARNINGS:
 * how to add log debug print statements from an nRF52 dev board
