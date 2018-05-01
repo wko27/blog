@@ -19,6 +19,8 @@ TODAY:
 * morning call with an old acquaintance in London
   * chatting about engineering team culture
   * specifically how to improve morale after a massive project gets cut
+* jury duty this week
+  * checking website to see where/when I need to go
 * laundry
 * dumplings for lunch
 * forgot laptop at home when I went to work xD
