@@ -14,6 +14,7 @@ YESTERDAY:
 * tasty lamb spine pot for lunch!
 * co-op campaigned all of Halo 4 in 7 hours
 * made a delicious ox tail soup for dinner
+  * key was the red wine
 
 TODAY:
 * morning call with an old acquaintance in London
