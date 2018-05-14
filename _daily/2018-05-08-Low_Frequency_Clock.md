@@ -14,11 +14,12 @@ YESTERDAY:
     * they are bringing boxes of Hershey's chocolate to my grandma
 * afternoon yoga class
   * teacher-in-training = cheap class :D
+  * endless crunches q.q
   * wayyyy too hot
     * had to lay down and rest since I knew my body overheated
     * went to parking garage afterwards, 90+ degrees outside was nice and cool
 * nap
-* family diner
+* family dinner
   * tried to go to a restaurant my sis liked, but owners are on vacation for 2 weeks
   * ended up at a place called Cafe Spot
   * sole + pork chop w/ HK curry over spaghetti
@@ -31,7 +32,18 @@ YESTERDAY:
     * the questions on the forum are all over the place from an even older deprecated API which required accessing nRF52's registers directly ...
 
 TODAY:
-* 
+* hang out with parents
+* leftovers for lunch
+* almost done with yeager's poem
+  * over 6 months late
+  * at this point, I'll just give it to him on his anniversary
+* loaded up car
+* head back to bay area
+  * cruising up the 101 with my sis!
+  * dinner at Subway in Santa Barbara
+  * lovely bathroom with a view of the skies
+* unpacked most things
+* back to work on adxl
 
 LEARNINGS:
 * the correct way to set a gdb breakpoint is via a __asm__("BKPT")
@@ -42,3 +54,4 @@ LEARNINGS:
   * I also couldn't poke it with a logger because the logging library needs a few ms to initialize and if you crash too early in main, you get nothing
 * in order to use the "app_timer" library, one must first initialize the low frequency clock using a completely different "clock" API
   * this isn't obvious at all unless you happen to stare very closely at one of the examples in the SDK, e.g. spi_master_using_nrf_spi_mngr
+* wherever only has three e's not four xD

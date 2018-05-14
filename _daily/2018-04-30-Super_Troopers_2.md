@@ -12,6 +12,7 @@ YESTERDAY:
 * climbing
   * couldn't finish a very tricky 11d
 * tasty lamb spine pot for lunch!
+* returned rentals to library
 * co-op campaigned all of Halo 4 in 7 hours
 * made a delicious ox tail soup for dinner
   * key was the red wine

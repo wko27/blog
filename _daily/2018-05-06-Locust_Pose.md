@@ -20,6 +20,7 @@ YESTERDAY:
   * dinner at Carl's Jr. (coupons)
   * 5 hours, no traffic
 * leftovers for a late dinner
+* laundry
 * finished 3rd book in a trilogy (teen adventure, not recommended)
 
 TODAY:
@@ -29,9 +30,13 @@ TODAY:
   * had a smoothie w/ boba, first time in ages
 * korean bbq dinner with aunties!
   * my aunt was making funny faces at this cute little baby at the table over
+  * left him a polaroid!
+* more laundry
+* discovered my parents have little sudoku printouts in the bathroom
+  * every day a little more progress on the puzzle :D
 
 LEARNINGS:
-* Figured out the trick to superman and locust pose is to squeeze the ankles together
+* figured out the trick to superman and locust pose is to squeeze the ankles together
   * a teacher once told us that if our feet aren't stuck to the floor, then we're doing superman incorrectly
   * never figured out what she meant until today
 
