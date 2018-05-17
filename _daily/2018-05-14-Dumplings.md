@@ -28,3 +28,5 @@ TODAY:
 LEARNINGS:
 * that nrfx_twi read and write functions only need 7 LSB of the address!!!
   * <.< this one had my head scratching for several hours
+* really have to read these hardware datasheets super closely
+  * inconsistent nomenclature abound :'(
