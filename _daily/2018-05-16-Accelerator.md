@@ -19,7 +19,7 @@ YESTERDAY:
 TODAY:
 * got the code working for PDM in less than an hour <.<
   * not too shabby
-* got accepted to TechStars accelerator program, yay!
+* got accepted to (super secret) accelerator program, yay!
 * figured out my misunderstanding of datasheet (again)
 * tasty sandwich shop for lunch
   * playing Journey, haven't heard that since college
