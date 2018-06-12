@@ -24,10 +24,15 @@ YESTERDAY:
 * continue debugging temp/pressure
   * discovered that the SDA and SCL lines were connected to pins 9 and 10
   * pins 9 and 10 are reserved for NFC operation unless you mark a special flag ...
-* context switch to demo prep testing
+* need to context switch to demo prep testing
 
 TODAY:
-* 
+* woke up, ran debugger, realized that my #define wasn't used in that part of the code
+  * added flag to Makefile as a -D option and it works!!!
+  * pressure/temp readings fully functional on sensor
+* finished last of dumplings for lunch
+* head to office
+* back to battery power reads via SAADC
 
 LEARNINGS:
 * so, I realized that I might have been doing a keto diet by accident
