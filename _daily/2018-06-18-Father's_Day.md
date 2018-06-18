@@ -19,6 +19,7 @@ YESTERDAY:
 * cleaned up flash code
 * nap
 * Shanghai for dinner
+  * lovely discussion on all sorts of interesting things Google does with books
 * called dad
 * read documentation and implemented flash reads and writes
 
@@ -26,4 +27,5 @@ TODAY:
 * 
 
 LEARNINGS:
-* 
+* what '*this = 1' means in a C++ constructor?
+  * actually ... I lied, I still have no idea what this does
