@@ -15,10 +15,12 @@ YESTERDAY:
   * overdid it on the fingers with an 11b
   * scraped part of my pinky off on a v2
   * fingers aren't used to bouldering anyomre xD
+  * teaching a friend's nephew some basics of climbing
 * Taiwanese for lunch
 * cleaned up flash code
 * nap
-* Shanghai for dinner
+* Shanghainese for dinner at Shanghai Bistro in Fremont
+  * pan-fried pork buns were quite delicious and not oily!
   * lovely discussion on all sorts of interesting things Google does with books
 * called dad
 * read documentation and implemented flash reads and writes
