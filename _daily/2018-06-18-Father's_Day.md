@@ -31,3 +31,9 @@ TODAY:
 LEARNINGS:
 * what '*this = 1' means in a C++ constructor?
   * actually ... I lied, I still have no idea what this does
+* lol so I got my flash writes to work
+  * and then I discovered that the first 12 pages are "One Time Program" (OTP) pages which explains why my subsequent write attempts failed
+* EasyDMA has a max transfer size of 255 bytes per SPI transaction
+  * we can get around this by using EasyDMA ArrayLists and PPI (complicated)
+  * or we can just do several transactions in a row before bringing slave select pin high
+    * but of course, you can only do this in SPIM_EXTENDED mode which is only supported on nrf52840, not nrf52832

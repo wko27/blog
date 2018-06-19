@@ -18,7 +18,7 @@ YESTERDAY:
   * got a bunch of next steps on debugging various pieces
 * went to yoga
 * did some firefighting
-  * accidentally left pan on high while cutting mushrooms
+  * accidentally left pan with oil on high while cutting mushrooms
   * zomg flames!
   * used a cup of water to put out the flames and Amy's placemats to stop the smoke alarm
   * anyway, delicious sauteed onions and mushrooms over spinach
