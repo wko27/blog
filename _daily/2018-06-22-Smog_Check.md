@@ -24,8 +24,8 @@ YESTERDAY:
   * battery on robot vacuum cleaner died
 * steamed a fish
   * Brian made a scampi with fresh pasta to go with it
-* smoothie
-* finished leftover green beans before I head to LA
+* smoothie to finish the last banana before I head to LA
+  * finished some leftover green beans too
 * paid my DMV registration bill
 * ported data upload part from Android app into Python for a UART dump
 
@@ -35,6 +35,11 @@ TODAY:
 * drive to LA!
   * bringing Amy's violin and electric guitar down
   * also a super secret box of documents for my aunt
+  * 7 hours
+  * nap on a lovely beach south of San Luis Obispo
+* had some of my parent's homemade rice dumplings for dinner!
+* found out my parents have gotten into dehydrating random stuff
+  * kitchen's full of jars of powdered ginger, scallions, okra, etc
 
 LEARNINGS:
 * the modulation for PDM is done on the sensor side in a digital microphone (which ... kinda makes sense)
