@@ -38,3 +38,8 @@ LEARNINGS:
   * conda uninstalled and switched to pip
 * bitshifts in python use unsigned int32s ... need to do explicit subtraction to get proper sign bit
 * if you update a global variable in a function in python, need to declare it global (otherwise it'll believe it's a declaration + assignment of a new local)
+* how to properly debug when SoftDevice is enabled
+  * issue is if you stop execution, there's a higher interrupt that will trigger and get out of whack due to unexpected timing issues
+  * one trick is to force the primask register to 1 to disable those interrupts
+  * this will break SoftDevice, but at least you can step through code without ending up in a SoftDevice assertion error
+  * programmatic setting can be done through __ASM volatile ("MSR primask, %0" : : "r" (0x1) : "memory");
