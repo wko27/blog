@@ -32,6 +32,8 @@ TODAY:
 * 5.5 hour drive back to bay area
   * wasn't sleepy for some reason, straight shot
   * realized a bug around 3 hours in
+* got home just before midnight
+* unpack everything, then sleep
 
 LEARNINGS:
 * pyserial version in conda is 2.7, not latest 3.4 and doesn't include read_until function ...
