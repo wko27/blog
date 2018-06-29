@@ -19,7 +19,6 @@ YESTERDAY:
   * spent half the night writing thank you cards to everybody
 * found out I can't stream from accelerometer or write to flash for more than X seconds
   * turns out shaking the sensor board while attached to Segger J-Link was causing the debugger to freak out
-  * Segger Embedded Studio reports that the stack is stuck in address 0xDEADBEEF though ...
 * found a weird bug where read from flash + send over UART results in flash erased?
   * writing some tests to debug further
 
@@ -45,3 +44,4 @@ LEARNINGS:
   * one trick is to force the primask register to 1 to disable those interrupts
   * this will break SoftDevice, but at least you can step through code without ending up in a SoftDevice assertion error
   * programmatic setting can be done through __ASM volatile ("MSR primask, %0" : : "r" (0x1) : "memory");
+* if you find the debugger stuck in 0xDEADBEEF code, check the JLink connection

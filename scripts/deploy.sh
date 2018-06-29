@@ -10,8 +10,8 @@ duplicates=$( find _posts/ _daily -name "*.md" -type f -exec grep -m 1 unique_id
 if [[ -n "$duplicates" ]]; then
     echo "Found duplicates but expected unique post ids: $duplicates"
     for duplicate in $duplicates; do
-	grep "$duplicate" _posts/*.md
-	grep "$duplicate" _daily/*.md
+	grep "unique_id: $duplicate" _posts/*.md
+	grep "unique_id: $duplicate" _daily/*.md
     done
     exit 1
 fi

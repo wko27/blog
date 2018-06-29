@@ -15,13 +15,13 @@ YESTERDAY:
   * also by luck, the "configuration status" register value that I updated set a few bits properly disabling more of those one-time protection pages
   * when I fixed that bug, everything broke
 
-
 TODAY:
 * realized that there's a permission register which is initialized to protect all blocks
   * disabled that thing completely, but things still failing
 * chatted with hardware engineer for 2 hours debugging flash
 * Taiwanese for lunch
 * refactored tests, still failing
+* visited fellow startup in the office and found a certain fellow hanging out!
 * took a nap
   * woke up from nap and realized that my test is incorrect; I've been doing sequential reads and writes so it's possible that I'm only verifying reads on the flash's internal buffered value instead of flushes
 * rewrote a lot more code
@@ -37,4 +37,3 @@ LEARNINGS:
 * learned a new hamstring workout
   * basically bridge pose with butt raised, but then slide your feet out and in (wearing socks on a slippery floor)
   * holy cow, my hamstrings were instantly sore xD
-
