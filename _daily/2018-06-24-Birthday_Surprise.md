@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: heavy_food
-title: Heavy Food
+unique_id: birthday_surprise
+title: Birthday Surprise
 categories: []
 locations: 
 ---
@@ -29,6 +29,7 @@ TODAY:
 * leftovers for dinner with parents
 * conversation about expectations
 * 5.5 hour drive back to bay area
+  * lovely crimson sunset while stuck in traffic on I-5
   * wasn't sleepy for some reason, straight shot
   * realized a bug around 3 hours in
 * got home just before midnight
