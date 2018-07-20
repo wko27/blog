@@ -16,6 +16,7 @@ YESTERDAY:
 * dropped off boards at hardware contractor
 * westworld
 * made a lovely house description in case of AirBnB
+* tested new recording device
 * cleaned up condo
 * guitar
 * late night chat with hardware contractor
@@ -23,8 +24,21 @@ YESTERDAY:
   * explains all the hardware failures since the battery was in contact with all the peripherals -_-
 
 TODAY:
-* 
+* spent morning finishing up a sampling feature
+  * discovered a data validation issue halfway through the morning
+  * spent the next four hours debugging and fixing it
+  * got it all done about 5 minutes after tire installer was scheduled to come
+* second round of testing!
+  * one hour of test drives
+  * higher success rate this time
+* hosted a dinner party
+  * thai food
+  * monopoly
+    * which when played correctly was actually quite fun
+  * late night discussions on life
 
 LEARNINGS:
 * never get boneless wings, bone-in only!!!
   * way too much breading :(
+* in embedded lands, runtime validation checks can cause race conditions ...
+  * very useful to have debug code warning if that race condition was ever hit
