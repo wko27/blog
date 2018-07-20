@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: meeting_mentors
-title: Meeting Mentors
+unique_id: pitch_competition
+title: Pitch Competition
 categories: []
 locations: 
 ---
@@ -28,7 +28,7 @@ YESTERDAY:
 TODAY:
 * panel discussion from a bunch of people
 * free sandwich for lunch
-* won a pitch competition
+* won a pitch competition (fake 500k)
   * first time pitching IntelliTire :D
 * attended an event hosted by Lyft
   * interesting last mile partnership with city of Detroit
