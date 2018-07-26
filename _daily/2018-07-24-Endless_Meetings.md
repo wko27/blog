@@ -31,3 +31,4 @@ LEARNINGS:
 * there's some pretty large spiders in our apt
 * how an angelist syndicate works
 * don't use hand soap to clean water bottle
+* super happy Sunjay is here to take on these meetings
