@@ -21,7 +21,15 @@ YESTERDAY:
 * endless data analysis
 
 TODAY:
-* 
+* totally messed up sleeping cycle by waking up at 8 am
+* early morning tire installation
+  * primary tire shop was closed, had to default to expensive place
+* drive to San Mateo
+* work out of office
+  * backend service refactoring
+* Subway for lunch
+* didn't realize USPS closes at 4:30 pm on Fridays
+* hot pot dinner with friends
 
 LEARNINGS:
 * fantastic summary of [world war II](https://www.youtube.com/watch?v=LFi06Amyzx8)
