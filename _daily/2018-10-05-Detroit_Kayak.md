@@ -21,7 +21,11 @@ YESTERDAY:
   * sync-up
 
 TODAY:
-* 
+* salad for lunch
+* meetings
+* dinner at Urban Ramen (based in LA)
+  * probably overdid it with a rice bowl, ramen, and karaage
+* checked out a fellow startup's van
 
 LEARNINGS:
 * how pulleys work
