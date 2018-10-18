@@ -21,7 +21,7 @@ TODAY:
   * haven't climbed in three weeks
   * finished an 11c
 * dental appointment
-* lunch with parents at home
+* dumplings for lunch with parents at home
 * three sensor installs into tire
 * ran around gathering test data sets
 * purchased 500 lbs of weights from Walmart
