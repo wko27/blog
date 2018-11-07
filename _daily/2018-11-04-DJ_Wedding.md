@@ -32,9 +32,12 @@ TODAY:
 * amazing wedding!
   * super emotional
   * beautiful sunset for pictures
+  * caught up with old friends
+  * lovely to see half of my team together again!
 * super kind staff gave me non-dairy options :)
 * drove back to LA
   * dropped off manager and gave him his mail-in election ballot
+* fell asleep researching Sprinter RV conversions
 
 LEARNINGS:
 * easier fold for carambola
