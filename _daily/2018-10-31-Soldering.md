@@ -28,6 +28,8 @@ TODAY:
   * headed up to mech shop
   * sensor extraction showed some fascinating results
   * made friends at a tire shop
+  * finally discovered my missing pair of scissors from ~4 years ago!!!!
+    * apparently it fell beneath my trunk where my spare tire lives
 * forgot to eat lunch
   * ended up having two snackbars
   * couldn't wait for dinner, so I also had a bowl of vermicelli at a Vietnamese place
