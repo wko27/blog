@@ -19,7 +19,9 @@ YESTERDAY:
   * sleepover party!
 
 TODAY:
-* straight walk to dim sum
+* 5 min walk to dim sum
+  * Tai Yuan Seafood Restaurant
+  * pretty average
 * caught up with one of my old teammates
   * played Alienation (like Helldivers, but with more permanent upgrades and no friendly-fire)
 * stir-fried napa + shrimp and finished two rice dumplings
