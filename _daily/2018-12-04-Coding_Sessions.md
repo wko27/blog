@@ -15,6 +15,15 @@ YESTERDAY:
 
 TODAY:
 * morning yoga!
+* tire install
+  * new algorithm testing :D
+  * got some free lug nuts in exchange for a Yelp review :p
+  * also finally remembered the names of the brothers (Vince and Guido)
+* two bagels for lunch
+* pitch practice
+* Yibin and Yu's for dinner
+  * v2 char siu recipe super successful!
+  * might have been slightly undercooked though ...
 
 LEARNINGS:
-* 
+* how to get in the zone again
