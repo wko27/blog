@@ -30,6 +30,17 @@ TODAY:
   * refreshing mango juice
 * card games to relax
   * big 2, spoons, and egyptian ratscrew
+* wedding to attend!
+  * pretty simple ceremony
+  * delicious black pepper beef dish
+* met Haley's infamous cousin
+  * big guy, drinks a lot
+* karaoke!
+  * listened to some cute Burmese songs
+  * that drunk cousin passed out hard
+  * Tett had an older generation uncle that was having tons of fun :D
+* 1:30 am run for noodles
+* 3 am got to sleep
 
 LEARNINGS:
 * how to have fun again with card games
