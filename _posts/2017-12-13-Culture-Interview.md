@@ -2,7 +2,7 @@
 layout: post
 unique_id: culture_interview
 title: Culture Interview
-categories: []
+categories: [work]
 locations: 
 ---
 

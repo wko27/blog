@@ -31,6 +31,8 @@ TODAY:
   * pretty tasty carnitas burrito for the price
 * drive to work ... slowly
 * productive session!
+* scheduled maintenance for car
+  * transmission acting up again :(
 
 LEARNINGS:
 * how motivated I am by coworkers

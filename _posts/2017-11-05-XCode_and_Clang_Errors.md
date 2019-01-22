@@ -2,7 +2,7 @@
 layout: post
 unique_id: xcode-clang
 title: XCode and Clang Errors
-categories: []
+categories: [technical]
 locations: 
 ---
 

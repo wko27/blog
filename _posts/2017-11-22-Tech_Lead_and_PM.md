@@ -2,7 +2,7 @@
 layout: post
 unique_id: tech_lead_and_pm
 title: Tech Lead and PM
-categories: []
+categories: [work]
 locations: 
 ---
 

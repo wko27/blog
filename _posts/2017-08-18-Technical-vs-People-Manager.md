@@ -2,7 +2,7 @@
 layout: post
 unique_id: technical_vs_people_mgr
 title: Culture Shifts - Technical vs People Managers
-categories: [long]
+categories: [work]
 ---
 
 This is part 2 of a post on how [culture changed within engineering at Medallia]({{ site.baseurl }}/Team-Split).
