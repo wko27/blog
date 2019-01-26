@@ -6,12 +6,12 @@ cd $( git rev-parse --show-toplevel )
 
 # Do some validation checks
 echo "-- Checking unique ids"
-duplicates=$( find _posts/ _daily -name "*.md" -type f -exec grep -m 1 unique_id {} \; | sed 's/unique_id: //g' | sort | uniq -d )
+duplicates=$( find _posts/ _daily -name "*.md" -type f -exec grep -m 1 unique_id {} \; | sed 's/unique_id: $//g' | sort | uniq -d )
 if [[ -n "$duplicates" ]]; then
     echo "Found duplicates but expected unique post ids: $duplicates"
     for duplicate in $duplicates; do
-	grep "unique_id: $duplicate" _posts/*.md
-	grep "unique_id: $duplicate" _daily/*.md
+	grep "unique_id: $duplicate$" _posts/*.md
+	grep "unique_id: $duplicate$" _daily/*.md
     done
     exit 1
 fi
