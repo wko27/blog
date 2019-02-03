@@ -32,6 +32,8 @@ TODAY:
   * zomg feedback <3
 * got stuck at the office because my co-founder stole my keys (by accident)
 * late night hardware dropoff
+* panda for dinner!
 
 LEARNINGS:
 * how much I miss code reviews
+  * almost as much as I missed panda express :D
