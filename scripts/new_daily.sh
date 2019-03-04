@@ -1,16 +1,38 @@
 #!/bin/bash
 # Create a new daily with the given title
 
-if [[ $# -ne 1 ]]; then
-    echo "Usage: ./new_daily.sh (title)" 1>&2
-    exit 1
+set -e # Exit immediately if a command exits with a non-zero status.
+set -u # Treat unset variables as an error when substituting.
+
+help_text() {
+    echo "Usage:"
+    echo "  $0 [title]"
+    echo "    - Creates new daily with title"
+    echo "  $0 [title] --tmr"
+    echo "    - Creates a new daily for tomorrow with the given title"
+    exit 0
+}
+
+if [[ $# -eq 0 || $# -gt 2 ]]; then
+    help_text
 fi
 
 title="$1"
+create_for_tomorrow=false
+if [[ $# -eq 2 &&  "$2" = "--tmr" ]]; then
+    create_for_tomorrow=true
+fi
+
 escaped_title=$( echo "$title" | tr ' ' '_' )
 unique_id=$( echo "$escaped_title" | tr '[:upper:]' '[:lower:]' )
 
-new_daily=../_daily/"$( date +%F )"-"$escaped_title".md
+if [[ $create_for_tomorrow = "true" ]]; then
+    date_prefix=$( date -v+1d +%F )
+else
+    date_prefix=$( date +%F )
+fi
+
+new_daily=../_daily/"$date_prefix"-"$escaped_title".md
 
 if [[ -e "$new_daily" ]]; then
     echo "File $new_daily already exists"
