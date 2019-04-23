@@ -7,17 +7,6 @@ locations:
 ---
 
 YESTERDAY:
-* early morning climbing
-  * friend going through sadness, unsure how to help!
-* missed breakfast for the first time in a week :D
-* ramen for lunch
-* productive day!
-* wrapped up a bunch of testing
-* dinner with Suse, Haley, and Tett at a Japanese Himawari
-  * kanitama don was pretty tasty!
-* ended up reading Poppy War straight through for 4 hours until 3 am
-
-TODAY:
 * woke up pretty late
 * laundry
 * guitar lesson
@@ -32,5 +21,21 @@ TODAY:
 * also tried to make the HK-style eggs + shrimp chow fun
   * not super successful here
 
+TODAY:
+* woke up at 7:30 am
+  * forced myself to stay awake
+* finished reading 14
+  * characters were interesting, but the plot ...
+* yoga at Stanford
+  * great class!
+  * crazy sore after that 1.5 hour ping-pong practice
+  * -_- getting old
+* lunch w/ Yaokai
+* massive nap
+* finished leftovers for dinner
+* bit of coding
+* prep for meeting tmr
+* practiced with locks!
+
 LEARNINGS:
-* feels great to read a book straight through!
+* need to get back into ping-pong
