@@ -11,6 +11,8 @@ YESTERDAY:
   * no headaches on the transition
 * discovered Unity, a unit testing framework for C
 * tons of testing with Tett
+* missed a phone chat volunteer thing
+  * sorry Gaby! :'(
 * left work by 9
 * ended up in a one hour phone conversation at the in-n-out's parking lot
 * too late to climb, in-n-out for dinner and leftover wings
