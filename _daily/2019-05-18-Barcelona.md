@@ -7,6 +7,16 @@ locations:
 ---
 
 YESTERDAY:
+* met with the CTO of Reddit
+  * great guy, talks at my speed :D
+* fun fixing backend services with Alan
+* monitoring framework is live!
+* missed yoga class :(
+* bouldering
+* finished a v4
+* started packing
+
+TODAY:
 * slept in instead of yoga
 * morning guitar lesson
 * quick trip to CVS to pick up trip supplies
@@ -27,17 +37,6 @@ YESTERDAY:
 * budget airline, no food, but at least they don't charge for water
   * impressive baby crying the entire flight
   * yay for earplugs
-
-TODAY:
-* arrived in Barcelona
-  * easy way to apt
-  * met up with parents
-* explored a supermarket and tourist strip
-  * close to placa de catalunya
-* paella for dinner
-* shower
-* sleep
-* apartment is by a side street which is quite loud at night
 
 LEARNINGS:
 * whew I need to relax
