@@ -8,6 +8,7 @@ locations:
 
 YESTERDAY:
 * wrapped surprise bday gift for friend
+  * finally ran out of wrapping paper
 * head to work in the morning
 * tire install done by coworker
   * failure condition debugging
