@@ -40,6 +40,7 @@ TODAY:
   * went to see some beautiful sights from Skyline
 * Chef Yang bbq for dinner
   * so oily xD
+* discovered Sweethoney Dessert has mango sago!
 * late night code reviews and db migrations
 
 LEARNINGS:
