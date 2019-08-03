@@ -17,7 +17,9 @@ YESTERDAY:
 * sleep by 11
 
 TODAY:
-* 
+* 1 hour nap
+* took a bunch of co-workers climbing!
+* planning another co-worker's birthday :D
 
 LEARNINGS:
 * 
