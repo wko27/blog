@@ -22,4 +22,4 @@ TODAY:
 * planning another co-worker's birthday :D
 
 LEARNINGS:
-* 
+* need to not get sick
