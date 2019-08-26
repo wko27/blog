@@ -19,6 +19,7 @@ YESTERDAY:
   * picked up some gifts
 * family bbq!
   * korean short ribs
+  * picked a bunch of fruit from a fig tree
   * lovely birthday cake (mango)
   * delicious vegan cupcakes
 * spent the night listening to stories from parents, aunties, and uncles :)
@@ -37,3 +38,4 @@ TODAY:
 
 LEARNINGS:
 * really need more sleep
+* can keep the ginger skin on when stuffing into fish!
