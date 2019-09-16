@@ -27,7 +27,7 @@ TODAY:
 * stir-fried napa + shrimp and finished two rice dumplings
 
 LEARNINGS:
-* current state of [fusion reactors] (https://www.youtube.com/watch?v=L0KuAx1COEk)
+* current state of (fusion reactors)[https://www.youtube.com/watch?v=L0KuAx1COEk]
 * good to just not do things sometimes
 * what hurt the most about my last relationship was not the rejection
   * it was that she needed help and I neither perceived it nor gave it
