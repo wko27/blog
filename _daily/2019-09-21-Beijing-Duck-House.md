@@ -1,6 +1,6 @@
 ---
 layout: post
-unique_id: beijing_duck
+unique_id: beijing_duck_house
 title: Beijing Duck House
 categories: []
 locations: 
