@@ -7,6 +7,8 @@ locations:
 ---
 
 YESTERDAY:
+* Indian fried chicken for lunch!
+* head to work to meet with Sunjay
 * pho for dinner!
 * went to wicked with Jackie and her co-workers!
 
