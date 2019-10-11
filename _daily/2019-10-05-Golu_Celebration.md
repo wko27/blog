@@ -29,6 +29,8 @@ TODAY:
 * gas run
 * all the libraries closed by 7 pm
 * cleaned up bachata music collection
+* finished season 1 of Kakegurui
+* late night pickup for Jackie
 
 LEARNINGS:
 * the lore of Vishna, Rama, and Brahma
