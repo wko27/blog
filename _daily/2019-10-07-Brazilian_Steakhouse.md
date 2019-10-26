@@ -24,4 +24,5 @@ TODAY:
 * helped her make some cupcakes for International Octopus Day!
 
 LEARNINGS:
-* 
+* how lovely it is when somebody else cooks for you
+
