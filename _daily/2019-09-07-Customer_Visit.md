@@ -37,3 +37,4 @@ TODAY:
 
 LEARNINGS:
 * meeeeow
+* how enjoyable it is to waltz around SF!
