@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: moon_festival
-title: Moon Festival
+unique_id: power_yoga
+title: Power Yoga
 categories: []
 locations: 
 ---
@@ -21,4 +21,4 @@ TODAY:
   * might have overdone it, first exercise in a week
 
 LEARNINGS:
-* what it's like to hang out with friends
+* what it's like to hang out with friends at a musical!
