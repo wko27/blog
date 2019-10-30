@@ -23,6 +23,7 @@ TODAY:
 * crunch crunch crunch
 * Halal Guys for dinner at the office
 * missed my power yoga class :'(
+* Chase Reserved card arrived!
 * got to sleep by 1 am
 
 LEARNINGS:
