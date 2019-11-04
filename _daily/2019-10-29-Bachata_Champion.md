@@ -28,4 +28,5 @@ TODAY:
 
 LEARNINGS:
 * more fun with JWT!
+  * turns out Google does a validation on the iat claim (15 minute window)
 * circular dependency management with Typescript
