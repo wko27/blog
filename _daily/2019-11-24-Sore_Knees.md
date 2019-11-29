@@ -9,6 +9,7 @@ locations:
 YESTERDAY:
 * 12 mile hike at Mt. Diablo!
   * friends brougth along two pinecones for fun
+  * introduced two ML specialists working on similar projects
 * korean for dinner in Oakland
   * Bowl'd restaurant
   * jap chae recommendation for a Lithuanian intern
@@ -29,3 +30,4 @@ TODAY:
 
 LEARNINGS:
 * knees are super out of shape :(
+* how to name a pinecone (migo and tigo)
