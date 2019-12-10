@@ -22,10 +22,15 @@ YESTERDAY:
 * shower
 * leftovers from my parents for dinner
 * new laptop arrived
-  * macbook air 2017 was $300 cheaper
+  * macbook air 2017 was $300 off on Amazon for black friday!
 
 TODAY:
-* 
+* got to work by 8:30 am
+* ordered Amy her Christmas present!
+* super small class at Bachata
+  * complicated footwork
+* broke another dev kit :(
 
 LEARNINGS:
-* 
+* all these little details I missed in the Star Wars films
+  * subtitles help!
