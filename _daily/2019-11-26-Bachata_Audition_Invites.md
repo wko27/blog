@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: bachata_auditions
-title: Bachata Auditions
+unique_id: bachata_audition_invites
+title: Bachata Audition Invites
 categories: []
 locations: 
 ---

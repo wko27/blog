@@ -16,7 +16,15 @@ YESTERDAY:
   * new dance instructor was distractingly graceful
 
 TODAY:
-* 
+* upset stomach after breakfast :'(
+* salmon for lunch
+* also, salmon for dinner!
+* ended up late to puzzled pint
+  * hung out with Bernice for a bit
+  * finished up some french fries
+* spent 2 hours cutting out tires
+* started a poem!
+  * haven't written one in months
 
 LEARNINGS:
-* 
+* not to get a hand cramp
