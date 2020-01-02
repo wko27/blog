@@ -22,12 +22,18 @@ YESTERDAY:
 TODAY:
 * pick up rental car from Vancouver airport
 * drive to Seattle!
-* took 2 hours to get through border
-  * took a nap along the way
-* delivered gifts to Ann and Knut!
+* breakfast sandwich from Tim Horton's
+* took 2 hours to get through the border
+  * took a 20 minute nap while stuck in traffic
+* met Hannah, Ann and Knut's 4 month old baby
+* delivered gifts to Ann, Knut, and Mark!
   * delicious homecooked meal with ham
-* llamas unleashed with 
+  * potato-onion pancakes
+* llamas unleashed
+* monopoly deal
+* caught up with Mark
+  * dinner with Kevin and Tao!
 
 LEARNINGS:
 * huh you can play dominion online
-
+* Knut is the same as always
