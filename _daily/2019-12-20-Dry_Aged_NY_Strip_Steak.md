@@ -1,8 +1,8 @@
 
 ---
 layout: post
-unique_id: dry_aged_ny_strip_steak
-title: Dry Aged NY Strip Steak
+unique_id: dry_aged
+title: Dry Aged
 categories: []
 locations: 
 ---
