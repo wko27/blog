@@ -17,7 +17,11 @@ YESTERDAY:
 * called the parents on the way home
 
 TODAY:
-* 
+* work work work
+* attempted wart removal begins!
+* a gift arrives from Poland!
+* pho for dinner
+* tried out the demon hunter in diablo 3
 
 LEARNINGS:
-* 
+* can't use a bandaid'd thumb on mobile device :(
