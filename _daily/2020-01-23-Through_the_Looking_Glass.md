@@ -15,7 +15,10 @@ YESTERDAY:
 * Jackie began a month of catsitting
 
 TODAY:
-* 
+* happy deployment!
+* bachata class!
+  * whew I was bad :D
+* in n out for dinner
 
 LEARNINGS:
 * lifecycle of a wart
