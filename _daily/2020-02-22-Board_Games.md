@@ -1,0 +1,23 @@
+---
+layout: post
+unique_id: board_games
+title: Board Games
+categories: []
+locations: 
+---
+
+YESTERDAY:
+* brought Knut to the office
+  * ramen for lunch
+* culture interview
+  * haven't done those in a while
+* Medallia reunion!!
+  * so many familiar faces :D
+* dinner at Anatolia Kitchen
+
+TODAY:
+* guitar lesson
+* lunch
+
+LEARNINGS:
+* license plate theft is a thing!!

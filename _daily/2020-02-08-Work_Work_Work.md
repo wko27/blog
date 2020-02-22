@@ -17,7 +17,12 @@ YESTERDAY:
 * laundry
 
 TODAY:
-* 
+* head to work
+  * debugging
+* missed lunch :(
+* Zeni's for dinner!
+* lost a game of eldritch horror
+* won the 2nd game though!
 
 LEARNINGS:
 * Medallia was full of talented folks

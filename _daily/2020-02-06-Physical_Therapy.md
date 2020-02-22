@@ -9,6 +9,8 @@ locations:
 YESTERDAY:
 * evening prep for meeting
 * bachata class
+* mcdonalds for dinner
+  * took a while to find hash browns on the menu
 
 TODAY:
 * major demo
