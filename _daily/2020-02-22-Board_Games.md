@@ -18,6 +18,11 @@ YESTERDAY:
 TODAY:
 * guitar lesson
 * lunch
+* board games!
+  * haven't seen Aasmund in quite a while
+* thai food for dinner
+* watched 3rd John Wick movie
+  * zero plot ...
 
 LEARNINGS:
 * license plate theft is a thing!!
