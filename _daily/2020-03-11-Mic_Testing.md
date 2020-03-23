@@ -12,8 +12,6 @@ YESTERDAY:
 * Five Guys for dinner!
   * love those fries
   * free peanuts!
-* watched Marriage Story
-  * such a stressful movie q.q
 
 TODAY:
 * office notified us of closure by Friday
