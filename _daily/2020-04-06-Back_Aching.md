@@ -23,7 +23,11 @@ YESTERDAY:
 * played Codenames online!
 
 TODAY:
-* 
+* back finally stopped hurting!
+* leftover pizza for lunch
+* started a new book
+* salmon for dinner
+  * pan-fried, super tasty
 
 LEARNINGS:
-* 
+* pan-fried salmon is delicious!
