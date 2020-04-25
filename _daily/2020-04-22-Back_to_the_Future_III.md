@@ -16,7 +16,9 @@ YESTERDAY:
   * cute movie, but ... not as amazing as Pixar's usual films
 
 TODAY:
-* 
+* fun little code red issue and resolution
+* played legendary!
 
 LEARNINGS:
-* 
+* flask
+
