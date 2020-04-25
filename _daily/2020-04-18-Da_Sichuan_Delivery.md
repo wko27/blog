@@ -17,6 +17,7 @@ TODAY:
   * ranch 99 + nob hill
 * made a non-vegan hot pot for a vegan weekend bites event
 * afternoon working session while Jackie watched drag race
+* Jackie re-seasoned my cast iron pan!
 * stayed up until 3 am trying to beat the sandworm in Ori WotW
 
 LEARNINGS:
