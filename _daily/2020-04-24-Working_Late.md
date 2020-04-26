@@ -20,4 +20,5 @@ TODAY:
   * bit expensive
 
 LEARNINGS:
-* 
+* frontend is super relaxing
+
