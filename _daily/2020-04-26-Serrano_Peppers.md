@@ -20,7 +20,9 @@ YESTERDAY:
 * new bachata moves to practice!
 
 TODAY:
-* 
+* tried slow cooking the stew overnight and ended up burning it :(
+* basically worked the entire day
+* brooklyn 99
 
 LEARNINGS:
 * dangerous peppers
