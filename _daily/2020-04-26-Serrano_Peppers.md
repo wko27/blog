@@ -22,6 +22,7 @@ YESTERDAY:
 TODAY:
 * tried slow cooking the stew overnight and ended up burning it :(
 * basically worked the entire day
+* made a soondubu with clams!
 * brooklyn 99
 
 LEARNINGS:
