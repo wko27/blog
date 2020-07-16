@@ -16,7 +16,8 @@ YESTERDAY:
   * new brussel sprouts recipe!
 
 TODAY:
-* 
+* puzzled pint
+* had oven slow cooked bbq short ribs
 
 LEARNINGS:
 * struct in Python
