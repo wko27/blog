@@ -22,4 +22,4 @@ TODAY:
 
 LEARNINGS:
 * painful bosses
-* reliving the join of tetris
+* reliving the joys of tetris
