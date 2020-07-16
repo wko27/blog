@@ -9,10 +9,7 @@ locations:
 YESTERDAY:
 * Jackie made pancakes properly
 * spent 6 hours in meetings q.q
-* made a faux McDonald's dinner!
-  * Jackie made a sausage egg mcmuffin using real eggs and Italian sausage
-  * I made dinosaur chicken nuggets and baked fish
-  * forgot the fries q.q
+* forgot what we did for dinner
 * finished ice cream
 * practiced guitar 3 times today
 
@@ -24,4 +21,4 @@ TODAY:
 
 LEARNINGS:
 * should have bought more ice cream q.q
-* dino nuggets aren't nearly as good as they were in college
+
