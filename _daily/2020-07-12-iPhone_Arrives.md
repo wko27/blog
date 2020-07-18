@@ -18,6 +18,7 @@ YESTERDAY:
 
 TODAY:
 * 
+* made an oxtail soup!
 
 LEARNINGS:
 * 
