@@ -13,9 +13,17 @@ YESTERDAY:
 * weird nap
 * slept at 5 am?
 * late night coding
+* Jackie was playing Sea of Thieves with her friends
 
 TODAY:
 * guitar lesson
+* headed out on an errand with Jackie
+  * groceries from H-Mart
+  * dropped off a certificate for somebody
+  * bunch of drive testing on the way
+* made pre-marinated kalbi for dinner
+  * honestly, not super impressed :(
+  * too many bone fragments and the sauce was pretty light
 
 LEARNINGS:
 * carrots are FRUITS???
