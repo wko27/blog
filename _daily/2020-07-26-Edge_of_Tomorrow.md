@@ -33,7 +33,9 @@ TODAY:
 * slow-baked ribs for dinner
   * might have set off the alarm on the smaller 2nd batch
 * Jackie made a batch of dumplings
+* attempted going to sleep without my back support!
 
 LEARNINGS:
 * good to clean every now and then
 * need to cover my ribs to keep them more moist
+* java support for cloud functions!!!
