@@ -19,6 +19,8 @@ TODAY:
   * not bad, but Sichuan beef was pretty spicy
   * odd gooey rice cake thing for dessert
 * started reading a new book
+  * something about dragons and Europe in the 1800s?
 
 LEARNINGS:
-* 
+* all my authors are procrastinating q.q
+  * initial deadlines were back in 2019!!
