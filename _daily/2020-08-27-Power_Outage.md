@@ -9,6 +9,7 @@ locations:
 YESTERDAY:
 * stew for lunch
 * leftover kalbi for dinner
+* Jackie started crocheting things!
 
 TODAY:
 * jackie finished stew

@@ -20,9 +20,17 @@ YESTERDAY:
 * japanese curry for dinner
   * works surprisingly well with roast duck buns
   * made the curly fries too early, didn't get to mix them
+* finished Ghost of Tsushima
+  * unsatisfying ending :'(
 
 TODAY:
-* 
+* eggs for breakfast
+* leftover curry for lunch
+* Tett informed me of a pizza discount this week
+  * ordered wings
+  * they definitely had dairy
+* Jackie started making somethign around lunch
+  * By evening, she had a mitten!
 
 LEARNINGS:
-* 
+* National Pizza Week!
