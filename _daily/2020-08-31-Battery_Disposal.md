@@ -28,9 +28,12 @@ TODAY:
 * leftover curry for lunch
 * Tett informed me of a pizza discount this week
   * ordered wings
-  * they definitely had dairy
-* Jackie started making somethign around lunch
+  * they definitely had butter in them
+  * gastric distress the entire night
+* Jackie started making something around lunch
   * By evening, she had a mitten!
+* started making an oxtail stew late at night
+  * turned the heat off around midnight
 
 LEARNINGS:
 * National Pizza Week!
