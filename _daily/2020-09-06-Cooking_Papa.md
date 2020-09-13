@@ -21,7 +21,10 @@ YESTERDAY:
   * Jackie made a tasty A-choy recipe
 
 TODAY:
-* 
+* finally made it to Ikea!
+  * yoga while waiting in line
+  * picked up Swedish meatballs
+* Jackie and I fixed an old mistake I made installing a magnetic tool holder
 
 LEARNINGS:
 * 
