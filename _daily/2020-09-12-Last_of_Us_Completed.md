@@ -16,6 +16,7 @@ YESTERDAY:
 
 TODAY:
 * guitar lesson
+* leftover thai food for lunch
 * took a nap
 * Post Office + Safeway run
 * seafood boil for dinner!
