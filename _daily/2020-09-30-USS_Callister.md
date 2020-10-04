@@ -10,6 +10,8 @@ YESTERDAY:
 * finished our fake salmon (steelhead trout)
   * lemon garlic butter
   * pretty tasty!
+* new underbed storage containers arrived!
+  * decluttered the closet a bit
 * finished Last of Us 2
   * Santa Barbara enemies were completely pointless
   * nice finale though ...
@@ -22,6 +24,7 @@ TODAY:
   * pretty tasty anyway!
 * deathnote with Thorvald
 * watched black mirror episode
+  * USS Calister, pretty amusing
 
 LEARNINGS:
 * milk! in japanese curries!
