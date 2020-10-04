@@ -18,7 +18,8 @@ YESTERDAY:
   * went to pick it up, so excited!
   * :( such tiny portions, pho is more worth it for delivery
 * supposed to walk with Chetan
-* 
+  * cancelled :(
+* spicy boiled fish for dinner
 * played two games of a Sherlock Holmes mystery game
   * each one took 3 hours and filled up my entire whiteboard
 

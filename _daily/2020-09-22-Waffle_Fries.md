@@ -17,6 +17,8 @@ TODAY:
 * NY strip steak for dinner
   * little overdone
   * might have let it rest too long
+  * also corn and mashed potatoes
+* stuffed Jackie's mouth with grapes :D
 * worked until 11 ish
 * ended up with 4 hours of sleep?
 
