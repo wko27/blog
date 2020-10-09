@@ -19,7 +19,12 @@ YESTERDAY:
 * Jackie danced for 2 hours to catch up to coworkers in a walking app
 
 TODAY:
-* 
+* wfh
+* finished beef stew for lunch!
+* sichaun boiled fish for dinner!
+* caught up with Thorvald
+* went for another lovely walk with Jackie
+* working till 2 am
 
 LEARNINGS:
-* 
+* shouldn't use steel wool on a creuset :(
