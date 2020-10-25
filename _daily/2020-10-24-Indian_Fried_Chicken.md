@@ -27,3 +27,4 @@ TODAY:
 
 LEARNINGS:
 * Asian test-taking taken too far!
+* need to find a use for React Chrono
