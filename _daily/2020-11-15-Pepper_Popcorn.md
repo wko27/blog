@@ -26,6 +26,8 @@ TODAY:
 * fried rice for dinner
   * NY strip steak in fried rice feels ... wrong
   * and a lovely salad with turkey and an egg
+* started making an oxtail soup
+  * been a while
 * opened a pomegranate for the first time (in a long time at least)
 * started watching queen's gambit
 * helped Jackie with interview prep
