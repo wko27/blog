@@ -23,4 +23,5 @@ TODAY:
 * got to sleep by 2 am
 
 LEARNINGS:
-* 
+* how fun it is to care for plants
+
