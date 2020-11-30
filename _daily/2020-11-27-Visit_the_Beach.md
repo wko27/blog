@@ -11,6 +11,7 @@ YESTERDAY:
 * spent most of the day playing Gloomhaven Jaws of the Lion
 * Jackie made a black pepper beef using sous vide NY strip steak
   * we used chicken broth which perhaps made the sauce not stick to the beef too well
+* family zoom call!
 * spent most of the night playing Gloomhaven as well ...
 
 TODAY:
