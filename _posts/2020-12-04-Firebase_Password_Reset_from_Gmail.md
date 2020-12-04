@@ -11,8 +11,10 @@ Firebase authentication has a useful email/password login option and it's defaul
 Firebase offers two ways to fix this; one by setting up a custom domain and one by integrating with any SMTP server.  We'll focus on the second one for today and specifically hooking it up to Gmail.
 
 ![Custom Domain]({{ site.baseurl }}/assets/img/2020-12-04_firebase_custom_domain.jpg){:class="img-responsive"}
+*Custom Domain option*
 
-![SMTP Server]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_gmail.jpg){:class="img-responsive"}
+![SMTP]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_gmail.jpg){:class="img-responsive"}
+*SMTP option*
 
 The steps are pretty simple:
 
@@ -29,8 +31,10 @@ Some parts to pay closer attention to:
   3. in Gmail, in the same Security tab, there's also a section for 'App Passwords', it's a good practice to avoid sharing the account password with Firebase, so create a custom one
 
 ![Less Secure Apps]({{ site.baseurl }}/assets/img/2020-12-04_google_admin_less_secure_apps.png){:class="img-responsive"}
+*Less Secure Apps*
 
 ![Gmail Security]({{ site.baseurl }}/assets/img/2020-12-04_gmail_security.png){:class="img-responsive"}
+*Gmail Security*
 
 If you test now by triggering a password reset for a user on the Firebase authentication tab, you should get a password reset email from that Gmail account!  Unfortunately if it doesn't arrive, then there's no easy way I've found to debug; so carefully check each step.
 
@@ -43,10 +47,14 @@ To set up the Google Group:
 2. For a no-reply group, I ensured that group members do NOT receive any inbound messages
 3. Under 'Group Settings', in the 'Posting policies' section, ensure that 'Who can post as group' is enabled
 
+![Google Group Posting Policies]({{ site.baseurl }}/assets/img/2020-12-04_google_group_posting_policies.png){:class="img-responsive"}
+*Posting Policies*
+
 To enable the Gmail account to post on behalf of the group, we'll just need a few more steps:
 1. Back in your Gmail account, click the settings button in the upper right, then click 'See All Settings'
 2. Head to the 'Accounts' tab and see the 'Send mail as' section, then 'Add another email address'
 
-![Gmail Security]({{ site.baseurl }}/assets/img/2020-12-04_gmail_security.png){:class="img-responsive"}
+![Gmail Accounts]({{ site.baseurl }}/assets/img/2020-12-04_gmail_account_settings.png){:class="img-responsive"}
+*Gmail Account Settings*
 
 If all goes well, that will become an option and now you should receive emails from the Google groups email address :)
