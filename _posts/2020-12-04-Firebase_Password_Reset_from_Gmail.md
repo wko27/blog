@@ -6,27 +6,27 @@ categories: [firebase, gmail]
 locations: 
 ---
 
-Firebase authentication has a useful email/password login option and it's default behavior includes easy ways to trigger password resets.  One annoyance though is that the invoking the password reset will be sent from *(Firebase project id).firebaseapp.com* email address.  This can easily end up in a customer's spam folder or blocked by email filters, etc.
+Firebase authentication has a useful email/password login option and it's default behavior includes easy ways to trigger password resets.  One annoyance though is that the invoking the password reset will be sent from *noreply@(project-id).firebaseapp.com* email address.  This can easily end up in a customer's spam folder or blocked by email filters, etc.
 
 Firebase offers two ways to fix this; one by setting up a custom domain and one by integrating with any SMTP server.  We'll focus on the second one for today and specifically hooking it up to Gmail.
 
 ![Custom Domain]({{ site.baseurl }}/assets/img/2020-12-04_firebase_custom_domain.jpg){:class="img-responsive"}
 
-![SMTP Server]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_server.jpg){:class="img-responsive"}
+![SMTP Server]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_gmail.jpg){:class="img-responsive"}
 
 The steps are pretty simple:
 
-1. Toggle the enable
-2. Set all the fields like so
-3. Hit save and watch it work
+1. Toggle enable on
+2. Enter each of the fields (see above for the correct values for Gmail)
+3. Hit save
 
 Some parts to pay closer attention to:
 1. The username should include the full email address with the @host.com extension
 2. The SMTP security mode should be set to STARTTLS and not SSL for Gmail
 3. If this is a GSuite (now called Google Workplaces) account, you'll have to do a few extra steps:
-  a. in the Google Admin console, go to Security and 'Less Secure Apps', then click the option to 'Allow users to manage their access to less secure apps' (see below)
-  b. in Gmail, click on your profile to 'Manage your Google Account', then head to Security and enable 2-factor authentication
-  c. in Gmail, in the same Security tab, there's also a section for 'App Passwords', it's a good practice to avoid sharing the account password with Firebase, so create a custom one
+  1. in the Google Admin console, go to Security and 'Less Secure Apps', then click the option to 'Allow users to manage their access to less secure apps' (see below)
+  2. in Gmail, click on your profile to 'Manage your Google Account', then head to Security and enable 2-factor authentication
+  3. in Gmail, in the same Security tab, there's also a section for 'App Passwords', it's a good practice to avoid sharing the account password with Firebase, so create a custom one
 
 ![Less Secure Apps]({{ site.baseurl }}/assets/img/2020-12-04_google_admin_less_secure_apps.png){:class="img-responsive"}
 
