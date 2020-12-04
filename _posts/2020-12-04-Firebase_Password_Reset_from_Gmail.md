@@ -6,9 +6,9 @@ categories: [firebase, gmail]
 locations: 
 ---
 
-Firebase authentication has a useful email/password login option and it's default behavior includes easy ways to trigger password resets.  One annoyance though is that the invoking the password reset will be sent from *noreply@(project-id).firebaseapp.com* email address.  This can easily end up in a customer's spam folder or blocked by email filters, etc.
+Firebase authentication has a useful email/password login option and it's default behavior includes easy ways to trigger password resets.  One annoyance though is that the invoking the password reset will be sent from *noreply@(project-id).firebaseapp.com* email address.  This can easily end up in a customer's spam folder or blocked by email filters.
 
-Firebase offers two ways to fix this; one by setting up a custom domain and one by integrating with any SMTP server.  We'll focus on the second one for today and specifically hooking it up to Gmail.
+Firebase offers two ways to fix this; one by setting up a custom domain and one by integrating with any SMTP server.  We'll focus on the second one for today and specifically hooking it up to Gmail account.
 
 ![SMTP]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_gmail.jpg){:class="img-responsive"}
 
@@ -47,7 +47,10 @@ To set up the Google Group:
 To enable the Gmail account to post on behalf of the group, we'll just need a few more steps:
 1. Back in your Gmail account, click the settings button in the upper right, then click 'See All Settings'
 2. Head to the 'Accounts' tab and see the 'Send mail as' section, then 'Add another email address'
+3. Go back to the Google Group page and verify that this user should have permission to post
 
 ![Gmail Accounts]({{ site.baseurl }}/assets/img/2020-12-04_gmail_account_settings.jpg){:class="img-responsive"}
 
-If all goes well, that will become an option and now you should receive emails from the Google groups email address :)
+If all goes well, password reset requests will now trigger an email sent from a lovely noreply@host address.
+
+Hooray!
