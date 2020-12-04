@@ -20,6 +20,8 @@ TODAY:
 * watched a documentary
 * organized my to-watch collection
 * leftovers for dinner!
+* sister's present finally arrived
 
 LEARNINGS:
 * need to keep exercising
+* new Sanderson book??
