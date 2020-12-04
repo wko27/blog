@@ -33,9 +33,9 @@ Some parts to pay closer attention to:
 
 If you test now by triggering a password reset for a user on the Firebase authentication tab, you should get a password reset email from that Gmail account!  Unfortunately if it doesn't arrive, then there's no easy way I've found to debug; so carefully check each step.
 
-Bonus!
+Bonus Section!
 
-Ok, so notice how the email at the top is a noreply@(custom domain) but the email I use as a user is somebodyelse@(custom domain)?  Here, we're using a Google Groups email address and sending emails from our Gmail account under an alias.
+Notice how the email at the top is a noreply@(custom domain) but the email I use as a user is somebodyelse@(custom domain)?  Here, we're using a Google Groups email address and sending emails from our Gmail account under an alias.
 
 To set up the Google Group:
 1. Create your Google Group
@@ -48,6 +48,6 @@ To enable the Gmail account to post on behalf of the group, we'll just need a fe
 1. Back in your Gmail account, click the settings button in the upper right, then click 'See All Settings'
 2. Head to the 'Accounts' tab and see the 'Send mail as' section, then 'Add another email address'
 
-![Gmail Accounts]({{ site.baseurl }}/assets/img/2020-12-04_gmail_account_settings.png){:class="img-responsive"}
+![Gmail Accounts]({{ site.baseurl }}/assets/img/2020-12-04_gmail_account_settings.jpg){:class="img-responsive"}
 
 If all goes well, that will become an option and now you should receive emails from the Google groups email address :)
