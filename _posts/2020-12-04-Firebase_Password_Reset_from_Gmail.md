@@ -10,9 +10,6 @@ Firebase authentication has a useful email/password login option and it's defaul
 
 Firebase offers two ways to fix this; one by setting up a custom domain and one by integrating with any SMTP server.  We'll focus on the second one for today and specifically hooking it up to Gmail.
 
-![Custom Domain]({{ site.baseurl }}/assets/img/2020-12-04_firebase_custom_domain.jpg){:class="img-responsive"}
-*Custom Domain option*
-
 ![SMTP]({{ site.baseurl }}/assets/img/2020-12-04_firebase_smtp_gmail.jpg){:class="img-responsive"}
 *SMTP option*
 
@@ -25,13 +22,14 @@ The steps are pretty simple:
 Some parts to pay closer attention to:
 1. The username should include the full email address with the @host.com extension
 2. The SMTP security mode should be set to STARTTLS and not SSL for Gmail
-3. If this is a GSuite (now called Google Workplaces) account, you'll have to do a few extra steps:
-  1. in the Google Admin console, go to Security and 'Less Secure Apps', then click the option to 'Allow users to manage their access to less secure apps' (see below)
-  2. in Gmail, click on your profile to 'Manage your Google Account', then head to Security and enable 2-factor authentication
-  3. in Gmail, in the same Security tab, there's also a section for 'App Passwords', it's a good practice to avoid sharing the account password with Firebase, so create a custom one
+3. If this is a GSuite (now called Google Workplaces) account, you'll have to do a few extra steps
+4. in the Google Admin console, go to Security and 'Less Secure Apps', then click the option to 'Allow users to manage their access to less secure apps' (see below)
 
 ![Less Secure Apps]({{ site.baseurl }}/assets/img/2020-12-04_google_admin_less_secure_apps.png){:class="img-responsive"}
 *Less Secure Apps*
+
+5. in Gmail, click on your profile to 'Manage your Google Account', then head to Security and enable 2-factor authentication
+6. in Gmail, in the same Security tab, there's also a section for 'App Passwords', it's a good practice to avoid sharing the account password with Firebase, so create a custom one
 
 ![Gmail Security]({{ site.baseurl }}/assets/img/2020-12-04_gmail_security.png){:class="img-responsive"}
 *Gmail Security*
