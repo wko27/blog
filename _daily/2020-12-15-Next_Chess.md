@@ -26,6 +26,7 @@ TODAY:
   * Grandma's Kitchen
   * pretty decent Chinese food, beef dish was tasty
   * white pepper chicken was super spicy and not a lot of white pepper flavor
+* something was suspicious with Jackie's mouth!
 * back was hurting a lot today
   * two naps
 * finished Dawnshard
