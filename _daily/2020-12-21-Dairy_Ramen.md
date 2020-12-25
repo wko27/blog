@@ -21,7 +21,15 @@ YESTERDAY:
   * too late to eat them though
 
 TODAY:
-* 
+* Jackie was making deliveries around the bay area
+  * asked her to drop a programmer at the garage along the way
+* dumplings for a virtual team lunch
+* had a lovely chat with Yibin
+* production fun
+* testing lab visit
+* oren's for dinner
+* finished Mandalorian season 2
+* wrote more Christmas cards
 
 LEARNINGS:
-* 
+* super fortunate that logistics is thriving
