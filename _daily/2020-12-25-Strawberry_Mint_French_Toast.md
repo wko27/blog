@@ -21,7 +21,18 @@ YESTERDAY:
 * got to sleep by 5:30 am
 
 TODAY:
-* 
+* woke up around 12:30 pm
+* salmon + chili for lunch
+  * way too heavy xD
+  * but we needed to finish that salmon
+* hosted a family virtual chat
+  * success!
+* crazy sneezy today
+  * tried to nap to get rid of the sneezes
+* couldn't find a restaurant with lobster for dinner
+  * Jackie found a seafood boil in Sunnyvale instead
+* ordered my new blender
+  * and Jackie's birthday gift
 
 LEARNINGS:
-* mildly sure we used way too much vegan butter
+* Jackie realized my sneezing is likely from dust allergies since our neato died
