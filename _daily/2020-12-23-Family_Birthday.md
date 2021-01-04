@@ -24,7 +24,10 @@ TODAY:
 * finally ordered a new blender
 * watched Akira
   * ... not what I expected
+* hm, found out that if I remove my pillow, my back hurts less during the day!
+* also, raised my monitor by a few inches, seems to improve things
 
 LEARNINGS:
 * the blender competition is heating up!
   * didn't realize that Vitamix is made in USA
+* maybe pillow raising my head is akin to looking down while standing up?
