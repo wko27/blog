@@ -11,7 +11,7 @@ YESTERDAY:
   * from ramen izakaya in Mtn View
   * definitely had dairy in it
   * super unhappy stomach for most of the day
-* ranch 99 and knob hill run
+* ranch 99 and nob hill run
   * picked up some fancy noodles to try out
   * slight language barrier with the fishmonger
 * work work work
