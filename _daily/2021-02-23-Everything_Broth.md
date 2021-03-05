@@ -15,6 +15,8 @@ YESTERDAY:
 
 TODAY:
 * leftover Oren's hummus for lunch
+* Jackie had a meeting with Sylvanus!
+  * popped in to say hello
 * nap
 * lovely interview
 * grocery shopping at Hankook and Lucky's
