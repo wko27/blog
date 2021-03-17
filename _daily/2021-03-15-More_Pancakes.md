@@ -29,6 +29,8 @@ TODAY:
   * pretty delicious, but super oily
   * also baked broccoli for dinner
 * caught up with Becca and gave her some pointers on interviewing tactics
+* ordered a Wyze for my parents
+  * so they can monitor some dove eggs in their garden while visiting me
 
 LEARNINGS:
 * need to get more consistent sleeping

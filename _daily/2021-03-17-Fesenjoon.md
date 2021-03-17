@@ -19,6 +19,8 @@ YESTERDAY:
   * also made fancy saffron rice with it
   * super tasty rice
 * passed out around 9
+* parents got the Wyze and set it up all on their own!
+  * so proud :D
 * woke up around 11 for a few more hours
 * back to sleep
 
