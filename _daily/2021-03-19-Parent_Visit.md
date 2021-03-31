@@ -30,4 +30,4 @@ TODAY:
 * finished season 1 of demon slayer
 
 LEARNINGS:
-* 
+* good to spend time with parents
