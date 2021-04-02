@@ -22,7 +22,12 @@ TODAY:
 * early morning meeting
 * two eggs for breakfast
 * head to office
-* 
+  * gave my mom a call to help out with a presentation
+* delicious curry for lunch
+* interviews!
+* sirloin steaks for dinner
+* started falcon and winter soldier with Thorvald
+  * not bad ...
 
 LEARNINGS:
-* 
+* HK pork chop rice is doable!!
