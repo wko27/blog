@@ -21,7 +21,20 @@ YESTERDAY:
 * munching on a tangerine popsicle
 
 TODAY:
-* 
+* woke up and did some work
+* group order at Ike's for a picnic
+  * Ike's was backed up, two people on shift until 11:30 am
+* lovely picnic in San Mateo
+  * Alan brought an alcohol-less wine for me :D
+  * basically carbonated grape juice
+* eyes were a bit itchy on the way home
+* two hour nap
+* sous-vide oxtail stew for dinner
+  * holy cow, going to make it this way from now on
+* tried a new game called 'It Takes Two'
+  * pretty smooth graphics and gameplay
+* got a lovely haircut from Jackie
+* went to sleep early
 
 LEARNINGS:
 * back pain not directly correlated with long hikes
