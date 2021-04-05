@@ -19,6 +19,7 @@ YESTERDAY:
 * tons of scallops for dinner
   * and some little tiny potatoes, Yukon Gold
 * munching on a tangerine popsicle
+* asked to write a letter of recommendation for permanent residence!
 
 TODAY:
 * woke up and did some work
