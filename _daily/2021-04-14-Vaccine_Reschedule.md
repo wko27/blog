@@ -32,7 +32,19 @@ YESTERDAY:
 TODAY:
 * early morning call
 * head to vaccine
-* then to office
+  * apparently they had a power outage last night
+  * vaccine was transported to Menlo Park
+  * had to wait for 30 mins for it to come back
+  * Moderna shot
+* head to office
+* super heavy lunch
+* Jackie got her first Moderna shot today too!
+* took a nap
+  * no real symptoms to report
+* head back home early
+* attended a pitch night event
+* caught up with Neil
+* pork chops for dinner
 
 LEARNINGS:
-* 
+* really shouldn't complain about the inconvenience of life-saving vaccines
