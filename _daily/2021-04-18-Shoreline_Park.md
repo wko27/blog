@@ -22,7 +22,16 @@ YESTERDAY:
 * Jackie made peanut butter apple sandwiches for dessert
 
 TODAY:
-* 
+* laundry machines were full
+* head to cupertino to pick up lunch
+  * Lanzhou handpulled noodles!
+  * medium round noodles were delicious
+  * Jackie's stomach wasn't feeling well
+* laundry machines had vacancies
+* Jackie watched ant-man
+* took a nap
+* family video call
+* picked up chipotle for dinner
 
 LEARNINGS:
-* 
+* peanut butter apple sandwiches were fun!
