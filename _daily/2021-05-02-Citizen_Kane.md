@@ -10,6 +10,7 @@ YESTERDAY:
 * totally forgot about my morning session
 * guitar lesson
 * headed up to Oakland to go apt hunting with Bernice
+  * Jackie installed my new dashcam for me
 * roam burgers for lunch
   * not too bad
 * checked out three locations
