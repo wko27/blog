@@ -28,6 +28,7 @@ TODAY:
   * finally retired my character
 * taiwan noodles and soup dumplings for dinner
   * also had fun making sushi
+* spent the night researching builds for the summoner
 
 LEARNINGS:
 * think I nailed what makes a smoothie good!

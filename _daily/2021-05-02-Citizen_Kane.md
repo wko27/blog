@@ -26,6 +26,7 @@ TODAY:
 * leftovers for lunch
   * so heavy
 * took a nap
+  * Jackie took a walk to get her glasses fixed
 * cleaned kitchen and bathroom
 * Bernice came by to drop off a pack of oxtails
 * head to nob hill and nijiya for groceries
