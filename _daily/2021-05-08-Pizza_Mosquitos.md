@@ -24,7 +24,9 @@ TODAY:
   * passed out from food coma
 * laundry
 * Jackie went to a walk to Los Altos
-  * met up with her at Safeway
+* did a bit of coding while she was gone
+  * got into the groove with some German techno
+* met up with Jackie at Safeway
   * cheap NY strip steaks again!
 * went to a pizza joint for dinner
   * two mosquito bites :(
