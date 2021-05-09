@@ -38,3 +38,4 @@ LEARNINGS:
 * there's a difference between sets and arrays in SQL
   * apparently `WHERE x NOT IN (1, 2, 3)` uses a set
   * the equivalent with a list is `WHERE x <> ALL(1, 2, 3)`
+* how NFTs work
