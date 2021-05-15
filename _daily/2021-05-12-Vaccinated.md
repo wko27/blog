@@ -10,6 +10,8 @@ YESTERDAY:
 * head to work
 * remembered to bring chocolate-covered strawberries to work!
 * tasty Korean lunch
+* came back to Mountain View a bit early
+  * customer visit
 * thai food for dinner
 * puzzled pint!
   * fun challenge this time
