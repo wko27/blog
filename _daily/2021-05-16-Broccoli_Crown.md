@@ -15,6 +15,7 @@ YESTERDAY:
   * until 1 pm ...
 * cereal for lunch
 * finished Witcher 3!
+* filled out a questionnaire for my upcoming surgery
 * Jackie had a pizza craving
   * ordered Domino's for dinner
 * watched a documentary on the Israel/Gaza conflict
@@ -44,6 +45,10 @@ TODAY:
 * my intern requested a scholarship recommendation letter!
   * haven't written one of these in a while
 * sent out an exciting newsletter
+* Jackie gave me a haircut!
+  * sides of my head are a bit more chilly now
+* game of chess
+* agents of shield
 
 LEARNINGS:
-* 
+* history of Gaza
