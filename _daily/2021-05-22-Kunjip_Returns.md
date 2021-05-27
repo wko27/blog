@@ -25,6 +25,7 @@ TODAY:
 * Jackie picked up sandwiches for lunch
   * so heavy!
 * took a nap
+  * back was also super painful :(
 * had a lovely chat with Kishan
 * headed to a cafe to meet up with Sunjay
   * cuban music!
@@ -33,6 +34,9 @@ TODAY:
 * finished Shadow and Claw
 * bit of chess
 * worked on two of us
+* took a nap around 9 pm
+  * terrible idea
+  * woke up at 11 pm and then couldn't fall back asleep until 5 am
 
 LEARNINGS:
 * really need to get this surgery scheduled :(
