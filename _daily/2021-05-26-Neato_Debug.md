@@ -26,6 +26,7 @@ TODAY:
 * sushi rolls for dinner
   * ordered the wrong dish to go with it :'(
 * lovely chat with Thorvald
+  * tried out Outer Wilds game based on his suggestion
 * two episodes of agents of shield
 * finished off our last box of strawberries
 * finished combining the images my dad took of his Neato breakdown
