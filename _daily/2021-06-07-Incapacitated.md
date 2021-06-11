@@ -23,7 +23,12 @@ YESTERDAY:
   * cleaned the taste out with cherries and a smooothie
 
 TODAY:
-* 
+* head to work
+* weather's getting rather nice
+* picked up wingstop for dinner
+  * Jackie got an order of atomic wings
+  * she suffered through it xD
 
 LEARNINGS:
-* 
+* apparently Jackie might be allergic to cantaloupe!
+
