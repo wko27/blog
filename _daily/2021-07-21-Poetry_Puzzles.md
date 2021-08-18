@@ -34,6 +34,5 @@ TODAY:
   * ordered from Halal Fried Chicken in Sunnyvale
   * not too bad ...
 
-
 LEARNINGS:
-* 
+* definitions of proper poetic devices
