@@ -26,7 +26,15 @@ YESTERDAY:
   * more satisfying conclusion than Loki ...
 
 TODAY:
-* 
+* head to work
+* Jackie watched a movie called Wish Dragon with her friends
+  * apparently it was sub-par
+* supposed to pick up Oren's on the way back
+  * somehow Doordash order was scheduled to be sent to the kitchen 40 minutes after I arrived
+* went for a long walk with Vlad
+  * 3 miles on Steven's Creek trail
 
 LEARNINGS:
-* 
+* nice to walk on a trail again!
+* pomegranate does not go well in a smoothie
+  * the seeds don't blend properly
