@@ -30,6 +30,8 @@ TODAY:
 * went for a walk to grocery store down the street
   * had to go back when I realized we were out of carrots
 * started off a lovely oxtail beef stew
+  * Jackie didn't want to sous vide the oxtail
+  * made it the old way (simmer for ~3 hours)
 * light dinner, just cereal
 * did some holiday planning for cousins
 * tasty peach for dessert
