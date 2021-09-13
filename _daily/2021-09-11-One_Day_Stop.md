@@ -23,7 +23,21 @@ YESTERDAY:
 * spent the night recording family stories from my dad
 
 TODAY:
-* 
+* packed the Highlander for the trip back to the bay
+* breakfast with two aunties
+* took a long nap so I wouldn't be sleepy on the drive
+* lunch with Brad at Uovo
+  * tried a clam pasta
+  * not as good as the ragu
+* drive back to bay
+  * two stops
+  * not much traffic
+* took dad to a pho place upon request
+* Jackie picked up Amy from the airport
+  * they headed to Tanto, a sushi place in Sunnyvale
+  * 1.5 hour wait!!!
+  * Dad and I actually finished our meal and got home before them
 
 LEARNINGS:
-* 
+* flight down to LA really isn't that bad
+  * parking is annoying, but I left my car at work
