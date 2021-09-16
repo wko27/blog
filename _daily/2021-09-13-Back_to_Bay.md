@@ -27,6 +27,14 @@ YESTERDAY:
 * exciting book arrived!
 
 TODAY:
+* woke up a bit chilly
+  * I guess summer has ended :(
+* head to work
+* stayed late at work
+  * helped out with a CMU event
+* cereal for dinner
+* air quality finally cleaned up
+* watched Brooklyn 99 with Jackie
 
 LEARNINGS:
-* 
+* go for more walks!
