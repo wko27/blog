@@ -21,9 +21,15 @@ YESTERDAY:
   * also roasted smashed potatoes
 * started watching a new Korean drama
   * something about zombies ...
+* started making a vegetable soup
 
 TODAY:
-* 
+* head to work
+* back to the gym!
+  * great workout :D
+* CMU alumni event
+* Jackie's DnD night was skipped
+* vegetable soup for dinner
 
 LEARNINGS:
 * euclidean geometry problems are fun!

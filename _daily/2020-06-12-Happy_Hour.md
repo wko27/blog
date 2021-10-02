@@ -19,4 +19,4 @@ TODAY:
 * happy hour with team!
 
 LEARNINGS:
-* 
+* weird to be back in SF again
