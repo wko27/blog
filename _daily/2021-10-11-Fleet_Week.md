@@ -29,7 +29,16 @@ YESTERDAY:
 * so much stretching
 
 TODAY:
+* ran into my neighbor heading out the door
+  * haven't seen him since early months of COVID
+  * indicated that he wants to rent out his place ...
 * head to work
+* found a lovely in-grown nail on my right pinky finger
+  * super annoying
+  * contacted doctor and they asked for a picture
+* couldn't fall asleep until 3 am ish
+* salmon for lunch
+* head to gym and just did stretches
 
 LEARNINGS:
-* 
+* don't be in SF during fleet week
