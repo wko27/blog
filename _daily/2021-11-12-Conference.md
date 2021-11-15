@@ -38,7 +38,7 @@ TODAY:
 * played the volcano level of Robinson Crusoe
   * lost because on the last action, out of four mystery cards, we drew all creature cards
   * this immediately kills the Brian ...
-* head home to watch finale of season 1 of Money Heist
+* stayed up late finishing the Gods of Blood and Powder trilogy
 
 LEARNINGS:
 * Sunjay's debate skills live
