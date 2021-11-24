@@ -41,4 +41,4 @@ TODAY:
 * started book 2 of a series
 
 LEARNINGS:
-* 
+* how to be nice to the police

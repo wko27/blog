@@ -40,6 +40,7 @@ TODAY:
   * tried a new beef dish; not too impressed, little too chewy
 * tutoring session to prep our student for finals
 * lots of foam rolling
+* another tutoring session to help with coding interviews!
 
 LEARNINGS:
 * R8 Roll Recovery works!!
