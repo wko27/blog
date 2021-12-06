@@ -14,6 +14,8 @@ YESTERDAY:
 * we played DnD for 5 hours
   * interesting experience
 * Korean BBQ for dinner
+* got my dad hooked on Agadmator's chess channel
+  * watched part of the 2021 world championship
 
 TODAY:
 * brunch with the family
