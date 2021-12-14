@@ -7,6 +7,8 @@ locations:
 ---
 
 YESTERDAY:
+* head to Brian's in the morning
+  * picked up some plant food
 * Jackie made pancakes for breakfast!
   * unfortunately, I bought unsweetened almond milk
   * blueberry pancakese need a bit of sugar to taste good
@@ -26,7 +28,20 @@ YESTERDAY:
 * money heist
 
 TODAY:
-* 
+* head to work
+* super sleepy for some reason
+* took 3 naps
+* beef curry for lunch
+  * pretty tasty!
+* head to workout
+  * shoulder presses were fun
+  * left shoulder kept giving out though
+* pho for dinner
+* used the gun
+* Jackie started playing Hollow Knight
+* went to sleep relatively early
 
 LEARNINGS:
-* 
+* think I got the deadlift form down
+* so used to bending my knees forward when I squat
+  * have to keep them straight and locked for deadlifts though
