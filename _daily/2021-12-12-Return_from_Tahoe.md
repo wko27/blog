@@ -34,4 +34,4 @@ TODAY:
 * breakfast sausages for dinner
 
 LEARNINGS:
-* 
+* family's pretty good at escape rooms!
