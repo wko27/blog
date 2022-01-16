@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: peggy
-title: Peggy
+unique_id: surprise_visit
+title: Surprise Visit
 categories: []
 locations: 
 ---
@@ -16,7 +16,8 @@ YESTERDAY:
 * felt surprisingly awake, probably due to workout
 * Jackie gave her mom a call
 * turns out she'll be in town for the next week, surprise!
-* lots of planning
+  * lots of planning
+* found a neat app called floorplanner to help figure out what furniture to get for my dad
 
 TODAY:
 * ok that was a busy day
