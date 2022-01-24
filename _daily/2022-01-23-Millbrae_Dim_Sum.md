@@ -32,6 +32,7 @@ TODAY:
 * Jackie made a frittata for dinner!
   * cleaned up some things from the fridge
 * smoothie
+* paid off my property taxes!
 
 LEARNINGS:
 * frittata vs quiche vs omelette
