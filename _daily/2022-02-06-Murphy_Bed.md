@@ -47,3 +47,4 @@ LEARNINGS:
   * love the equality
 * shipping furniture from LA is like $2k now???
 * murphy beds are death traps
+* how to use tie-downs
