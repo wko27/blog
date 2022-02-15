@@ -24,7 +24,20 @@ YESTERDAY:
 * reached out to tax folks
 
 TODAY:
-* 
+* head to USPS for the 3rd time
+  * found out the clerk responsible for keys is on vacation for 2 weeks
+* guitar lesson
+* caught up with Amy
+* cereal for lunch
+  * found out that cereal can indeed expire
+  * ate two eggs instead
+* head to workout
+* rock climbing in Presidio
+  * back to 11a level!
+* dinner in Richmond with Annabelle at Hakka
+  * delicious sticky rice dish
+* sleepy drive home
+  * listened to Jackie playing DnD on the way back
 
 LEARNINGS:
-* 
+* expired cereal has a weird after taste
