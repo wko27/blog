@@ -24,6 +24,14 @@ YESTERDAY:
 * bachata practice with team!
 
 TODAY:
+* head to work
+* quiet day mostly
+  * productive though!
+* dinner with Brian and Stephen
+  * Jackie made ribs
+* aeon's end
+  * almost beat it again ...
+* slept relatively early to prepare for hike
 
 LEARNINGS:
 * recalling bachata learnings
