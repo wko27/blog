@@ -43,6 +43,7 @@ TODAY:
 * ribs for dinner!
   * sauteed some mushroom and onion too
 * dance practice
+* some sad news shared afterwards
 
 LEARNINGS:
 * how to tetris up a minivan
