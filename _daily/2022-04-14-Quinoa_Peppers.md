@@ -32,4 +32,5 @@ TODAY:
 * planned flights to vegas
 
 LEARNINGS:
-* 
+* southwest has good deals!
+
