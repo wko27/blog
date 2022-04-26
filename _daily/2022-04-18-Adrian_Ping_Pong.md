@@ -7,23 +7,7 @@ locations:
 ---
 
 YESTERDAY:
-* meet up with Sunjay
-  * tried the impossible burger from McDonald's
-  * not too bad, but the charbroiled taste was missing
-* workout
-  * back squats and benchpress
-* climbing with Sara, Chris and And2
-* attempted a crazy 11d
-  * did a minor jump to hit one move
-  * second one was crazy though
-  * pretty sure I could pull my back if I missed it ...
-* Kunjip for dinner
-  * amazing as usual
-  * checked out a cute boba shop afterwards
-* head home and decompress
-
-TODAY:
-* head to yogae
+* head to yoga
   * felt my slipped disc area a bit with a certain forward fold
   * good class otherwise
 * heated up some ribs and oxtail stew for lunch
@@ -44,6 +28,14 @@ TODAY:
   * we're improving!
 * late night oxtail soup for dinner
   * also found some not-so-crispy crisps that were dairy free
+
+TODAY:
+* head to work
+* so many interviews
+* work dinner event
+  * found a cute Italian restaurant in Millbrae downtown
+* head home
+* work work work
 
 LEARNINGS:
 * still got some ping-pong reflexes!

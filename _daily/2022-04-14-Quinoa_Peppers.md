@@ -22,11 +22,15 @@ TODAY:
   * ended up with a vegetarian option
   * and a scaling hot matzo ball soup
 * shift key on my laptop is dying
+* ordered a new one through Alfred
+  * 15% discount!
 * gave some feedback on a pitching event
 * head home
 * puzzled pint
 * ordered from Himalayan Kitchen for dinner
   * momo's were ok
+  * Jackie already ate at google
+  * got some tasty lamb
 * late night advisor call
 * found the measuring tape!
 * planned flights to vegas
