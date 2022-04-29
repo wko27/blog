@@ -24,7 +24,14 @@ YESTERDAY:
 * took Jackie to a Chinese bbq place for dinner
 
 TODAY:
-* 
+* super productive day
+* no meetings!
+* dropped by the gym to do a little workout
+* head home
+  * Thorvald missed our usual session
+  * ended up working instead
+* head to pho for dinner
+* started a new book
 
 LEARNINGS:
-* 
+* need to practice more guitar
