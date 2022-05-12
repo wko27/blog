@@ -17,9 +17,19 @@ YESTERDAY:
 * caught up with Chetan
   * new bridge in Palo Alto connects to bay trail
 * cleaned my cruet
+* feeling super flexible from the heated yoga
 
 TODAY:
-* 
+* mother's day ...
+* skipped yoga to help a friend
+  * blockchain implementations!
+* picked up vitality bowls for lunch
+* Jackie went to bake with a friend
+* work meeting
+  * person was in Asia time
+* had dinner at a sushi place
+  * high quality, low quantity
+* caught up with Heidi at their new place
 
 LEARNINGS:
-* 
+* need more heated yoga
