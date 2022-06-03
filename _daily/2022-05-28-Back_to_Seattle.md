@@ -37,7 +37,21 @@ YESTERDAY:
 * fixed a TV
 
 TODAY:
-* 
+* packed up and left Vancouver
+* head to Seattle
+  * Jackie used her green card for the first time!
+  * breakfast at McDonald's on the way
+* met up with Rae and Tonka and Jason
+  * went for a walk
+* lunch at a
+* visited Jackie's friends for a dumpling party
+  * started working on a jigsaw puzzle
+  * met some interesting folks
+* dinner with Eddie and his girlfriend
+  * had some tasty HK foods
+* stayed over at Eddie's
+  * lovely house
+  * stream in the back was pretty neat
 
 LEARNINGS:
-* 
+* Vancouver is a super safe city to explore
