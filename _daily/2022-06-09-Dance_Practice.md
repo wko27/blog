@@ -21,7 +21,18 @@ YESTERDAY:
 * went to sleep a bit early
 
 TODAY:
-* 
+* head to work
+* pulled pork for lunch
+  * pretty tasty
+* dental appointment
+  * forgot to use the fancy new floss my dentist gave me last time
+* head home
+* took a nap
+* head to climbing with Jackie
+  * finished a 10d that had no room for breaks
+* dance practice!
+* found a new pho restaurant open until 11 pm
+* stayed up planning until 2 am
 
 LEARNINGS:
-* 
+* new place for pho bo kho!
