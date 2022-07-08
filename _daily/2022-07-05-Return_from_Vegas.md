@@ -26,6 +26,19 @@ YESTERDAY:
 TODAY:
 * woke up at 4:30 am to head back to Bay Area
 * got through security relatively easily
+* arrived around 9 am
+  * fire alarm went off at SJC right as we went outside
+  * lyft driver went to wrong side of the road
+* picked up Tett from eye exam
+* onboarding!
+* head to work
+* definitely at < 70% brain capacity
+* steak for lunch
+* took 3 naps
+* head home
+* cereal for dinner
+* finished last two episodes of Kenobi with Thorvald
+* packed for trip to Vancouver
 
 LEARNINGS:
-* you can get free water at the gym!
+* you can get free water at the hotel gyms in Vegas!
