@@ -20,7 +20,16 @@ YESTERDAY:
 * two episodes of Westworld season 4 with Thorvald
 
 TODAY:
-* 
+* head to work
+  * no traffic!
+* long meeting
+  * grabbed 2nd to last lunch available
+  * weird tamarind soup?
+* stomachache in the afternoon
+* sooo many meetings
+* head to gym
+* late night salsa
 
 LEARNINGS:
-* 
+* don't drink weird tamarind soups?
+* Hyatt Regency hotels have sooo much empty space??
