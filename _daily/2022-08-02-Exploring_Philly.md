@@ -44,7 +44,7 @@ TODAY:
   * also an egg!
   * Jackie cooked it with a plastic knife
 * met up with Jackie's friend
-* headed to Lanzhou hand-pulled noodle restaurant
+* headed to Nan Zhou hand-pulled noodle restaurant
   * pretty decent lai mein!
   * only slightly sketchy walking there
 

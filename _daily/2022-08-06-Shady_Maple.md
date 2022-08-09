@@ -50,6 +50,11 @@ TODAY:
   * filled up on gas
   * found a parking spot next to a cone
   * little worried that the cone may mean somebody reserved the spot
+* brief walk back to apartment
+* lots of motorcycle noises in the street at night
+* ordered a board game and some yoga towel mats off amazon
+* decidd to get rid of my Amazon echo
+  * too creepy with Amazon's purchase of iRobot
 
 LEARNINGS:
 * on average, a traffic cone is used 3 times before it is lost
