@@ -26,6 +26,7 @@ TODAY:
 * head to work
 * long day
   * lengthy analysis
+* missed a meeting for CMU folks
 * left a bit early for workout
 * workout
   * deadlifts, then isolations

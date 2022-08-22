@@ -24,7 +24,16 @@ YESTERDAY:
 * research flights to Colombia
 
 TODAY:
-* 
+* head to work
+* not too crazy
+* korean tofu soup for lunch
+  * little too salty
+  * think I got a mouth sore from it
+* guitar lesson
+* head to dinner with my dad
+  * got a lovely lemongrass chicken at our pho spot
+* had another call with Jackie
+* booked all travel basically for the rest of the year
 
 LEARNINGS:
-* 
+* keep an eye on my financial accounts
