@@ -29,7 +29,20 @@ YESTERDAY:
 * more work
 
 TODAY:
-* 
+* head to work
+* lovely day
+  * bit busy
+* got a help me call while at work
+  * no worries, bit of advice needed and granted
+* head to salsa 2 class!
+  * only reviewed the partner work
+  * which ... I didn't really practice ...
+* picked up in-n-out for dinner
+  * first time using the drive-thru at the one in Mountain View in ages
+  * lovely dinner with my dad at home
+* caught up with Jackie
+  * favorite part of the day
+* booked my trip to see Jackie in October!
 
 LEARNINGS:
-* 
+* how to give some objective help to somebody in a situation
