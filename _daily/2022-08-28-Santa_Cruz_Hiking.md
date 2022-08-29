@@ -27,7 +27,31 @@ YESTERDAY:
 * cleaned bathroom
 
 TODAY:
-* haircut
+* woke up early
+* got a haircut
+  * mask required
+  * fast and no talking
+* got my car washed
+* head home
+  * bit of work
+* lunch with Peterson
+  * new mifen restaruant in Sunnyvale
+  * not too bad
+* lovely walk around the lake
+* pick up Sara
+  * caught up all the things
+* head to SF
+  * pick up Fabio and Annabelle
+* climbing in Crissy Fields!
+  * met up with Bernice and Sam
+  * finished an 11b
+* dinner at Sichuan Home
+  * one gluten and two lactose allergies
+  * tasty meal though
+* drop off folks
+* head home
+* filled up on gas
+* paid personal trainer
 
 LEARNINGS:
-* 
+* one piece of candy is indeed enough to keep me awake
