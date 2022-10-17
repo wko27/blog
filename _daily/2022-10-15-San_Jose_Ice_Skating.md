@@ -1,7 +1,7 @@
 ---
 layout: post
-unique_id: ice_skating_in_san_jose
-title: Ice Skating in San Jose
+unique_id: san_jose_ice_skating
+title: San Jose Ice Skating
 categories: []
 locations: 
 ---
