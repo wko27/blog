@@ -11,6 +11,9 @@ YESTERDAY:
   * triceps were super sore
 * important meeting!
 * head home a bit early
+  * ended up in a call with a fellow CMU founder on the way
+  * hope I was able to help
+  * got stuck in a traffic jam anyway
 * helped Dad with some stuff
   * dinner at Asia Village with my Dad
   * deliciously salty
@@ -28,6 +31,8 @@ TODAY:
   * soup was delicious
 * three meetings in afternoon q.q
 * one nap
+* mentoring session!
+  * reviewed 4 essays
 * head to climbing
   * only 45 mins late
   * gym was sparse on routes due to a competition
