@@ -54,4 +54,4 @@ TODAY:
 * late night chat with Sara (the one at Google)
 
 LEARNINGS:
-* 
+* italian food can still be tasty!
