@@ -30,6 +30,16 @@ TODAY:
 * woke up
 * pick up Lucia
 * head to Alex and Charlotte
+* lunch at a Sushi Katsu-ya
+  * tasty rolls!
+  * way too many
+* head to another mall
+  * shopping around with the cousins
+* axe throwing!
+  * more consistent with single hand throws
+* ayce hot pot dinner at Shabuya
+  * delicious!
+* dropped everybody off
 
 LEARNINGS:
-* 
+* lovely to hang out with the cousins
