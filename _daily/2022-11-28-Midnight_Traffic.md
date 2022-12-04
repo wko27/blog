@@ -30,6 +30,7 @@ TODAY:
 * Dad made a lemon orzo recipe that I sent him!
   * unfortunately, he couldn't find orzo
   * he also didn't want to use the lemon since it was expensive
+  * well one out of three makes a so-so soup
 * oddly jetlagged today
   * weird headache
   * maybe napped too long
@@ -41,6 +42,7 @@ TODAY:
 * checked cyber monday deals
 * caught up a bit on chess world
 * updated blogs
+* fell asleep around 10 pm
 
 LEARNINGS:
 * takes about 2 hours to heat my condo up
