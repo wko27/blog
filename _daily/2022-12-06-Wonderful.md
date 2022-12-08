@@ -22,7 +22,20 @@ YESTERDAY:
 * filed my insurance claim with Geico
 
 TODAY:
-* 
+* head to work
+  * in the minivan!
+* turkey for lunch
+* one quick nap
+* head to offsite location with team
+  * parking messy in the city
+* head to Limón for dinner
+  * delicious chicken
+* urban putt afterwards
+  * hit par!
+  * fun place, little loud
+* drop everybody off
+* head home
+* caught up a bit more on chess videos
 
 LEARNINGS:
-* 
+* team offsites are necessary
