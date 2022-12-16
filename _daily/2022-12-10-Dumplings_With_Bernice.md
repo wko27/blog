@@ -37,6 +37,20 @@ TODAY:
   * way too crowded
 * cereal for lunch
 * hosting board games with Brian
+  * ark nova is very complicated
+  * looks fun though, managing a zoo
+  * spent 30 minutes just setting it up and only read half the rules
+  * played crew instead
+  * then a neat poetry game (but not super fun to be honest)
+  * then a science trivia game and a math estimate game
+  * lots of Ph.D.s in this group
+  * finished off with some cards against humanity
+* dinner at Asian Box
+  * take out and ate at my place
+* had to kick everybody out for mentor session
+  * 30 minutes late, sorry other Brian!
+* catch up with Jackie
 
 LEARNINGS:
-* 
+* Ark Nova is super complicated
+
