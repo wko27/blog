@@ -23,7 +23,14 @@ YESTERDAY:
 * call with Michael
 
 TODAY:
-* 
+* head to work
+* day went by in a blur
+* pick up Jackie from airport!
+  * in-n-out in Millbrae had a crazy line
+  * the one in Mountain View was better
+* head to Brian's
+  * lovely game of Frosthaven
+  * been a while since we played it
 
 LEARNINGS:
-* 
+* lovely to be with Jackie
