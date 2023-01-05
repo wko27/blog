@@ -24,6 +24,7 @@ YESTERDAY:
   * dessert was fun too
 * watched more episodes of Spy Family
 * arms are still sore from workout on Tuesday
+* sent out family newsletter
 
 TODAY:
 * decided not to go to yoga
