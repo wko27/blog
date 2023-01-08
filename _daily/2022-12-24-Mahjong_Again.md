@@ -50,4 +50,6 @@ TODAY:
 
 LEARNINGS:
 * remembering how to play mahjong
+* Dad is very creative
+  * fixed my broken lampshades by using a takeout container -_-
 
