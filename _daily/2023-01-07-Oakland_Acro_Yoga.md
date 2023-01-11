@@ -48,4 +48,4 @@ TODAY:
   * bit of hydroplaning but people were mostly safe on the highway
 
 LEARNINGS:
-* 
+* Irish Civil War
