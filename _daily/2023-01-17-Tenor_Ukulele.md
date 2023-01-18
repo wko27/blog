@@ -25,9 +25,30 @@ YESTERDAY:
 * nobody showed up to mastermind session :(
 * gave Jackie a call
 * head to bachata class!
+  * only one other person today (Jessica? maybe ... so bad with names) :(
+  * at least one lead and one follow
 
 TODAY:
-* 
+* head to work
+* saimin noodles for lunch
+* two naps today
+  * I'll blame the spam
+* productive day!
+* lovely call with Hoang
+* head to workout
+  * weird traffic jam to get to 101
+  * no accidents, just lots of cars
+  * ended up 12 minutes late
+  * was still the first one to arrive o.O
+* good workout
+* head to Panda Express
+  * lady in front of line got a bit upset
+  * staff was taking care of mobile orders instead of the two of us
+* head back home
+* Brian skipped our usual meeting :(
+  * maybe busy with robotics?
+* catch up with Jackie and more planning for Vietnam trip
 
 LEARNINGS:
-* 
+* need Jackie to remember names for me :'(
+* Copenhagen planks!
