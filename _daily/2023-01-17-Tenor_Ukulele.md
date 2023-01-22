@@ -27,6 +27,10 @@ YESTERDAY:
 * head to bachata class!
   * only one other person today (Jessica? maybe ... so bad with names) :(
   * at least one lead and one follow
+* made dinner at home
+  * more sweet potato casserole
+  * made one of those frozen p.f. chang's orange chicken things
+    * not impressed ...
 
 TODAY:
 * head to work
@@ -48,6 +52,7 @@ TODAY:
 * Brian skipped our usual meeting :(
   * maybe busy with robotics?
 * catch up with Jackie and more planning for Vietnam trip
+* recorded my new vegan sweet potato casserole recipe
 
 LEARNINGS:
 * need Jackie to remember names for me :'(
