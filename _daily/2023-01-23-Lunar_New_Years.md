@@ -34,7 +34,19 @@ YESTERDAY:
 * dishes!
 
 TODAY:
-* 
+* head to work
+  * bit of traffic
+* nap
+* fancy salmon for lunch
+  * everything else had dairy :(
+* head to bachata class
+  * got their 10 minutes late
+  * good practice
+  * I can remember simple routines without relying on Jackie!
+* made some noodles for dinner
+  * added way too many fishballs
+  * little sausages, beef, and spinach
+* gave Jackie a pep talk on internship applications
 
 LEARNINGS:
-* 
+* there are senior centers to help give senior citizens things to do!
