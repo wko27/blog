@@ -43,6 +43,8 @@ TODAY:
 * food coma for an hour ish
 * submitted visa application for Vietnam
 * ordered a camera for Vietnam trip
+* helped my dad set up a hummingbird feeder
+  * also sprinkled cayenne pepper over his plants so the squirrels don't play
 * took my dad to dinner
   * Asia Village!
   * westlake beef soup
