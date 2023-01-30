@@ -26,6 +26,27 @@ YESTERDAY:
 
 TODAY:
 * wake up early for car appointment
+  * got to toyota dealership by 6:52 am
+  * bit of rain on the way
+  * first batch!
+  * guy claimed tires are running a bit low on tread?
+  * but ... they're fine
+  * got out in 2 hours
+* picked up Louisa
+  * head to climbing
+  * finished an 11c (not clean)
+* went to Holder's County Inn for lunch
+  * meatlover scramble was delicious
+  * super filling for $16
+* jumpstarted Jackie's car
+  * Louisa drove it away!
+* food coma for an hour ish
+* submitted visa application for Vietnam
+* ordered a camera for Vietnam trip
+* took my dad to dinner
+  * Asia Village!
+  * westlake beef soup
+* catch up with Jackie
 
 LEARNINGS:
 * hydrocolloid bandaids
