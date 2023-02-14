@@ -12,7 +12,13 @@ YESTERDAY:
   * bit of traffic, weird congestion in Palo Alto
 * tonkatsu ramen for lunch!
 * bunch of work
-* head to
+* head to airport in early afternoon
+* got to vegas on time
+* dropped by wendy's for dinner
+* remembered that I actually have lounge access via Chase Sapphire card!
+  * free gumbo was delicious
+  * mostly because it was free
+* lounge closed at 10 pm, so 3 more hours of waiting outside
 
 TODAY:
 * plane flight departed at 1 am
@@ -50,4 +56,4 @@ TODAY:
 * uber'd back to Jackie's place
 
 LEARNINGS:
-* 
+* use the lounge!!
