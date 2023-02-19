@@ -28,6 +28,14 @@ TODAY:
   * took 280 instead
 * yuzo ramen for lunch!
   * super tasty
+* no climbing today
+* went to a yoga class
+  * ok class
+* picked up thai for dinner
+  * tommy thai phone not working?
+  * shana thai is expensive now!
+* more work
+* caught up with Jackie
 
 LEARNINGS:
-* 
+* need to lock my car doors
