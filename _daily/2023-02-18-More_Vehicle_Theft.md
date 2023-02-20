@@ -32,6 +32,9 @@ TODAY:
   * tested out new camera
   * 14.3 mile hike in 7 hours ish with lunch break
   * everybody enjoyed the little green flags we brought along
+  * new waterproof socks work great!
+  * toes are a little loose in there though, and forgot to clip my toenails
+  * also new trail running shoes aren't too bad
 * left Pinnacles around 5:30
 * got back to bay area by 7
 * ridiculous wait time for Tobang
