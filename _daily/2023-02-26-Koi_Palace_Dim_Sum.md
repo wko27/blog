@@ -21,6 +21,7 @@ YESTERDAY:
 * drop everybody off
 * meet up with Chetan
   * his daughter Veda is way older now!
+  * super shy, didn't want to say hi to me
   * also haven't seen his wife in ... 5 years?
   * dropped off an ukulele
   * Veda gave me a painting with watercolors
@@ -30,7 +31,27 @@ YESTERDAY:
 * work work work
 
 TODAY:
-* climbing!
+* head to yoga
+  * finally got the name of a super calming song
+  * Bunny by Tourist
+* head to climbing!
+  * picked up Louisa
+  * attempted a 12b
+  * failed two ridiculous moves at the end
+* lunch at Merit Vegan
+  * massive quantity
+* drop off Louisa
+* ordered last minute supplies for Vietnam trip
+* return flight from Philly in end of March got cancelled
+  * rebooked
+* Dad found a fancy restaurant in Sunnyvale to try out
+  * Sifu Wong
+  * pretty tasty, although pricy
+  * the bathroom is actually outside an exit sign ... in the next door hotel's lobby
+* family call
+* Brian cancelled our mentor call
+* accidentally did some of Jackie's homework
 
 LEARNINGS:
-* 
+* need to get my taxes prepped!
+* black bean clams aren't as tasty as they used to be
