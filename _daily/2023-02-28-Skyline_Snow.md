@@ -15,6 +15,7 @@ YESTERDAY:
 * head to bachata
   * team is improving slowly
   * dips take trust!
+  * picked up a missing water bottle
 * in-n-out afterwards
 * more unpacking
 * found a bunch of songs on my desktop
@@ -29,6 +30,7 @@ TODAY:
 * cranking at work
 * head to workout
   * mixture of strength training exercises
+  * regained my last missing water bottle!
 * panda express
   * new guy was super slow
   * but he gave me 1.5 scoops instead of 1 ...
