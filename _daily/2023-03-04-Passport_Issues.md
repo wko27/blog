@@ -52,4 +52,4 @@ TODAY:
 * finish packing
 
 LEARNINGS:
-* 
+* lots of people into climbing in Oakland
