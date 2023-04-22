@@ -7,9 +7,11 @@ locations:
 ---
 
 YESTERDAY:
+* head to work
+* busy day
+* everybody headed to clean up our garage in the afternoon
+  * found some 'historical artifacts' worth keeping
 * Brian is on a backpacking trip so no dinner
-
-
 * Bachata Heat at Studio M
   * lesson was all sensual moves that I would usually not do ...
   * social dancing was fun though!
