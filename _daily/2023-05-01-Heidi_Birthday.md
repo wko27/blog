@@ -39,6 +39,14 @@ TODAY:
 * mahi mahi for lunch
   * chef claimed only the sauce had butter
   * terrible stomachache afterwards though
+* head back home
+* Jackie was hungry
+  * pho for dinner!
+* head to bachata practice
+  * not a great practice ...
+  * took plenty of notes though!
+* back home afterwards
+  * helped Jackie pack for her trip
 
 LEARNINGS:
-* 
+* too many socials makes our performance dance look bad
