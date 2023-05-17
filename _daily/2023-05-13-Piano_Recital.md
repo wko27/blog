@@ -30,7 +30,21 @@ YESTERDAY:
 * passed out around 10 pm
 
 TODAY:
-* 
+* head to work in morning
+  * met up with Sunjay
+* head home
+  * pick up Jackie
+  * picked up lunch from Roger's Deli
+  * head to Brian's
+* frosthaven!
+  * Nikolaus joined in
+  * some tasty blackberries to snack on
+* head to Yibin's for dinner
+  * Jackie picked up some desserts from Paris Baguette
+  * newborn is 6 months old and super cute
+  * good to catch up
+* finished around 11 pm
+  * too late to head to a board game night
 
 LEARNINGS:
-* 
+* always nice to help people realize their dreams
