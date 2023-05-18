@@ -33,6 +33,12 @@ TODAY:
 * one nap
 * presentation got moved
 * productive day
+* CMU alumni meeting
+* head home
+* Jackie made pizza!
+  * so tasty :D
+* Mandalorian season 3 with Thorvald
+* bit of work
 
 LEARNINGS:
 * more fun to cook with Jackie
