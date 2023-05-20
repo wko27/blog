@@ -33,6 +33,7 @@ TODAY:
 * one nap
 * presentation got moved
 * productive day
+  * do alllll the one on ones
 * CMU alumni meeting
 * head home
 * Jackie made pizza!
