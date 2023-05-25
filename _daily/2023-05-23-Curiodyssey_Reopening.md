@@ -20,9 +20,29 @@ YESTERDAY:
   * good practice, finally filled in some missing parts
 * in-n-out with Jackie and Kat
 * Jackie started watching Ant Man and the Wasp: Quantum Mania late at night
+* filled out a recommendation letter
 
 TODAY:
-* 
+* head to work
+* productive day
+* fancy pasta for lunch
+  * "Orecchiette Pasta with Eggplant and Arrabiata Sauce"
+  * they even took off the parmesan for me!
+* one nap
+* head to workout session
+  * Jackie came along!
+  * although she forgot to use the promo code
+* head back home
+  * mentor session with Brian
+  * sad topics :(
+  * but also happy ones
+* head to bachata practice
+  * fun session
+  * helped fine tune follow's solo section
+* took Jackie to the momo place
+  * tasty chicken sausage
+  * wai wai noodles were so-so
+* sent an intro for a startup founder
 
 LEARNINGS:
-* 
+* dancing is always more fun with Jackie!
