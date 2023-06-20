@@ -22,7 +22,12 @@ TODAY:
 * shio ramen
   * too many noodles
   * not enough pork
-* 
+* head to climbing gym
+  * redid a fun 11-
+  * finger felt a bit funny after the cooldown climb
+* dinner at Ming Tasty
+  * haven't been here in years!
+* head home
 
 LEARNINGS:
-* 
+* brushing teeth for a longer period of time works!
