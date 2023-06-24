@@ -49,4 +49,4 @@ TODAY:
 * cleanup the condo a bit
 
 LEARNINGS:
-* 
+* fun to cook with Jackie
