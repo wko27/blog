@@ -53,7 +53,19 @@ YESTERDAY:
 * sleep by 2:30 ish
 
 TODAY:
-* 
+* slept in until near 10:30 am
+  * pack everything
+* head to workshops!
+  * excellent
+* watched our bachata instructor's performance
+  * beautiful dance
+* head out to dinner
+  * Ethiopian restaurant was tasty
+  * they refused to make me more than one dish dairy free though
+  * watched an antique and classic car parade go by
+* drop off Kat at venue
+* head home
+* got back to south bay around midnight
 
 LEARNINGS:
 * 
