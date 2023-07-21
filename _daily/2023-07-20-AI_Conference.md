@@ -21,8 +21,26 @@ YESTERDAY:
   * powerpoint does have some nice controls for mass manipulation of slides
 
 TODAY:
-*
+* head to work
+  * little sleepy
+* got a referral for a friend
 * head up to SF for an AI conference hosted by Google
-
+  * interesting event
+  * so many introverted techbros
+  * sad lunch
+  * beautiful Google office though
+* head straight home
+  * bit of traffic on 280
+* quick nap
+* reviewed a website for a friend
+* head to dance practice
+* on-1 salsa was challenging again
+  * learned a bit more to the sequence from last time
+* bit of bachata practice with Amit
+  * new lead, needs to learn choreo in 6 weeks
+* pho for dinner
+* late night call with Michael
+* finished that book
+  
 LEARNINGS:
-* 
+* know way more about bleeds and margins now ...
