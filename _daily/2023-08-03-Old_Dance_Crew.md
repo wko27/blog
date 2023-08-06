@@ -31,7 +31,23 @@ YESTERDAY:
 * sleep
 
 TODAY:
-* 
+* bring your kid to work day!
+* ramen option was a ramen salad?
+  * ended up having three hot dogs for lunch
+  * maybe that was too much since I had stomach pains later
+* head home to pick up Jackie
+* head to Union City for dinner with friends
+  * wandered around Daiso with Nigel
+  * caught up with Graciela, Nikolaus, and Anna
+  * Din Ding restaurant was pretty tasty!
+  * crazy line too and Asians inside
+  * ate way too much
+* head home
+  * picked up dance shoes
+  * head to Alberto's for dancing with Anna
+  * lots of salsa and not a lot of bachata
+  * took a 30 minute break to chat with Michael
+* got home past midnight
 
 LEARNINGS:
-* 
+* there is such a thing as too much food
