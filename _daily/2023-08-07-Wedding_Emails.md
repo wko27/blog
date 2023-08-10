@@ -39,6 +39,7 @@ TODAY:
 * Jackie made crabcakes
   * I made some napa cabbage
 * head to dance practice
+  * Lisa is moving to NY! :(
 
 LEARNINGS:
 * lovely to spend time with Jackie before she heads out
