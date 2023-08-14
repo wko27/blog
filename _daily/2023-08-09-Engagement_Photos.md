@@ -24,6 +24,7 @@ YESTERDAY:
 TODAY:
 * head to work
 * lots of meetings
+  * Cecilia reported she has COVID :(
 * delicious pork for lunch
 * one nap
 * unblocked a bunch of folks
