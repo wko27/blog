@@ -19,7 +19,9 @@ YESTERDAY:
 * pho for dinner with Kat
 
 TODAY:
-* 
+* team surprised me with a 
+* dance practice
+
 
 LEARNINGS:
 * 
