@@ -8,7 +8,7 @@ locations:
 
 YESTERDAY:
 * head to work
-
+* busy day
 * dinner at Noodleosophy with Sunjay
   * delicious beef rib noodle soup
 * watched two episodes of Hijack with Thorvald
