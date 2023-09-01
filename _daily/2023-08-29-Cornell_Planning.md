@@ -29,6 +29,16 @@ TODAY:
   * took 280 to get to work
   * 35 minute drive
 * odd selection for lunch today
+* work work work
+* two naps
+* missed yoga
+* head home
+* mentor chat with Brian
+* head to climbing
+  * Louisa twisted her back?
+* "Lopez" plate at Mexican restaurant for dinner
+  * gave Louisa a ride home with the bike
+* packed for trip tomorrow!
 
 LEARNINGS:
-* 
+* good to muse over whether it's worth visiting a place after a natural disaster
