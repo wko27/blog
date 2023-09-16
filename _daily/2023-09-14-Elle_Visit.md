@@ -48,3 +48,4 @@ TODAY:
 
 LEARNINGS:
 * nice to see old friends again
+* lot of people doing long distance relationships o.O
