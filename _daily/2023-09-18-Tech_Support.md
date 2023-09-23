@@ -32,7 +32,21 @@ YESTERDAY:
   * found out two of my eggs cracked in the carton somehow :(
 
 TODAY:
-* 
+* head to work
+* busy day!
+  * lots of deployments
+* don't even remember what we had for lunch q.q
+* one nap
+* head to yoga
+  * went to the one in Palo Alto
+  * supposed to be slow flow class
+  * but the music included some house techno?
+  * one of the guys behind me started headbanging
+* bachata practice
+  * new choreo starts!
+  * lots of turns for the lead
+* caught up with Jackie on her dance choreo as well
+* finished some dumplings for dinner
 
 LEARNINGS:
-* 
+* learning a new choreo is fun!
