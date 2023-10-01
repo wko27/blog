@@ -42,6 +42,7 @@ TODAY:
   * strangely awake ...
   * running on 4 hours of sleep + 1 nap
   * mildly sure I'll crash if I try to dance
+* trip planning for a camping weekend
 
 LEARNINGS:
 * Garmin has an in-reach messenger useful for remote areas with no cell coverage
