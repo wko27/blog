@@ -44,6 +44,7 @@ TODAY:
 * forgot to fuel up
 * ordered some more toilet paper
   * also ordered Jackie some ... pan scrapers?
+* set up and test new Garmin GPS tracking device
 
 LEARNINGS:
 * it's nice when people do things for you out of kindness
