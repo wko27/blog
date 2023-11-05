@@ -30,7 +30,15 @@ TODAY:
 * early morning meeting
   * I guess 9:30 am isn't all that early ...
   * had a ... fun discussion with a potential customer
+* bun rieu for lunch
+  * pretty tasty, lots of crab
 * work work work
+* head to bachata practice
+  * Googleplex
+* Tommy Thai for dinner
+* head home
+* ordered some new glasses!
+  * way cheaper than they used to be
 
 LEARNINGS:
 * the International Fixed Calendar!
