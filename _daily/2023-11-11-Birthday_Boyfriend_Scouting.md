@@ -54,7 +54,7 @@ TODAY:
 * spent about 3 hours there
   * chatted with Chris ...
   * helped with some cake serving
-
+* head home
 
 LEARNINGS:
-* 
+* interesting seeing what would have happened if I stayed at Medallia ...
