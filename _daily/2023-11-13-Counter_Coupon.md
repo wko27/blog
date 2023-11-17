@@ -58,6 +58,9 @@ TODAY:
   * fixed a double turn issue with Jessica
 * head to pho for dinner
 * catch up with Jackie
+* dropped by Safeway
+  * picked up Zyrtec for Dad
+  * also found some NY strip steak for $5 per lb!
 * head home
 
 LEARNINGS:
