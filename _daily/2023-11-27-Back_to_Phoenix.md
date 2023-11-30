@@ -35,7 +35,21 @@ YESTERDAY:
   * corner was starting to wear thin
 
 TODAY:
-* 
+* head to work
+* lots of coworkers sick :(
+* halibut for lunch
+  * little dry
+* one long nap
+* caught up with Jackie
+* head to yoga
+  * good breathing workout
+* head home
+  * quick shower
+  * prep for presentation with Sunjay
+* head to dance practice
+  * gave Jessica her early holiday present (an ab roller)
+* in-n-out for dinner
+  * chatted with Abhigyan about car ownership in SF
 
 LEARNINGS:
-* 
+* expensive to store cars in SF!
