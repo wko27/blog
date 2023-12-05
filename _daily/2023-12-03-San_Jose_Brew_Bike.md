@@ -32,7 +32,32 @@ YESTERDAY:
 * caught up with Jackie
 
 TODAY:
-* 
+* head to morning yoga
+  * last yoga before my shoulder surgery!
+* picked up Louisa
+  * head to climbing
+  * haven't climbed in ages, so did a few easy warmups
+  * finished an easy 11-
+* tried to go to Ruby's Tacqueria
+  * menu has changed!
+  * not many vegetarian options
+* went to Merit Vegan instead
+  * tasty curry noodles
+* dropped off Louisa
+* head home
+* shower + nap
+* bit of work
+* head over to my Dad's place
+  * Dirk, the photographer arrived!
+  * Brian and Louisa showed up
+* Elle showed up just as the photographer was leaving
+  * brought me some frozen strawberries from Costco
+* Asia Village dinner delivery
+* played a few games of mahjong
+  * my Dad won ... a lot
+  * got serenaded with some Erhu
+* pumped up Jackie's car with a bike pump for Louisa
+* went to sleep early to be ready for surgery!
 
 LEARNINGS:
 * group bike ride is kinda cool
