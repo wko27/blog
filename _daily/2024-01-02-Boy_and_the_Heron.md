@@ -15,6 +15,7 @@ YESTERDAY:
 * fashion wok for lunch!
   * bit too much food
   * or maybe appetite was reduced due to fiber pills
+  * spicy pork was very spicy
 * food coma
 * head to yoga!
   * I think my mat was too smelly
