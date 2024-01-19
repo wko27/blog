@@ -43,6 +43,13 @@ TODAY:
 * food coma nap
 * bit of work
 * finished a podcast on high speed rail in California
+* head to yoga
+  * lovely class
+* made dinner from leftovers
+  * fish, shrimp, tofu, spinach, noodles, eggs ...
+* pump up air in the van's tires
 
 LEARNINGS:
 * not a huge fan of Terry Gilliam
+* huh I realized today that you can put your drying rack in the dishwasher!
+* also realized why toilets are made of porcelain while explaining high quality markerboards to Jackie
