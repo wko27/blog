@@ -55,4 +55,4 @@ TODAY:
   * she needed some startup ideas for an entrepreneurship class
 
 LEARNINGS:
-* 
+* what chopped steak is ... not as exciting as it sounds
