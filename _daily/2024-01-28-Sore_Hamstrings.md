@@ -39,6 +39,18 @@ TODAY:
 * Sunjay returned Jackie's car
 * updated music collection
 * cleaned out fridge!
+* head to dance practice
+  * worked on some technical parts
+* head to Millbrae for dinner
+  * pick up Dad on the way
+  * lovely to see Rocky, Candice, and Julio
+  * tasty dumplings!
+  * dropped by a fancy grocery store next to the restaurant
+  * $7 for a carton of eggs??
+* head home
+* family call with Amy and Jackie
+* wedding planning
+* finished getting all stars on Kingdom Rush
 
 LEARNINGS:
 * maybe don't dance for 4 hours before doing a 12 mile hike
