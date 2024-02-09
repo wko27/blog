@@ -24,7 +24,19 @@ YESTERDAY:
 * finished Alien Dark Descent
 
 TODAY:
-* 
+* head to work
+* busy day, support role
+* skipped the fancy salmon for lunch
+  * stomach wasn't too happy with all the short ribs last night
+  * got a tasty scallop rice dish instead
+* head to yoga
+  * super rainy
+  * nice slow flow class
+  * teacher was very soft spoken and with a russian accent
+  * little crowded, but found a corner
+* finished leftover short ribs for dinner
+* sync with Jackie
+* booked my flight 
 
 LEARNINGS:
 * will modify with less wine for next time
