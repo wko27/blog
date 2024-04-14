@@ -8,6 +8,7 @@ locations:
 
 YESTERDAY:
 * head to work
+  * brought Sunjay his birthday gift
 * eclipse!
   * didn't see it actually
   * not that visible in CA
@@ -28,6 +29,7 @@ YESTERDAY:
 TODAY:
 * head to work
   * traffic wasn't bad
+* introduced Pawan to Bernice to help with visa stuff
 * lots of meetings q.q
 * seafood stew for lunch
   * very tasty!
