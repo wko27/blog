@@ -1,6 +1,6 @@
 Hello!
 
-[Check out the blog here](https://wko27.github.com/blog) :)
+[Check out the blog here](https://wko27.github.io/blog/) :)
 
 This site is built on [GitHub Pages](https://pages.github.com/) with [Jekyll](https://github.com/jekyll/jekyll).
 
