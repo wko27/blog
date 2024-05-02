@@ -29,7 +29,19 @@ YESTERDAY:
 * ordered new picture frame online
 
 TODAY:
-* 
+* had to entertain some guests at work
+  * lovely trio
+  * yakisoba for lunch
+* productive day
+* worked out of garage for a bit
+  * haven't done this in a while
+* picked up panda express for dinner
+* one episode of Gentlemen with Thorvald
+* carpooled with Louisa and Antoine to karaoke
+  * Pawan joined us!
+  * ended up singing for two hours
+* head home to shower
+* started a new book
 
 LEARNINGS:
-* 
+* gotta let it out sometimes!
