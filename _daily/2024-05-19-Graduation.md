@@ -60,6 +60,8 @@ TODAY:
 * practice bachata
 * bit of work
 * yet another shower
+* ordered a pixel 8a
+  * the $100 Google store promotion expired an hour after I made my purchase
 * sleep
 
 LEARNINGS:
