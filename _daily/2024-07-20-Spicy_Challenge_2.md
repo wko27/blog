@@ -25,7 +25,30 @@ YESTERDAY:
 * Jackie went to sleep early
 
 TODAY:
-* 
+* head to yoga
+  * scult and flow with Maria
+  * shoulders were dying q.q
+* quick shower
+* head to work with Jackie to print out parking permit
+  * forgot my laptop
+  * took 10 minutes to figure out how to print from my phone
+* tried to go to a Chinese restaurant for lunch
+  * turns out they are closed for a week
+  * ended up at a mifen place in San Mateo
+  * pretty tasty!
+  * lots of noodles though
+* head to Curiodyssey to check on wedding venue
+  * took a bunch of pictures and got some things sorted out
+* head to a few different Goodwill stores
+  * the one in Menlo Park is super fancy now
+  * got some picture frames from the one in Palo Alto
+* nap
+* head back to San Mateo with Heidi and her new girlfriend Hazel
+  * dinner at Palette Tea House
+  * tried out some menu items that we intended to have at the rehearsal dinner
+  * salted egg yolk mushrooms weren't that great
+* head home
+* bit more wedding planning
 
 LEARNINGS:
-* 
+* my list of weird things to see in the US has grown quite a bit!
