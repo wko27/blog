@@ -37,7 +37,26 @@ YESTERDAY:
 * bit of work
 
 TODAY:
-* 
+* woke up around 9 am
+* head to Chetan's
+  * caught up for two hours
+* lunch with my dad
+  * took him to fashion wok!
+  * somehow we haven't taken him here yet ...
+* put all the seats back in the minivan
+* carpool to Valley Fair
+  * escape room with the gang!
+  * got stuck on one part
+  * still finished 14 minutes early
+* ice cream and snacks after
+* dropped by the lego store but the line was too long
+* drop everybody off
+* drop by post office to mail off thank you letters
+* head to dance practice
+  * kat and pawan joined us
+* dinner at dusita thai
+  * not as spicy as it used to be
+* head home
 
 LEARNINGS:
-* 
+* dusita thai not as spicy? :(
