@@ -31,7 +31,16 @@ YESTERDAY:
   * holy cow, never realized you could do this before
 
 TODAY:
-* 
+* head to work
+  * little errand in palo alto first
+* Jackie took my car to Zoox
+* chicken curry for lunch
+* picked up some supplies from garage
+* head to dance practice together
+  * dry-run performances before dance festival!
+* korean tofu soup for dinner with Pawan
+  * very nice
+* realized that its too late to cancel hotel stay without penalty
 
 LEARNINGS:
-* 
+* milkshakes! amazing
