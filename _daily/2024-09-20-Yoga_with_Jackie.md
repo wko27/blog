@@ -30,7 +30,18 @@ YESTERDAY:
   * we played a little duet for her
 
 TODAY:
-* 
+* head to work
+* katsudon for lunch
+* busy day
+* zhou was at a conference
+* prep for Sunjay's trip
+* picked up Jackie
+* head to Hillsdale
+  * picked up Sharina
+* head to dance practice
+  * good effort and improvements
+* home eats for dinner
+  * feel like we'll be here a lot!
 
 LEARNINGS:
-* 
+* nice to have an unbiased 3rd opinion!
