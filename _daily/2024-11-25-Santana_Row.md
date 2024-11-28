@@ -28,7 +28,16 @@ YESTERDAY:
 * finished a scenario of frosthaven
 
 TODAY:
-* 
+* head to work
+* pork for lunch
+  * not as moist as usual
+  * chicken noodle soup was tasty though
+* busy day at work
+* head to dance practice at Kat's place
+  * hard to find parking due to a Shark's game
+  * little too wet for Santana Row
+* dinner at Home Eat
+* got home too late to do laundry
 
 LEARNINGS:
 * I think untoasted wheat is better than toasted
