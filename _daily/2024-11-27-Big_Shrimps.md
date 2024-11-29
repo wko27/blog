@@ -31,6 +31,8 @@ TODAY:
 * two naps
 * pick up Jackie
 * head to dance practice
+* head home
+* pack for trip to LA
 
 LEARNINGS:
-* 
+* should see CMU friends more often
