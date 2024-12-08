@@ -17,7 +17,18 @@ YESTERDAY:
 * order some gifts using Amazon prime day deals
 
 TODAY:
-* 
+* head to early morning yoga
+  * proper bikram class!
+  * haven't done some of these poses in years
+* head home for a quick shower
+* head to family dim sum
+  * all you can eat dim sum!!
+* head home for a food coma nap
+* woke up sometime in the evening
+  * packed away some stuff from the guest room upstairs
+  * so many monitors from the 2000s
+* wonton noodle place for evening snack
+* head back to finish packing
 
 LEARNINGS:
-* 
+* so much stuff to clean up
