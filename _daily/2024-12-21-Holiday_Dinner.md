@@ -38,6 +38,8 @@ TODAY:
 * watched a documentary on Jim Henson with Jackie
 * picked up Vitality bowl and poke bowl for dinner
   * made some instant ramen later too
+* caught up on series updates from authors
+* set up aws s3 glacier sync
 
 LEARNINGS:
 * nice to visit family!
