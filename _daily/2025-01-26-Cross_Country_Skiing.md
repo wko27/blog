@@ -34,7 +34,26 @@ YESTERDAY:
 * catch up on some work
 
 TODAY:
-* 
+* woke up at 8 am again
+* packed our bags into car
+* head to snowshoe hiking location
+  * not a lot of fresh snow
+  * put on snowshoes anyway
+* lovely hike to a meadow and up a hill
+* took a break for lunch
+  * turned around to head back
+* one nap on the drive back
+* got back to bay area around 4 pm
+* picked up Jackie's car
+* unload car and shower
+* head to Artista to pick up some food from Kat
+  * caught up with Mauricio
+* ended up at brazilian steakhouse for dinner
+  * surprisingly empty
+* head back home
+  * food coma
+* finished season 2 of Arcane
+* ordered a new pair of sunglasses to replace stolen ones
 
 LEARNINGS:
-* 
+* forgot how tasty the pineapple is at a brazilian steakhouse
