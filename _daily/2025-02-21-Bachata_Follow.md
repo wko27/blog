@@ -26,7 +26,16 @@ YESTERDAY:
 * more thin mints
 
 TODAY:
-* 
+* head to work
+* katsudon for lunch
+  * bit heavy
+* lots of prep for sales team
+* pick up Jackie from home
+  * head to dance practice
+  * Simren fell and hurt her foot :(
+* home eats refused to let us dine in :(
+  * got takeout instead
+  * had to eat at home!
 
 LEARNINGS:
-* 
+* thin mints are better frozen?
