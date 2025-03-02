@@ -24,6 +24,7 @@ TODAY:
 * head to work
 * carne asada for lunch
   * pretty heavy
+* had to give another speech
 * dance practice
   * fancy prone dip?
   * not sure what to call this move
