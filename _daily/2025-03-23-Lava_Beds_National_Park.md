@@ -50,6 +50,7 @@ TODAY:
   * also an F15 Eagle fighter jet?
 * Brian drove us back to the lava beds national park
 * head back to motel with Jackie
+* order some presents for HK
 
 LEARNINGS:
 * caves are fun!
