@@ -58,6 +58,17 @@ TODAY:
 * head to airport
   * met up with dad
   * got into premium plaza lounge!
+* for some reason, they did not announce the flight departure over the PA system
+  * almost missed boarding!
+* flight was reasonable
+  * two little kids to the left but they didn't cry until we landed
+  * ran out of duck, so I had to get the non-dairy vegetarian item for dinner
+* watched a super sad movie about elder care in Hong Kong
+  * watched a weird film about an actress
+  * watched a film about a fake hit man
+* Sunjay gave us a ride back from SFO
+  * actually got to sleep by 2 am ish
+
 
 LEARNINGS:
 * carrying fruit around is a great workout
