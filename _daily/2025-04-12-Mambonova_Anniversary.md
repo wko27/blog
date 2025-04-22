@@ -27,6 +27,7 @@ TODAY:
   * threw out a bunch of unused stuff (or marked for donation)
 * lunch with dad at malatang
 * laundry
+* Jackie washed our cars
 * head to dinner with Pawan, Kat, Maggie, and Vedant
   * thai place was a bit expensive
 * head to Dance Boulevard

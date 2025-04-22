@@ -24,6 +24,7 @@ YESTERDAY:
 
 TODAY:
 * figured out dental plan!
+* made some eggs for breakfast
 * head to work
 * niku beef for lunch
   * very tasty
