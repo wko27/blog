@@ -25,7 +25,26 @@ YESTERDAY:
 * signed up for new insurance
 
 TODAY:
-* 
+* woke up at 7 am again due to that bird :(
+* head to work
+* bit groggy
+* ramen for lunch
+  * also chicken noodle soup!
+  * with fresh noodles
+  * soup wasn't crazy hot like usual
+* head to belmont gym
+  * way more crowded!
+  * also some new machines to work with
+* head home
+  * picked up Jackie and Loiusa
+* head to climbing
+  * haven't climbed in 2 months
+  * failed an 11b, finished an 11a though
+  * being careful with the wrist
+* tacos for dinner!
+  * got four of them :D
+* head home
+* tried out Sunderfolk with Jackie
 
 LEARNINGS:
-* 
+* fun to play a new co-op game :D
