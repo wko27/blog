@@ -34,6 +34,14 @@ TODAY:
 * korean stew for lunch!
   * glass noodles were a bit odd
   * also not as spicy as I thought
+* head to yoga
+  * crowded class!
+* picked up panda express on the way home
+  * first time in months
+* thorvald cancelled due to Nia's issues :(
+* ended up working on Sunderfolk campaign with Jackie
+* alibaba order for shirts got cancelled!
+  * probably due to impending de minimis change
 
 LEARNINGS:
 * Windex and ACT mouthwash have a very similar blue
