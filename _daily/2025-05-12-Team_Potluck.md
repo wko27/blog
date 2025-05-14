@@ -29,6 +29,17 @@ YESTERDAY:
 * sunderfolk with Jackie
 
 TODAY:
+* brought cookies to work!
+* beef at lunch was amazing
+* one nap
+* head to yoga
+  * lots of single-leg balances today!
+* Thorvald cancelled
+* head to Milpitas for dinner with Mark
+  * got caught up on his interview process
+  * Mexican place had massive quantities
+* head home
+* bit of sunderfolk
 
 LEARNINGS:
-* 
+* shouldn't have filled up on free chips
