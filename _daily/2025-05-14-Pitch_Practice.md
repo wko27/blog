@@ -22,7 +22,17 @@ YESTERDAY:
 * head to sleep since Jackie has another early start
 
 TODAY:
-* 
+* picked up luggage from Ari for Bernice
+* excellent taiwanese pork bowl for lunch
+* stomach was a bit volatile today
+* one nap
+* interviews!
+* head to meet up with Zhou in Menlo Park
+  * caught up with Zhou and Arbit
+  * dropped them off at an event in Palo Alto
+* finish leftovers for dinner
+  * bit too many dumplings
+* exchanged more of Bernice's stuff with Bradley
 
 LEARNINGS:
-* 
+* oh the woes of pitching
