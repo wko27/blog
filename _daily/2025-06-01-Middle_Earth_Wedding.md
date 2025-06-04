@@ -32,9 +32,33 @@ YESTERDAY:
   * took a nap after filling up at Costco
 * stomachache into the night
   * probably too much grease from tacos and burritos
+* submitted driver's license renewal!
+  * with real ID ... after so many years
 
 TODAY:
-* 
+* head to dim sum with dad and Jackie
+  * caught up with the aunties
+  * finally met Rio
+  * also Jessica and Pouya
+  * filled up gas at Costco on the way
+  * ended up a few minutes late
+  * restaurant wasn't that great
+  * lo mai gai was cold
+* tried to drop by Whole Foods for Amazon return on the way home
+  * kiosk was broken though and line was long
+* one nap
+* head to dance practice
+  * salsa team went to the beach together!
+* head to Fuego for a dance social
+  * caught up with Shubham and Alp there
+* dinner with Brian at a decent Peruvian restaurant
+  * little pricy and the fried seafood basket wasn't so great
+  * lomo saltado and paella were great though!
+* Brian gave me a ride home while Jackie continued dancing
+* bit of work
+* caught up with other Brian
+  * starting internship in Oakland soon!
+* more sunderfolk
 
 LEARNINGS:
-* 
+* good to see family
