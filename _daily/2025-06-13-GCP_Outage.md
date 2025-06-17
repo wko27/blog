@@ -15,8 +15,10 @@ YESTERDAY:
 * lot of non-coding work today
 * head to workout with Taylor
 * Jackie went to a bachata class in Sunnyvale
-* might have had cereal for dinner?
-  * unsure!
+* head to local cafe for dinner
+  * 3 item with soup deal
+  * but Jackie thought top cafe was more tasty
+* head home
 
 TODAY:
 * head to work
