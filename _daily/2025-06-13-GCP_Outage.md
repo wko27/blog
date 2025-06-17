@@ -13,7 +13,10 @@ YESTERDAY:
   * spicy dan dan mein looked tasty too!
 * two naps
 * lot of non-coding work today
-* head to workout
+* head to workout with Taylor
+* Jackie went to a bachata class in Sunnyvale
+* might have had cereal for dinner?
+  * unsure!
 
 TODAY:
 * head to work
