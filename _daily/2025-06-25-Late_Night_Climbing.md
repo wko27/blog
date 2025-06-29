@@ -49,4 +49,4 @@ TODAY:
 * started watching one punch man
 
 LEARNINGS:
-* 
+* haven't been to a conference in a while
