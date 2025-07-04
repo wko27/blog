@@ -28,9 +28,29 @@ YESTERDAY:
 * eggs, shrimp, and veggies for dinner
 * Jackie got super sunburned
 * bit of cleanup
+* started marinated cucumbers for party
+* Jackie made a bunch of chocolate strawberries!
 
 TODAY:
-* 
+* brunch with Jessica and Pouya
+  * lovely to catch up
+* head to dance practice at 11 am
+  * Hector dropped by
+  * he may have been expecting a birthday surprise
+* run some errands
+  * Amazon returns
+  * picked up some drinks
+* head to Fuego
+  * dance performance!
+  * few team members were almost late
+  * excellent performance
+  * bit of social dancing
+* drop by home to pick up food
+* head to Guarov's for celebration party
+  * fun night of karaoke
+  * tandoori chicken was amazing
+* head home
+* one punch man
 
 LEARNINGS:
-* 
+* karaoke with friends is so fun :D
