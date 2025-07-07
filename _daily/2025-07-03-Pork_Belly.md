@@ -36,4 +36,4 @@ TODAY:
 * finish off some ice cream
 
 LEARNINGS:
-* 
+* there is cheap sushi in palo alto??
