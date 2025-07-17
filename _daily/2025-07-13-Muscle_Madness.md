@@ -30,7 +30,30 @@ YESTERDAY:
 * one punch man
 
 TODAY:
-* 
+* head to climbing!
+  * met Jackie's coworker and his wife
+  * Louisa and Rohan came along
+  * found Guarov doing an alpine class
+  * he tore up his calluses again
+* new Italian restaurant for lunch
+  * fish wasn't bad
+* head home for a call with Kofi
+  * just needed a 20 min talk about switching majors
+* head to dance practice
+  * worked on some stuff with Jackie
+* head back to shower
+* head to Cascal for Mark's birthday dinner
+  * turns out Maggie did fracture her toe :(
+  * she also brought photos and markers for us
+  * turned into a fun guessing game
+  * paelle was so-so
+  * cuban wrap was actually tasty
+* head to Brian's
+* played Crew with Zhou
+* caught up with the other Brian
+  * heard about his trip to Boston
+* head home
+* ordered some pool noodles to cushion the obstacles
 
 LEARNINGS:
-* 
+* can fracture a toe stubbing it on my bench's legs!
