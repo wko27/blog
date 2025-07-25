@@ -32,7 +32,21 @@ YESTERDAY:
 * finished folding laundry
 
 TODAY:
-* 
+* head to work
+* fish chowder for lunch!
+  * super tasty
+  * Jamaican beef stew was more spicy than expected
+* few naps
+* productive day
+* Thorvald came by to visit
+  * he was nearby for an event
+  * took him to sushi on Castro St
+  * then a dessert place
+* tried another episode of dungeon delicious
+* fell asleep by accident while watching the episode
+* woke up around 2 am
+* couldn't fall back asleep
+* read a book for a bit ...
 
 LEARNINGS:
-* 
+* Vedant actually put effort in to learning formations before coming to practice :D
