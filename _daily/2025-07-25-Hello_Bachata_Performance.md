@@ -30,7 +30,28 @@ YESTERDAY:
 * head back to Artista to pick up some shoes that Jackie left behind
 
 TODAY:
-* 
+* head to work
+  * Jackie came along!
+  * also took the minivan
+* rush coding session in morning
+* meetings until late afternoon
+* katsu don for lunch
+* took a nap while Jackie drove us to Hyatt
+* attended Hector's class
+  * salsa partnerwork wasn't too bad
+  * dancing on 2 to the tumbao was tricky though
+* tech rehearsal
+  * Lina, Luis, and Vedant showed up late
+  * met Lina's sister Cathy, they look like twins
+* head back to work to change into costumes!
+* back to Hyatt for performance
+  * pretty decent run
+* celebrate at Hector's
+* head to Burlingame for dinner
+  * dumpling restaurant had incorrect hours shown
+* ended up at Urban Momo again
+  * shared plates with Simren, Jackie, and Mark
+* dropoff and head home
 
 LEARNINGS:
-* 
+* so many restaurants with incorrect hours on Google Maps!
