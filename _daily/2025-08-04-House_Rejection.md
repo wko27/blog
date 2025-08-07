@@ -37,7 +37,18 @@ YESTERDAY:
 * bit more work
 
 TODAY:
-* 
+* head to work
+* bbq pulled pork for lunch
+  * super tasty
+  * but I definitely food coma'd for an hour
+* productive day
+* head to yoga
+  * lovely class
+* caught up with Thorvald
+  * very sad :(
+* watched 2nd season of Last of Us 2
+* dumplings for dinner
+  * lava yolk buns smelled amazing in the steamer
 
 LEARNINGS:
 * houses at the end of a T-intersection have bad feng shui!
