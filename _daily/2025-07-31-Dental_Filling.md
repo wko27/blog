@@ -17,9 +17,18 @@ YESTERDAY:
 * caught up with Wei
   * he's actually in Taiwan
 * afternoon full of meetings
+* head home
+* head to climbing
+  * Ruth came along!
+  * Pawan came too :D
+* dinner at Lopez
 
 TODAY:
-* 
+* head to work
+* forget what happened on this day
+* workout in evening with Taylor
+* chat with Michael
 
 LEARNINGS:
-* 
+* Ruth is pretty good at climbing!
+  * apparently she did 6 years of aerial silks
