@@ -17,12 +17,25 @@ YESTERDAY:
   * Pawan, Brian, Sam, and Ruth all came!
   * Jackie finished an 11b
 
-
 TODAY:
 * head to workout with Taylor
   * so sad she had to put down Boba :(
 * head to work for a quick shower
 * busy day!
+* dry ramen for lunch
+  * very tasty
+* lunch meeting was fun
+* dropped by the garage for some cleanup
+* few naps
+* head to yoga
+  * class had a lot of warrior 2 positions
+  * also did half moon twice
+  * does that count as a full moon?
+* head home
+* laundry
+* Jackie baked a blueberry pie!
+* finished leftovers for dinner
 
 LEARNINGS:
-* 
+* blueberry pies are complicated!
+  * making the crust takes time ...
