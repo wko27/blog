@@ -1,4 +1,4 @@
-1;95;0c>---
+---
 layout: post
 unique_id: hersheypark
 title: Hersheypark
