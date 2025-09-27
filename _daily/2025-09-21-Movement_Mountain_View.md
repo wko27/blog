@@ -36,7 +36,23 @@ YESTERDAY:
   * lots of noodles
 
 TODAY:
-* 
+* drop by Home Eat for lunch
+* got gas
+* drop by Costco
+  * picked up some steaks
+* nobody signed up for dance practice
+* sous vide the steaks
+* stayed home to do some work
+* Jackie went to a social in San Jose
+* head to yoga class around 6 pm in Palo Alto
+  * teacher's last class
+* head to Brian's for board games and dinner
+  * steaks were delicious
+  * nose wouldn't stop running
+  * realized that Brian didn't vacuum after hosting a few cats last week
+* got home to get inhaler
+* finished a bit of work
+* got to sleep around 3 am
 
 LEARNINGS:
-* 
+* still allergic to cats :(
