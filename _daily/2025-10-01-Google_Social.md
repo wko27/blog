@@ -38,7 +38,24 @@ YESTERDAY:
   * and four eggs
 
 TODAY:
-* 
+* head to work
+* busy day
+* chicken for lunch
+  * little salty
+  * shrimp soup was tasty though
+* no late night meeting due to Chinese holidays
+* head to Movement Santa Clara
+  * core workout was fun
+  * lots of oblique work
+* Jackie was busy with Google bachata team practice
+* climbing with Brian, Pawan, and Ruth
+  * finished an easy 11b
+  * next 11b had a gaston move for the start -_-
+* head to Fashion Wok for dinner
+  * Ruth seemed to really like the pile of beef dish
+  * also a monthly special
+* head home
+* property taxes!
 
 LEARNINGS:
-* 
+* housing market is pretty weird right now
