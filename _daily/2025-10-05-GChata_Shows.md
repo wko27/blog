@@ -17,6 +17,7 @@ YESTERDAY:
   * checked out a few open houses in the area
 * head back home
 * had a sync with Parth on negotiating internship offers
+* bit of volunteer IT work
 * head to Baychata event to watch Jackie's team performances!
   * they were running 30 minutes behind
   * got the best seat in the house though :D
