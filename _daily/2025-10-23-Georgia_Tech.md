@@ -39,6 +39,7 @@ TODAY:
   * also checking prices in general!
 * head home
 * cereal for dinner
+* apparently my speeding ticket from a year ago is ... again delayed
 
 LEARNINGS:
 * Turkish get-up!

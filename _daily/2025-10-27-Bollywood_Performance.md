@@ -15,6 +15,8 @@ YESTERDAY:
   * pretty expensive and seems more for instagram than for food
 * tried to find a erhu shop in Cupertino
 * picked up gas
+* new shirts arrived!
+  * although missing a blue shirt
 * fixed my Dad's Costco membership
   * somehow he renewed his old card from LA
 * head to Pawan's performance
