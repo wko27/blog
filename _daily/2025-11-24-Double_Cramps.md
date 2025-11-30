@@ -27,7 +27,20 @@ YESTERDAY:
 * Jackie came back around midnight
 
 TODAY:
-* 
+* head to work
+  * no traffic!
+* presentation
+* productive day before Thanksgiving
+* matzo ball soup for lunch
+  * not as exciting as I thought it would be
+* one nap
+* dinner with Benson and the gang
+  * two birthdays!
+  * Alfred showed up 30 mins late
+  * Daeho had a line though
+* drop by a Meet Fresh afterwards
+  * brought Jackie back a mochi dessert
+* caught up on one punch man
 
 LEARNINGS:
-* 
+* good to catch up with old college friends
