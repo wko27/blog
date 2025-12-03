@@ -49,3 +49,4 @@ TODAY:
 
 LEARNINGS:
 * apparently it's not ants on a stick like I thought :'(
+  * it's ants on a log
