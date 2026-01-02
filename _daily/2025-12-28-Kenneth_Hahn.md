@@ -30,7 +30,25 @@ YESTERDAY:
 * pack car and shower
 
 TODAY:
-* 
+* finish packing
+* head to breakfast with auntie Elizabeth
+  * spam and egg noodle was delicious
+  * also fried chicken steak was amazing
+* head back to SF
+  * pretty smooth, bit of traffic entering Central Valley
+  * full of fog
+  * also bit of traffic in Gilroy
+  * Jackie drove part of the way
+* got home to unpack
+* Shubham invited us to a bachata house party
+  * brought wings from Home Eat
+  * met a bunch of folks
+  * better dancers than the social in LA!
+* head home
+* more unpacking
+* had some dumplings for a late night dinner
+* one punch man!
+  * apparently that was the season finale?
 
 LEARNINGS:
-* 
+* I dance better at a house party than a social!
