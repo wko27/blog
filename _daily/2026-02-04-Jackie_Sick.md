@@ -33,7 +33,15 @@ TODAY:
   * slowdown for accident on the other side of 101 ...
 * ropa vieja for lunch
   * also a veggie corn soup
+* productive 1:1s today
 * one nap
+* caught up with Eli
+  * waiting to hear his acceptance letters
+* head to workout with Taylor
+  * hips were still tight from Monday
+* skipped climbing since Jackie still coughing
+* head to pho for dinner
+* relaxing at home in evening
 
 LEARNINGS:
-* 
+* need to continue stretching if not doing yoga every other day
