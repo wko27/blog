@@ -31,6 +31,12 @@ TODAY:
 * cioppino for lunch!
   * so much seafood
 * one massive nap
+* head to dance practice
+* dinner with Jackie at home eat
+  * tried the lobster noodle
+  * lobster was not fresh :(
+* bit of my hero academia
+* bit of work
 
 LEARNINGS:
 * revolved half moon transition to exalted warrior pose always throws me off balance
