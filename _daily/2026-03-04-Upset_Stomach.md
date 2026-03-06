@@ -24,7 +24,23 @@ YESTERDAY:
 * Jackie had a headache and ended up with an upset stomach :(
 
 TODAY:
-* 
+* head to work
+* trapped in meetings most of the day
+* heavy lunch!
+  * jambalaya with pasta
+  * rassam soup was spicy!
+* slightly more productive in the afternoon
+* head home to pick up Jackie
+* head to Brian's for birthday dinner celebration
+  * brought along a blueberry pie
+* dinner at Zeni's!
+  * lovely Ethiopian meal
+* head back for a homemade cheesecake and Ikea bluerry pie
+  * ate 3/4 of the pie
+* head home
+* food coma pass out around 10 pm
+  * woke up around midnight
+* stayed up until 3 am working
 
 LEARNINGS:
-* 
+* yea maybe that's too much pie
