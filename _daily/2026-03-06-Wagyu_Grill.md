@@ -22,7 +22,15 @@ YESTERDAY:
 * bit of work
 
 TODAY:
-* 
+* head to work
+* poke bowl for lunch
+* quiet day in the office
+* caught up with Zhou
+* head to dance practice with Jackie
+  * productive practice
+* dinner at Shah restaurant again
+  * playing the same music video from last time
+  * Indian and Tibetan dance?
 
 LEARNINGS:
-* 
+* Jackie can make some fancy cakes!
