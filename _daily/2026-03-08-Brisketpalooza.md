@@ -42,6 +42,17 @@ TODAY:
 * early dinner (or a late lunch) at paradise biryani
   * not a lot of lactose free options
 * head home
+* PGSS call
+  * bit of a long one
+* head to Brian's for board games
+  * played magic maze with G and Brian
+  * pretty fun once we got the hang of it
+* played game of set
+  * haven't lost in ages
+  * also haven't played in ages
+* played a cute game about abducting ducks
+  * gameplay was so-so but the concept was fun
+* got to sleep around 2 am
 
 LEARNINGS:
 * king eggroll is pretty decent!
