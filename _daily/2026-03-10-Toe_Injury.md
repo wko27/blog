@@ -12,7 +12,7 @@ YESTERDAY:
   * bit spicy though
 * one nap
 * head to a HIIT class
-  * stepped badly on my toe while doing curtsy lunges
+  * stubbed my toe badly while doing curtsy lunges
 * salad for dinner!
   * and some wings
 * watched a stressful show called the Pitt with Thorvald
@@ -20,7 +20,8 @@ YESTERDAY:
 
 TODAY:
 * head to work
-  * definitely sprained my toe
+  * definitely a minor sprain on my toe
+  * bit of swelling
 * tasty chicken for lunch
   * lovely chicken soup
 * head to Stanford hospital
