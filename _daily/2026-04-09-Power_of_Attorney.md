@@ -31,7 +31,21 @@ TODAY:
 * head to work
   * on time today!
 * finally gave a call to Toyota about the remote lock not working
-
+* American ramen for lunch
+  * tasty brisket
+* sync with Kofi!
+  * figuring out his summer plans
+* head to solidcore class
+  * took it a bit easy on the lunges
+  * knee still pretty bruised
+* head home
+* Tammie dropped by to crochet with Jackie
+* head to panda express for dinner
+  * portion sizes got smaller?
+* did some work out of my Dad's place
+  * call with Michael
+  * supported a demo in Japan
+* finished around 1 am
 
 LEARNINGS:
-* 
+* certain LTE bands are used in different parts of the world
