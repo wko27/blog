@@ -27,7 +27,26 @@ YESTERDAY:
 * got to sleep a bit early
 
 TODAY:
-* 
+* head to work
+* productive day
+* egg drop soup for lunch
+  * wrong choice q.q
+  * pork pozole looked way better
+* one nap
+* pick up Sunjay and family from airport
+  * dropped off in Palo Alto
+* head home for a nap
+* finish a few meetings
+* head to workout
+  * Simren was a few mins late for class
+  * instructor didn't have time to prep her
+  * good workout though, lots of inner thighs
+* head home
+  * Jackie made me leftovers!
+* made a smoothie to finish off the milk
+  * added some rather old ice cream to get more liquid
+* two episodes of Ponies with Thorvald
+* finished a novel about a sorceress
 
 LEARNINGS:
-* 
+* haven't worked from home in ages
