@@ -33,6 +33,8 @@ TODAY:
 * morning shower
   * got way too sweaty with the blinds open in the morning
 * head to dim sum lunch in Causeway Bay
+  * xpeng van was super decked out with features
+  * automatic parking via touchscreen selection was impressive
   * Amy and my Dad came too!
   * HK Jockey Club
   * caught up with a few of Jackie's cousins
