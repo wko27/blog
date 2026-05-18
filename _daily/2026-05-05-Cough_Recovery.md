@@ -38,6 +38,7 @@ TODAY:
   * reordered it on doordash
   * then five minutes later, she shows up and apologizes
   * ended up with 2 of the same order, plus $10 credit from doordash ...
+* Kat randomly stopped by to deliver some homemade congee <3
 * tried a salt water gargle
   * actually cleared some nasty stuff from my sinuses
   * didn't unplug my ear though
