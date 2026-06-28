@@ -27,9 +27,21 @@ YESTERDAY:
   * very difficult
 * had a kiwi
 * finished first season of Apothecary Diaries
+* set up a 24-hour oxtail sous vide
 
 TODAY:
-* 
+* head to work
+* forget what we had for lunch
+* head to solidcore class
+  * so much hamstring and inner thigh q.q
+* head home to sync with Thorvald
+  * Thorvald did not respond though!
+* Elle came over for dinner
+  * caught up with her on car woes and travel plans
+* Jackie used a rendang sauce for the oxtail meat
+  * Grandma's caretaker gave it to us a few years ago
+  * super tasty!!!
+* watched witch hat atelier
 
 LEARNINGS:
 * we somehow never took Brian to a Brazilian steakhouse in all these years!
