@@ -24,7 +24,18 @@ YESTERDAY:
 * Elle came back from visiting relatives after 1:30 am
 
 TODAY:
-* 
+* head to dim sum with EE and Auntie Pattie
+  * good to catch up with them :D
+* head home to nap
+* Auntie Elizabeth gave us a ride to Auntie Jeanne and Dominic's house
+  * helped set up for a July 4th bbq
+  * hilarious stories to share
+  * delicious kalbi and grilled chicken
+* went for a walk to a nearby park to watch fireworks
+  * pretty impressive display in San Ramon
+  * lots of kids and families
+  * lovely evening walk back
+* got back in evening
 
 LEARNINGS:
-* 
+* good to see retired folks enjoying life
