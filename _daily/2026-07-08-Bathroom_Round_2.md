@@ -32,7 +32,20 @@ YESTERDAY:
 * bit of work at home
 
 TODAY:
-* 
+* head to work
+* peppercorn steak for lunch
+* evening call went a little longer than usual
+* skipped yoga
+* met up with an architect for the project
+  * not super impressed since he got one of the local setback regulations wrong
+  * noticed that somebody left three bags of trash on our property
+* Jackie moved her crochet event to Wednesdays
+* checked out the sports center again
+  * a lot more folks around
+  * some odd Asian kids outside smoking though
+* got dinner at Panda Express
+* picked up in-n-out for Jackie
+* bit of work
 
 LEARNINGS:
-* 
+* people illegally dump trash in Mountain View???
