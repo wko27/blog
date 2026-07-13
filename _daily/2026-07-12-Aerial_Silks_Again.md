@@ -39,7 +39,25 @@ YESTERDAY:
 * got home by 1 am
 
 TODAY:
-* 
+* head to morning yoga
+  * ran into Gautam there
+  * workout acquaintance from Movement
+* lunch with my Dad
+  * tried out Super Bao
+  * three cup chicken had a lot of sesame oil
+* nap
+* head to dance practice
+  * came up with two viable options for a trick
+* macu tea!
+  * lady gave me too much boba
+* another nap
+* picked up dinner from Tommy Thai
+* head to Brian's
+* played a new character
+  * high complexity
+* allergies and asthma triggered a bit
+  * cats left Brian's place 3 weeks ago though!
+* had some delicious honeydew for dessert
 
 LEARNINGS:
-* 
+* cat dander can stick around for more than 3 weeks? :'(
