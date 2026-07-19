@@ -52,3 +52,4 @@ TODAY:
 
 LEARNINGS:
 * don't go to Ikea when they are closing
+* also apparently it's national dapper your data day
