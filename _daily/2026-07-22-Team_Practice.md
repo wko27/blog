@@ -12,6 +12,7 @@ YESTERDAY:
 * all four non-vegetarian lunch options had dairy today
   * chef asked them to make me special tacos
   * much appreciated!!
+* somehow my employee card fell out of the badge
 * two naps
 * head home
 * pick up Jackie
