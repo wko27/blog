@@ -47,7 +47,25 @@ YESTERDAY:
 * got home around midnight
 
 TODAY:
-* 
+* had a call with Sara in the morning
+  * sync'd on resume
+* Jackie took me to Max Noodle House for wonton mein!
+  * very tasty, but not that many wontons
+  * kind of expensive too
+* drop by Costco
+  * Andrew took a nap
+* head back to Jackie's dad's place
+  * Jackie took a nap
+* went to yoga class
+  * helpful teacher got me a free week of classes!
+  * instructor was actually pretty decent
+* picked up a boba and a massive mango smoothie
+* head home
+* hot pot with Jackie's parents
+  * pretty fancy beef!
+* dropped off rental car back at YVR
+  * pick up from Jason
+  * dropped by McDonald's apparently while I was sleeping
 
 LEARNINGS:
-* 
+* decent yoga instructors in Vancouver
