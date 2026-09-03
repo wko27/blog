@@ -22,6 +22,8 @@ TODAY:
   * not too out of shape
   * or maybe she went easy on me ...
 * head to work for a quick shower
+  * realized the shirt I brought to work smells kinda funky
+  * luckily we have some handy shirts lying around in the office
 * productive morning
 * pork cutlet for lunch
   * amazing and delicious
@@ -36,6 +38,7 @@ TODAY:
   * sold out of A2 milk!
 * washed some strawberries for dessert
 * catch up on mail
+* ordered some fancy blinds
 
 LEARNINGS:
 * good to be back!
