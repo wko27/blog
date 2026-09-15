@@ -23,6 +23,7 @@ YESTERDAY:
   * smoked pork is still amazing
 * drop off at airport
 * head back home
+* hang up some signs to notify neighbors about water shut off
 * Jackie made a cake at home!
 
 TODAY:
