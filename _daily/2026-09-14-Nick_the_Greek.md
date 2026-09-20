@@ -42,6 +42,7 @@ TODAY:
   * glad to see some new construction
 * head home
 * watched another episode of the Aeternaut with Jackie and Thorvald
+  * apparently we haven't finished this yet!
 * bit of work
 
 LEARNINGS:
