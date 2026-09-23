@@ -41,4 +41,4 @@ TODAY:
 * decided to skip laundry to next week
 
 LEARNINGS:
-* need to buy more coat throat
+* need to buy more throat coat
