@@ -37,7 +37,21 @@ YESTERDAY:
 * passed out again from the oxtail xD
 
 TODAY:
-* 
+* head to climbing in the morning with Knut
+  * Jackie slept in instead
+  * definitely need to get back into this ...
+* lunch with Knut and Jackie
+  * Knut put it on his company's bill
+* dropped off Knut so he could get to airport!
+* quick nap
+* head to Santa Clara Art & Wine Festival
+  * fun performances by the teams
+  * got Sam to join in for a bit of salsa dancing
+* head straight to Ngoc's social
+  * helped out a bit following for the class
+* fun dancing with folks
+* late night dinner with Christine and Shubham at Top Cafe
+* missed a meeting with Brian :(
 
 LEARNINGS:
 * hard to find a decent pair of white pants!
