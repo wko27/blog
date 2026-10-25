@@ -31,7 +31,15 @@ YESTERDAY:
 * late night work
 
 TODAY:
-* 
+* head to work
+* shrimp pad thai for lunch
+  * low on protein
+* busy day
+* head to dance practice
+  * productive!
+* head home to make dinner
+  * noodles and shrimp and scallops
+* Jackie watched the fantastic 4 movie
 
 LEARNINGS:
-* 
+* need to finish voting for the ballot measures!
