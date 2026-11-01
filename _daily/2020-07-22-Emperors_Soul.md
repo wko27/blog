@@ -1,7 +1,7 @@
 ---
 layout: post
 unique_id: emperor's_soul
-title: Emperor's SOul
+title: Emperor's Soul
 categories: []
 locations: 
 ---
