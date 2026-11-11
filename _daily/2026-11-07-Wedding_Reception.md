@@ -9,8 +9,9 @@ locations:
 YESTERDAY:
 * rest of the folks went to brunch place
 * met up with them at a swimwear store
-* 
-* head to the beach to meet up with
+* head to the beach to meet up the wedding party
+  * ended up at the wrong beach
+  * eventually found the right one :D
 * dinner at a vegan restaurant called 100% HP
   * Mark joined us
   * haven't had loaded fries in a while
