@@ -32,6 +32,30 @@ YESTERDAY:
 
 TODAY:
 * drop off Kat and Vikas at airport around 4 am
+* got a bit of sleep
+* packed up and double checked the AirBnB
+* head to airport
+* realized we forgot to fill up on gas
+* head to Costco
+  * awful idea, took us an hour to get there and back
+* ran into Luis, Lina, and the kids in the airport
+* had lunch at a little restaurant
+  * Mark dropped by to join us
+* took first flight to Denver
+  * slept on the plane
+  * watched a pretty awful animated movie
+  * watched part of a fun one called Nobody (2025)
+* arrived in Denver
+  * no place to use Priority Pass :(
+  * walked past the old Mercantile restaurant
+  * got a breakfast muffin
+* flight to San Jose was on time!
+* finished the movie
+* no issues getting checked baggage
+* got picked up by Dad
+* late night dumplings for dinner
+* got to sleep by 1 am
+  * 5 am in Puerto Rico time
 
 LEARNINGS:
 * apparently all beaches are required to be public in Puerto Rico
